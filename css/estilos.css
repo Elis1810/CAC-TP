@@ -141,6 +141,16 @@ h1 {
   #logo {
     display: none;
   }
+  
+  main .container {
+    max-width: 850%; /*Ancho máximo deseado*/    
+  }
+  
+  .carousel-item {
+    max-width: 100%; /*ocupa todo el ancho diponible del contenedor*/
+    height: auto; /* Altura deseada */    
+  }
+  
  
 } /*para cel*/
 
