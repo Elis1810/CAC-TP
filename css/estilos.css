@@ -1,91 +1,68 @@
-*{
-    padding: 0;
-    margin: 0;    
-  }
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;  
+  margin-top: 60px;
+}
 
 header {    
-    position: relative; /* Asegura que los elementos internos respeten el flujo del documento */
-    z-index: 1000; /* Asegura que la barra de navegación esté por encima de otros elementos */
+  position: relative; /* Asegura que los elementos internos respeten el flujo del documento */  
 }
 
 main {
-  margin-top: 60px; /* Ajusta el margen superior para dejar espacio para la barra de navegación */ 
-  display: flex;    
-}
-
+margin-top: 60px; /* Ajusta el margen superior para dejar espacio para la barra de navegación */ 
+display: flex;    
+}  
 
 /*inicio encabezado H1*/
 #encabezado{   
-   background-image: url(../img/handmade-knitted-three-pink-hearts-with-ball-yarn-top-view.jpg);
-   background-position: center;
-   max-width: 100%;
-   background-size: cover; /*cover ajusta la imagen segun el ancho y alto del contenedor*/   
-   padding: 100px;
-   font-size: 50px;
-   font: bold 18px; 
-   color: rgb(0, 0, 0); 
-   text-decoration: none;
-   font-family: Montserrat;        
-  }
+  background-image: url(../img/handmade-knitted-three-pink-hearts-with-ball-yarn-top-view.jpg);
+  background-position: center;
+  max-width: 100%;
+  background-size: cover; /*cover ajusta la imagen segun el ancho y alto del contenedor*/   
+  padding: 100px;
+  font-size: 50px;
+  font: bold 18px; 
+  color: rgb(0, 0, 0); 
+  text-decoration: none;
+  font-family: Montserrat;   
+  margin-top: 70px;     
+  height: 300px;
+ }
 h1 {  
-  text-align: center;
-  justify-content: center;
+ text-align: center;
+ justify-content: center;
 }
-/*Fin encabezado*/
 
-/* inicio del nav*/
-#menuprincipal {
+.navbar {  
   display: flex;  
-  width: 100%; /*ancho del nav si lo ponemos en % el navegador lo calcula en pixeles automaticamente*/ 
-  height: 70px; /*altura*/    
-  background-color: rgb(239, 215, 218);
-  border-top: 1px solid rgb(15, 9, 9);
-  border-bottom: 1px solid rgb(15, 9, 9);   
-  padding: 0% 2%; /* 0% de alto y bajo, 2% a los costados*/
-  align-items: baseline; /*muestra los elementos en la linea del contenedor*/
-  position: fixed; /*con esta propiedad mi nav siempre es visible aunque bajemos hasta el final de la pagina*/  
-  margin-bottom: 20px;
+  width: 100%;
+  justify-content: space-between; /*Muestra elementos con la misma distancia entre ellos.*/
+  align-items: center; 
+  background-color: #333;
+  padding: 10px 10px; /*(top, right, buttom, left)*/     
+}
+.nav-position {
+  position: fixed;  
+  width: 100%;  
+  z-index: 1000; /* Asegura que esté por encima de otros elementos */ ;  
+  top: 0;
+  left: 0;    
 }
 
-#menuprincipal > div { /*> para referenciar un elemento que es hijo directo de otro elemento*/
-  max-width: 100%;  
-  /*flex: 1;   */
+.logo a {  
+  color: #e0c5c5;
+  text-decoration: none; /*le queita la linea decoradora a los links*/
+  font-size: 24px;
+  margin-left: 10px;  
 }
 
-#menuprincipal ul { 
-  text-align: center;    
-}
-
-#menuprincipal li {
-  display: inline-block; /*alinea los elementos*/  
-  margin-top: 20px; /* relleno respecto del menu proncipal div*/
-  padding-left: 75px;
-  padding-right: 70px;        
-}
-
-#menuprincipal li a:hover {   
-  background-color: #eecdd1;  
-  padding: 20px 0px 18px 0px; /*(top right button left)*/  
- }
-
- #menuprincipal a {  
-  cursor: pointer;  /*curso en forma de manito*/
-  text-decoration: none; /*le saco el interlineado a las plantillas*/
-  font-family: Montserrat;
-  color: black;
-  font-size: 22px;      
- } 
-  /*fin del nav*/
-
-/*inicio logo cac*/
- #logo {
-  text-align: center;  
-  width: 10%;  
-  padding: 5px 2% 0px 1%; 
- }
-
- #logo:hover {
-  animation: tilt-n-move-shaking 0.55s infinite;    
+.logo:hover {
+  animation: tilt-n-move-shaking 0.55s infinite;
+  color: #f1e9e9;    
  } 
 
  @keyframes tilt-n-move-shaking {
@@ -95,145 +72,217 @@ h1 {
   75% {transform: translate(-5px, 5px) rotate(-5deg);}
   100% {transform: translate(0, 0) rotate(0deg);}  
  }
-  /*fin logo cac*/
 
-/*inicio icono menu*/
-#icono-menu {
-  display: none; 
-  width: 95%; 
-  height: 40px; 
-  padding: 1% 50%; /*(top, right, botton, left)*/
-  background-color: #edbeee; 
-  border-top: 1px solid #094660; 
-  border-bottom: 1px solid #094660;
+.nav-links {
+  display: flex;
+  list-style-type: none; /*se utiliza para especificar el tipo de viñeta o numeración que se muestra en elementos de lista*/     
 }
-/*fin icono menu*/
+
+.nav-links li {
+  margin-right: 20px;  
+  padding-top: 10px;
+}
+
+.nav-links a {
+  color: #fff;
+  text-decoration: none; 
+  font-size: 20px;  
+}
+
+.nav-links a:hover {
+  text-decoration: none;
+  padding: 5px 0px 22px 0px;  
+  background-color: #fff;  
+}
+
+.burger {
+  margin-right: -255px; /*para que no se vea mi icuno menu desplegable en pantalla tamño compu*/
+  display: none;
+  flex-direction: column;
+  cursor: pointer;   
+}
+
+.line1, .line2, .line3 {
+  width: 25px;
+  height: 3px;  
+  margin: 3px;
+  background-color: #f7efef;
+  transition: transform 0.4s ease-in-out;
+}
 
 /*inicio carrousel */
 .container {
   max-width: 60%; /*Ancho máximo deseado*/  
   /*display: flex;*/ /*este flex no va a aca o descuadra las img del carrousel*/  
+  margin-bottom: 30px;
+  margin-top: 70px;
+  border: 5px solid; /*este borde es temporal, es solo para ver el espacio que ocupa el carrucel*/
 }
 .carousel-item {
   max-width: 100%; /*ocupa todo el ancho diponible del contenedor*/
-  height: 350px; /* Altura deseada */
+  height: 450px; /* Altura deseada */
   margin-top: 30px; /*para separar la barra espaciadora del carroucel*/
+  margin-bottom: 30px;  
+  object-fit: cover;
 }
 .carousel-item img {
-  max-width: 100%; /* La imagen no será más ancha que el contenedor */
-  max-height: 400px; /* Altura máxima deseada para las imágenes */
-  width: auto; /* Ajustar el ancho de la imagen automáticamente */
-  height: auto; /* Ajustar la altura de la imagen automáticamente */
+  max-width: 100%; /* La imagen no será más ancha que el contenedor */    
+  width: 100%; /* Ajustar el ancho de la imagen automáticamente */
+  height: 450px; /* Ajustar la altura de la imagen automáticamente */
   margin: 0 auto; /* Centrar la imagen dentro del carrusel */
-}
+  object-fit: cover;
+  background-position: center;
+ }
+ 
 /*fin carroucel*/
 
-@media (max-width: 1200px) { 
+h3 {
+  font-size: 50px;
+  font: bold 18px; 
+  color: rgb(0, 0, 0); 
+  text-decoration: none;
+  font-family: Montserrat;
+  text-align: center;
 
-  }
- /*para pc*/
+}
 
-@media (max-width: 820px){
+h3 > p {
+  font-size: 20px;   
+  color: rgb(0, 0, 0); 
+  text-decoration: none;
+  font-family: Montserrat;
+  text-align: center;
+}
+
+/*cajas de imagenes*/
+#cajapadre { 
+  display: flex; 
+  width: 85%; 
+  border: 5px solid;
+  margin-left: 8%;
+ } 
+
+ #cajapadre > div {   
+  height: 300px; 
+  margin: 15px 10px 15px 10px;   
+ } 
+ #caja-1 { 
+  flex: 1; 
+  background-image: url(../img/abeja.jpg) ;
+  background-position: center;
+  background-size: cover; /*ajusta la imagen a su contenedor*/
+ } 
+ #caja-2 { 
+  flex: 1; 
+  background-image: url(../img/zorro.jpg) ;
+  background-size: cover;
+  background-position: center;
+ } 
+ #caja-3 { 
+  flex: 1;
+  background-image: url(../img/ositos.jpg) ; 
+  background-size: cover;
+  background-position: center;
+ } 
+ #caja-4 { 
+  flex: 1; 
+  background-image: url(../img/jirafa.jpg) ;
+  background-size: cover;
+  background-position: center;
+ }
+/*fin imagenes*/
+
+@media screen and (max-width: 768px) {
+
+} /*pantallas grandes */
   
-@media (max-width: 400px){
-  #encabezado {
-    text-align: center;   
-    font-size: 50px; 
-    padding: 10% 5%;
-    background-image: none;
-    background-color: #eecdd1;       
-  }
-  #menuprincipal {
-    display: flex;  
-    width: 100%; /*ancho del nav si lo ponemos en % el navegador lo calcula en pixeles automaticamente*/ 
-    height: 260px; /*altura*/   
-    position: absolute;
-    margin-bottom: 30px;    ;
-  }
-  #menuprincipal li {
-    display: inline-block; /*alinea los elementos*/  
-    margin-top: 20px; /* relleno respecto del menu proncipal div*/
-           
-  }
 
-  #logo {
+@media screen and (max-width: 576px) { 
+  .col {
+    width: 100%;
+    } 
+  
+  .logo{
     display: none;
+  } 
+
+  .nav-links {
+      display: none;
+      flex-direction: column;
+      width: 100%;
+      position: absolute;
+      top: 70px;
+      left: 0;
+      background-color: #333;
+      padding: 10px 20px;
+      z-index: 1000; /* Asegura que la barra nav esté por encima de otros elementos */
+    }
+    /* Estilos adicionales para mostrar los enlaces */
+    .nav-links.show {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centra los enlaces verticalmente */
+    }
+    .nav-links li {
+      margin-right: 0;
+      margin-bottom: 10px;
+    }
+    .nav-links a:hover {
+      text-decoration: none;
+      padding: 0%;
+    }  
+    .burger {
+      display: flex;
+      margin: 5px;            
+    }
+  
+    .change .line1 {
+      transform: rotate(-45deg) translate(-5px, 6px);
+    }
+  
+    .change .line2 {
+      opacity: 0;
+    }
+  
+    .change .line3 {
+      transform: rotate(45deg) translate(-5px, -6px);
+    }  
+
+  .container {
+    max-width: 80%;       
+  }  
+  
+  .carousel-item img {
+    object-fit: cover;
   }
 
-  #menuprincipal a { 
-    font-size: 18px;      
+  #cajapadre {  
+    width: 80%; 
+    height: 900px;       
+    flex-direction: column;
    } 
 
-  main {
-    margin-top: 250px; 
-    display: flex;  
-    flex-direction: column
+   #cajapadre > div {  
+    width: 90%; 
+    height: 1200px; 
+    margin: 15px 10px 15px 10px;   
+    flex-direction: column;
+   }  
+}/*pantallas pequeñas */
+
+@media screen and (min-width: 576px) and (max-width: 768px) {
+  .col {
+    width: 50%;
   }
 
-  main .container {
-    max-width: 850%; /*Ancho máximo deseado*/      
+  .container {
+    max-width: 70%;       
+  }    
+  .carousel-item img {
+    object-fit: cover;
   }
-  .carousel-item {
-    max-width: 100%; /*ocupa todo el ancho diponible del contenedor*/
-    height: auto; /* Altura deseada */    
-  }   
-} /*para cel*/
+}  /*pantallas medianas*/
 
 
-/*[class*="col-"] { /* a todas las clases que comiencen con col-
-    width: 100%;
-}*/
 
-/*[class*="col-s"] {
-  width: 100%
-}*/
-
-/*[class*="col-xs"] {
-  width: 100%;
-}*/
-
-/*@media only screen and (min-width: 600px) {/* >=600px para table
-  .col-s-1 {width: 8.33%;}
-  .col-s-2 {width: 16.66%;}
-  .col-s-3 {width: 25%;}  
-  .col-s-4 {width: 33.33%;}
-  .col-s-5 {width: 41.66%;}
-  .col-s-6 {width: 50%;}
-  .col-s-7 {width: 58.33;}
-  .col-s-8 {width: 66.66;}
-  .col-s-9 {width: 75%;}
-  .col-s-10 {width: 83.33%;}
-  .col-s-11 {width: 91.66%;}
-  .col-s-12 {width: 100%;}
-}*/
-
-/*@media only screen and (min-width: 768px) {/* >=768px para computadora
-  .col-s-1 {width: 8.33%;}
-  .col-s-2 {width: 16.66%;}
-  .col-s-3 {width: 25%;}  
-  .col-s-4 {width: 33.33%;}
-  .col-s-5 {width: 41.66%;}
-  .col-s-6 {width: 50%;}
-  .col-s-7 {width: 58.33;}
-  .col-s-8 {width: 66.66;}
-  .col-s-9 {width: 75%;}
-  .col-s-10 {width: 83.33%;}
-  .col-s-11 {width: 91.66%;}
-  .col-s-12 {width: 100%;}
-}*/
-
-/*@media only screen and (min-width: 400px) {/* >=400px para celular
-  .col-s-1 {width: 8.33%;}
-  .col-s-2 {width: 16.66%;}
-  .col-s-3 {width: 25%;}  
-  .col-s-4 {width: 33.33%;}
-  .col-s-5 {width: 41.66%;}
-  .col-s-6 {width: 50%;}
-  .col-s-7 {width: 58.33;}
-  .col-s-8 {width: 66.66;}
-  .col-s-9 {width: 75%;}
-  .col-s-10 {width: 83.33%;}
-  .col-s-11 {width: 91.66%;}
-  .col-s-12 {width: 100%;}
-}*/
 

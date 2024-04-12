@@ -16,27 +16,35 @@
 </head>
 <body>
     <header>
-        <h1 id="encabezado">
-            <p>Amigumis</p>
-        </h1>
-        <nav id="icono-menu">
-            <img src="./img/menu.png" width="35" height="28" id="menu-img" alt="menu">
-        </nav>
-        <nav id="menuprincipal">
-            <div id="logo">
-                <a>CaC</a>
-            </div>            
-            <div id="barra-nav">
-                <ul>
-                    <li><a href="index.html">Inicio</a></li>
-                    <li><a href="productos.html">Productos</a></li>
-                    <li><a href="pedidos.html">Pedidos</a></li>
-                    <li><a href="metodosdepagos.html">Métodos de Pagos</a></li>
-                    <li><a href="envios.html">Envíos</a></li>
-                </ul>
-            </div>            
-        </nav>                    
-    </header>
+        <div>
+            <h1 id="encabezado">
+                <p>Amigumis</p>
+            </h1>
+        </div>       
+        </div>
+        <div>            
+            <nav class="navbar">
+                <div class="logo">
+                    <a>CaC</a>
+                </div>            
+                <div>
+                    <ul class="nav-links">                        
+                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="productos.html">Productos</a></li>
+                        <li><a href="pedidos.html">Pedidos</a></li>
+                        <li><a href="metodosdepagos.html">Métodos de Pagos</a></li>
+                        <li><a href="envios.html">Envíos</a></li>
+                    </ul>
+                    <div class="burger" onclick="toggleMenu()">
+                      <div class="line1"></div>
+                      <div class="line2"></div>
+                      <div class="line3"></div>
+                    </div>
+                </div> 
+            </nav>    
+        </div>           
+                           
+      </header>
     <main>    
         
         
@@ -53,7 +61,9 @@
 
     </footer>
     
-<script src="./js/java.js"></script>
-<script src=""></script>  
+    <script src="./js/java.js"></script>   
+    <script src="js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
