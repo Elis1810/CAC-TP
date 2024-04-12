@@ -91,7 +91,8 @@ h1 {
 
 .nav-links a:hover {
   text-decoration: none;
-  padding: 5px 0px 22px 0px;  
+  padding: 15px 1px 22px 1px;  
+  color: black;
   background-color: #fff;  
 }
 
@@ -192,6 +193,16 @@ h3 > p {
  }
 /*fin imagenes*/
 
+/*pedidos*/
+.formulario {
+  background-image: url(../img/ice-cream-7123584_640.jpg);
+  background-position: center;  
+  margin-left: 500px;
+  background-size: cover; /*cover ajusta la imagen segun el ancho y alto del contenedor*/   
+  padding: 80px;   
+  opacity: 0.7;
+}
+
 @media screen and (max-width: 768px) {
 
 } /*pantallas grandes */
@@ -201,6 +212,17 @@ h3 > p {
   .col {
     width: 100%;
     } 
+
+    #encabezado{      
+      max-width: 100%;        
+      padding: 100px;
+      font-size: 40px;
+      font: bold 20px; 
+      color: rgb(0, 0, 0);       
+      font-family: Montserrat;   
+      margin-top: 70px;     
+      height: 300px;
+     }
   
   .logo{
     display: none;
@@ -268,6 +290,13 @@ h3 > p {
     margin: 15px 10px 15px 10px;   
     flex-direction: column;
    }  
+   
+   .formulario {
+    width: 85%;
+    margin-left: 20px;
+    height: 800px;      
+   }
+
 }/*pantallas pequeñas */
 
 @media screen and (min-width: 576px) and (max-width: 768px) {

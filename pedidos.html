@@ -15,14 +15,8 @@
     <link rel="stylesheet" href="./js/java.js">   
 </head>
 <body>
-    <header>
-        <div>
-            <h1 id="encabezado">
-                <p>Amigumis</p>
-            </h1>
-        </div>       
-        </div>
-        <div>            
+    <header>               
+        <div class="nav-position">                  
             <nav class="navbar">
                 <div class="logo">
                     <a>CaC</a>
@@ -42,18 +36,63 @@
                     </div>
                 </div> 
             </nav>    
-        </div>           
+        </div>   
+        <div>
+          <h1 id="encabezado">
+              <p>Amigumis</p>
+          </h1>
+      </div>             
                            
       </header>
     <main>      
-              
-        <section>
-
-        </section>
-
-        <aside>
-
-        </aside>
+        <div>
+            <form class="formulario">
+                <div>
+                    <div>
+                        <input type="text" class="form-control" placeholder="Nombre" aria-label="Nombre">
+                    </div>
+                </div>
+                <br>
+                <div>
+                    <input type="text" class="form-control" placeholder="Apellido" aria-label="Apellido">
+                </div>            
+                <br>
+                <div>
+                    <div>
+                        <input type="text" class="form-control" placeholder="Nombre Amigurumi" aria-label="Nombre">
+                    </div>
+                    <br>
+                    <div>
+                      <select class="form-select" aria-label="Default select example">
+                        <option selected>Selecciona</option>
+                        <option value="1">Muñecas</option>
+                        <option value="2">Dinosaurios</option>
+                        <option value="2">Animales</option>
+                        <option value="2">Superheroes</option>         
+                      </select>
+                    </div>
+                  </div>        
+                  <br>
+                  <div class="form-floating">
+                      <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
+                      <label for="floatingTextarea2">Comentarios</label>
+                  </div>
+                  <br />
+                    <div class="mb-3">            
+                      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="telefóno celular">            
+                    </div>
+                    <div class="mb-3">          
+                      <label for="exampleInputEmail1" class="form-label"></label>
+                      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="correo electronico">
+                      <div id="emailHelp" class="form-text">Nunca compartiremos su correo electrónico con nadie más.</div>
+                    </div> 
+                    <br />
+                    <input class="btn btn-primary" type="Enviar" value="Enviar">
+                    <input class="btn btn-primary" type="Resetear" value="Borrar">
+                </form>
+            </div>  
+        </div> 
+             
 
     </main>
     <footer>
