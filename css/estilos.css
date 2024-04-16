@@ -312,6 +312,20 @@ h3 > p {
   }
 }  /*pantallas medianas*/
 
+#sucursalesgrid > li {
+  font-size: 30px;
+  margin-left: 2cm;
+} /*sin margin se cortaba el inicio de la lista no se muy bien porque */
 
+#sucursalesgrid > ul {
+  margin-left: 2cm;
+} /* para mantener el tab en la lista*/
+
+#mapasucursales {
+  background-color: antiquewhite;
+  margin: 5px;
+  padding: 10px;
+  animation-duration: 5s;
+}
 
 
