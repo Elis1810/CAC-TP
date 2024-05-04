@@ -148,7 +148,7 @@ h3 > p {
 #cajapadre { 
   display: flex; 
   width: 85%; 
-  border: 5px solid;
+  /*border: 5px solid;*/
   margin-left: 8%;
 }
  #cajapadre > div {   
@@ -160,23 +160,27 @@ h3 > p {
   background-image: url(../img/abeja.jpg) ;
   background-position: center;
   background-size: cover; /*ajusta la imagen a su contenedor*/
+  border: 3px solid;
  } 
  #caja-2 { 
   flex: 1; 
   background-image: url(../img/zorro.jpg) ;
   background-size: cover;
   background-position: center;
+  border: 3px solid;
  } 
  #caja-3 { 
   flex: 1;
   background-image: url(../img/ositos.jpg) ; 
   background-size: cover;
   background-position: center;
+  border: 3px solid;
  } 
  #caja-4 { 
   flex: 1; 
   background-image: url(../img/jirafa.jpg) ;
   background-size: cover;
+  border: 3px solid;
   background-position: center;
  }
 /*fin imagenes*/
@@ -238,6 +242,7 @@ h3 > p {
   max-width: 100%;  
   display: flex;
   justify-content: space-between;/* Distribuye el espacio entre columnas */
+  
 }
 #columnaIzq{  
   float: left;
@@ -256,7 +261,7 @@ h3 > p {
   gap: 5px;
 }
 .tarjetas{
-  border-style: double;
+  /*border-style: double;*/
   justify-content: space-evenly;
   align-items: center;
   margin-bottom: 10px;  
