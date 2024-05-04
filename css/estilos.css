@@ -186,7 +186,7 @@ h3 > p {
 /*fin imagenes*/
 
 /*index caja de texto*/
-.contenedor{
+.contenedor1{
   display: flex;
   background-color: pink;
   width: 100%;   
@@ -459,6 +459,8 @@ h3 > p {
     object-fit: cover;    
   }
 }  /*pantallas medianas*/
+
+
 /*incio contactanos*/
 #sucursalesgrid > li {
   font-size: 30px;
@@ -502,10 +504,8 @@ width: 45%;
 
 }
 
-.contenedor{
-  img{
-
-  }
+.contenedor {
+  img:  
 }
 #mapasucursales div{
   margin-right: 10px;
@@ -567,7 +567,7 @@ container-type: inline-size;
 
 }
 .pantalla5051{
-flex 0 0 45%;
+flex: 0 0 45%;
 position: relative;
 background-color: blueviolet;
   /*
