@@ -530,10 +530,9 @@ container-type: inline-size;
   max-width: 45%;
 
 */}
-.pantalla5050 p{
 
 .pantalla5051{
-flex 0 0 45%;
+flex: 0 0 45%;
 position: relative;
 background-color: blueviolet;
   /*
