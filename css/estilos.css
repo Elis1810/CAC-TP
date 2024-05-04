@@ -474,39 +474,6 @@ h3 > p {
   /*background-color: antiquewhite;*/
 }
 
-
-.contenedor{
-  position: relative;
-  right: 0;
-/*  background-color: blueviolet;*/
-  width: 45%;
-  display: inline-flex;
-  margin: 2%
-}
-.contenedor{
-  right: 0;
-/*background-image: url(https://cdn-icons-png.flaticon.com/512/1/1133.png);
-*/background-attachment: fixed;
-background-repeat: no-repeat;
-background-size: cover;
-background-position: right;
-width: 45%;
-    display: inline-block;
-  margin: 2%
-}
-.contenedor p {
-  font-size: 20px;   
-  color: rgb(0, 0, 0); 
-  text-decoration: none;
-  font-family: Montserrat;
-
-}
-
-.contenedor{
-  img{
-
-  }
-}
 #mapasucursales div{
   margin-right: 10px;
   background-size: cover
@@ -565,7 +532,6 @@ container-type: inline-size;
 */}
 .pantalla5050 p{
 
-}
 .pantalla5051{
 flex 0 0 45%;
 position: relative;
