@@ -49,7 +49,6 @@ let nav = `
 document.querySelector("header").innerHTML = nav;
 
 
-
 let imagenes = [
   "img/amigurumis/51b25683-7dca-46c1-bb28-38c3857c0d82.jpeg", 
   "img/amigurumis/zorro.jpg",
@@ -79,13 +78,9 @@ let imagenes = [
 
 // Datos adicionales para cada imagen (nombre y precio)
 let datosImagenes = [  
-  { "id": 1,
-    "nombre": "Girafa Tierna",
-    "precio": "$4500",
-    "img":"img/amigurumis/51b25683-7dca-46c1-bb28-38c3857c0d82.jpeg",
-  },
-  { nombre: "Zorro", precio: "$4500" }, 
-  { nombre: "Elefante", precio: "$6000"},
+  { id: 1, nombre: "Girafa Tierna", precio: "$4500"},
+  { id: 2, nombre: "Zorro",         precio: "$4500"}, 
+  { id: 3, nombre: "Elefante",      precio: "$6000"},
   { nombre: "Ratoncito", precio: "$3000"},
   { nombre: "Canario", precio: "$3000"},
   { nombre: "Gato con Sombrero", precio: "$4800"},
@@ -125,5 +120,6 @@ function generarTarjetas() {
   }
   return cad;
 }
+
 document.getElementById("columnaCentral").innerHTML = generarTarjetas();
 
