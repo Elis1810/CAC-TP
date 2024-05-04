@@ -111,7 +111,7 @@ h2 {
   /*display: flex;*/ /*este flex no va a aca o descuadra las img del carrousel*/  
   margin-bottom: 30px;
   margin-top: 70px;
-  border: 5px solid; /*este borde es temporal, es solo para ver el espacio que ocupa el carrucel*/
+  /*border: 5px solid; *//*este borde es temporal, es solo para ver el espacio que ocupa el carrucel*/
 }
 .carousel-item {
   max-width: 100%; /*ocupa todo el ancho diponible del contenedor*/
