@@ -469,15 +469,151 @@ h3 > p {
   margin-left: 2cm;
 } /* para mantener el tab en la lista*/
 
-#mapasucursales {
-  background-color: antiquewhite;
-  margin: 5px;
-  padding: 10px;
-  animation-duration: 5s;
+#mapasucursales > div{
+  display:inline-block;
+  /*background-color: antiquewhite;*/
+}
+
+
+.contenedor{
+  position: relative;
+  right: 0;
+/*  background-color: blueviolet;*/
+  width: 45%;
+  display: inline-flex;
+  margin: 2%
+}
+.contenedor{
+  right: 0;
+/*background-image: url(https://cdn-icons-png.flaticon.com/512/1/1133.png);
+*/background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: right;
+width: 45%;
+    display: inline-block;
+  margin: 2%
+}
+.contenedor p {
+  font-size: 20px;   
+  color: rgb(0, 0, 0); 
+  text-decoration: none;
+  font-family: Montserrat;
+
+}
+
+.contenedor{
+  img{
+
+  }
+}
+#mapasucursales div{
+  margin-right: 10px;
+  background-size: cover
+}
+/*
+#mapasucursales > iframe{
+animation-delay: 5s;
+  display:inline-flex; 
+
+}
+.m1 style{
+  transition-duration: 5s;
+  transform: translate(1000px,30px);
+  visibility: visible; 
+background-color: red;
+display: inline-block;
+}
+*/
+
+#div1cont > p{
+  font-size: 20px;   
+  color: rgb(0, 0, 0); 
+  text-decoration: none;
+  font-family: Montserrat;
+
+}
+
+#div1cont{
+display: flex;
+flex-flow: row wrap;
+justify-content: space-between;
+/*
+grid-template-columns: 50% 50%;
+grid-template-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+background-color: aquamarine;
+*/  
+}
+.pantalla5050{
+  margin-left: 2%;
+  flex: 0 0 45%;
+  position: relative;
+  background-color: blue;
+/*
+  grid-row-start: 1;
+grid-row-end: 5;
+grid-column-start: 1;
+grid-column-end: 2;
+
+
+margin: 2%;
+height: min-content;
+container-type: inline-size;
+ /* display: inline-flex;
+  max-width: 45%;
+
+*/}
+.pantalla5050 p{
+
+}
+.pantalla5051{
+flex 0 0 45%;
+position: relative;
+background-color: blueviolet;
+  /*
+  grid-row-start: 1;
+  grid-row-end: 5;
+  grid-column-start: 2;
+  grid-column-end:3;
+  margin: 2%;
+
+   /* display: inline-flex;
+    max-width: 45%;
+  
+  */}
+.pantalla5050 h3{
+  
+    text-align: center;
+}
+.pantalla100{
+flex: 0 0 100%;
+margin-top: 30px;
+margin-left: 1%;
+/*  align-self: stretch;
+  grid-row-start: 5;
+  grid-row-end: 11;
+  grid-column-start: 1;
+  grid-column-end:3;
+
+*/
+}
+.pantalla100 > div{
+  display: inline-block;
+  border-style: ridge;
+}
+#par{
+  padding-left: 1%;
+}
+#imp{
+  padding-right: 1%;
+}
+.pantalla5051 > form{
+  height: 70%;
+  max-width: 80%;
+  justify-content: center;
+  margin-left: 10%;
+  border: 5px;
+  border-style: dotted;
+  padding: 2% 2% 6% 2%;
 }
 /*fin de contactanos*/
-
-
-
-
-

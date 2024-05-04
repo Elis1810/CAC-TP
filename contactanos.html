@@ -4,93 +4,171 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tienda Amigurumis</title>    
+    <title>Tienda Amigurumis</title>
+    <link rel="stylesheet" href="./css/estilos.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bungee+Spice&family=Dancing+Script&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <link rel="stylesheet" href="./js/java.js">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 </head>
 
 <body>
-    <header>        
+    <header>
+        <div class="nav-position">
+            <nav class="navbar">
+                <div class="logo">
+                    <a>CaC</a>
+                </div>
+                <div>
+                    <ul class="nav-links">
+                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="productos.html">Productos</a></li>
+                        <li><a href="pedidos.html">Pedidos</a></li>
+                        <li><a href="metodosdepagos.html">Métodos de Pagos</a></li>
+                        <li><a href="envios.html">Envíos</a></li>
+                        <li><a href="contactanos.html">Contactanos</a></li>
+                    </ul>
+                    <div class="burger" onclick="toggleMenu()">
+                        <div class="line1"></div>
+                        <div class="line2"></div>
+                        <div class="line3"></div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <div>
+            <h1 id="encabezado">
+                <p>Amigumis</p>
+            </h1>
+        </div>
     </header>
     <main>
-        <h2>Sucursales</h2>
 
-        <br>
-<!--        <label for="sucursales" style=Sucursales y horarios</label>
-            
-    <select name="sucursales" id="sucursales">
-        <option value="1" name="CABA">Capital Federal</option>
-        <option value="2" name="ROS">Rosario</option>
-        <option value="3" name="MIS">Misiones</option>
-        <option value="4" name="BAR">Bariloche</option>
-        <option value="5" name="USU">Usuhaia</option>
-    </select>
--->
-            <p>Estamos expandiendonos por el pais, en este momento tenemos locales en 5 provincias. <br>No dudes en
-                contactarnos ya sea por telefono, en persona en la surcursal o por mail</p>
+        <body>
+            <h2 style="margin-left: 1%;">MAS SOBRE NOSOTROS</h2>
             <br>
-            <div>
-                <ul id="sucursalesgrid">
-                    <li>Capital Federal </li>
-                    <ul>Direccion: <a href="https://maps.app.goo.gl/qZqZnfg2VADXjUQRA">Av. S. Martín 2165</a></ul>
-                    <ul>Horario: Lunes a Viernes de 9 a 18, Sabados de 9 a 14, Domingos y feriados Cerrado</ul>
-                    <ul>Telefono: 4444-5555</ul>
-                    <li>Rosario </li>
-                    <ul>Direccion: <a href="https://maps.app.goo.gl/fpAT1SHSCHdxPbn7A">Mitre 1035</a></ul>
-                    <ul>Horario: Lunes a Viernes de 9 a 20, Sabados de 9 a 12 y de 15 a 21, Domingos de 9 a 12</ul>
-                    <ul>Telefono: (341) 485 - 2120</ul>
-                    <li>Misiones</li>
-                    <ul>Direccion: <a href="https://maps.app.goo.gl/fzzXz9JUuSWKYPmN8">Av. Victoria Aguirre, Puerto
-                            Iguazú </a></ul>
-                    <ul>Horario: Lunes a Viernes de 9 a 20, Sabados y domingos cerrado</ul>
-                    <ul>Telefono: (376) 444-7056/20/30</ul>
-                    <li>Bariloche</li>
-                    <ul>Direccion: <a href="https://maps.app.goo.gl/adZjPdddugcR5nHZ6">Ada María Elflein 340</a></ul>
-                    <ul>Horario: Lunes a Viernes de 9 a 12 y 15 a 21, sabados y domingos cerrado</ul>
-                    <ul>Telefono: (294) 443 - 5735</ul>
-                    <li>Ushuaia</li>
-                    <ul>Direccion: <a href="https://maps.app.goo.gl/PUqfX6GMkEqSscGW6">Av. San Martín, V9410</a></ul>
-                    <ul>Horario: Lunes a Viernes de 9 a 12 y 15 a 21, sabados y domingos cerrado</ul>
-                    <ul>Telefono: (+54 2901) 432000 / 432001 / 437666</ul>
-                </ul>
-                <br>
+            <div id="div1cont">
+                <div class="pantalla5050">
+                    <h3>Nuestros comienzos</h3>
 
-                <div id="mapasucursales">
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1641.993236593784!2d-58.458855165023!3d-34.60450355821359!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca03fd6bb8b7%3A0x17d8dbbce9227e16!2sPanaderia%20Olivero!5e0!3m2!1ses!2sar!4v1713021756339!5m2!1ses!2sar"
-                        width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe>
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6892.134139528765!2d-60.644279100648575!3d-32.95194770961296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b6539335d7d75b%3A0xec4086e90258a557!2sRosario%2C%20Santa%20Fe!5e0!3m2!1ses!2sar!4v1713021838798!5m2!1ses!2sar"
-                        width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe>
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6349.6020636041085!2d-54.5820670506925!3d-25.602698998940042!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f811245d4ce333%3A0xfb5d357febb15a1d!2sMisiones!5e0!3m2!1ses!2sar!4v1713021923451!5m2!1ses!2sar"
-                        width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe>
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3573.4410841996632!2d-71.30777350733631!3d-41.13683889843755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x961a7b1520c860e5%3A0x8210ae97cb7b9a65!2sSan%20Carlos%20de%20Bariloche%2C%20R%C3%ADo%20Negro!5e0!3m2!1ses!2sar!4v1713021982814!5m2!1ses!2sar"
-                        width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe>
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4918.991724803653!2d-68.32375974908061!3d-54.81136343487284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xbc4c22b5bad109bf%3A0x5498473dba43ebfc!2sUshuaia%2C%20Tierra%20del%20Fuego!5e0!3m2!1ses!2sar!4v1713022030241!5m2!1ses!2sar"
-                        width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <br>
+                    <p>Amigumis es una empresa familiar, comenzo en el 2015 con ventas online y hoy estamos orgullosos
+                        de no
+                        solo habernos expandido en la apertura de locales, sino tambien de tener sucursales en varias
+                        provincias. <br> <br>
+                        Según la tradición japonesa, los Amigurumis son más que “simples peluches” sino que persiguen
+                        alimentar
+                        el espíritu de niño que todos llevamos dentro, cada Amigurumi posee un alma, el cual nos
+                        acompañará y
+                        será nuestro amigo y confidente de por vida. Proporciona protección y consuelo.
+                        <br><br>
+                        Te invitamos a conocer nuestros locales y estar mas en contacto con tu niño interior. Estamos
+                        expandiendonos por el pais, en este momento tenemos locales en 4 provincias.
+                    </p>
                 </div>
-            </div>
-            <section>
+                <div class="pantalla5051">
+                    <h3>Contactanos</h3>
+                    <br>
+                    <h4>Dejanos tu mensaje y nos contactaremos con vos a la brevedad</h4>
+                    <br>
+                    <form>
+                        <div style="width: 50%;">
+                            <input size="10" type="email" class="form-control" id="exampleInputEmail1"
+                                aria-describedby="emailHelp" placeholder="telefóno celular">
+                        </div>
+                        <div class="mb-3" style="width: 75%;">
+                            <label for="exampleInputEmail1" class="form-label"></label>
+                            <input type="email" class="form-control" id="exampleInputEmail1"
+                                aria-describedby="emailHelp" placeholder="correo electronico">
+                            <div id="emailHelp" class="form-text">Nunca compartiremos su correo electrónico con nadie
+                                más.</div>
+                        </div>
+                        <span class="form-floating">
+                            <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2"
+                                style="height: 150px; width: 90%; margin-bottom: 15px;"></textarea>
+                            <label for="floatingTextarea2">Comentarios</label>
+                        </span>
+                        <input class="btn btn-primary" type="Enviar" value="Enviar" style="margin-left: 60%;">
+                    </form>
+                </div>
+                <br>
+                <div class="pantalla100">
+                    <h2>PODES ENCONTRARNOS EN</h2>
+                    <br>
+                    <ul id="sucursalesgrid">
+                        <li>Capital Federal </li>
+                        <ul>Direccion: <a href="https://maps.app.goo.gl/qZqZnfg2VADXjUQRA">Av. S. Martín 2165</a></ul>
+                        <ul>Horario: Lunes a Viernes de 9 a 18, Sabados de 9 a 14, Domingos y feriados Cerrado</ul>
+                        <ul>Telefono: 4444-5555</ul>
+                        <li>Rosario </li>
+                        <ul>Direccion: <a href="https://maps.app.goo.gl/2MCvHYDvfXnWqSDS6">Mitre 1021, S2000 COU</a>
+                        </ul>
+                        <ul>Horario: Lunes a Viernes de 9 a 20, Sabados de 9 a 12 y de 15 a 21, Domingos de 9 a 12</ul>
+                        <ul>Telefono: (341) 485 - 2120</ul>
+                        <li>Misiones</li>
+                        <ul>Direccion: <a href="https://maps.app.goo.gl/jDSdxbusC2f2SWFg7">C. Marta Schwartz 24, N3370
+                                Puerto
+                                Iguazú</a></ul>
+                        <ul>Horario: Lunes a Viernes de 9 a 20, Sabados y domingos cerrado</ul>
+                        <ul>Telefono: (376) 444-7056/20/30</ul>
+                        <li>Bariloche</li>
+                        <ul>Direccion: <a href="https://maps.app.goo.gl/adZjPdddugcR5nHZ6">Ada María Elflein 340, R8400
+                                San
+                                Carlos de Bariloche</a></ul>
+                        <ul>Horario: Lunes a Viernes de 9 a 12 y 15 a 21, sabados y domingos cerrado</ul>
+                        <ul>Telefono: (294) 443 - 5735</ul>
+                        <br>
+                </div>
+                <div  class="pantalla100">
+                    <div id="imp"class="m1 animate__animated animate__backInRight animate__delay-1s"><iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1641.993236593784!2d-58.458855165023!3d-34.60450355821359!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca03fd6bb8b7%3A0x17d8dbbce9227e16!2sPanaderia%20Olivero!5e0!3m2!1ses!2sar!4v1713021756339!5m2!1ses!2sar"
+                            width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                    <div id="par" class="m2 animate__animated animate__backInRight animate__delay-2s">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1341.5366683329614!2d-60.64059703899842!3d-32.94908314006509!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b7ab10a9975e9b%3A0x8dd1fe4f7cbd10b4!2sMitre%201021%2C%20S2000%20COU%2C%20Santa%20Fe!5e0!3m2!1ses!2sar!4v1713365448239!5m2!1ses!2sar"
+                            width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                    <div id="imp"class="m3 animate__animated animate__backInRight animate__delay-3s">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3598.1475445819733!2d-54.575351999999995!3d-25.600013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjXCsDM2JzAwLjEiUyA1NMKwMzQnMzEuMyJX!5e0!3m2!1ses!2sar!4v1713365037728!5m2!1ses!2sar"
+                            width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                    <div id="par" class="m4 animate__animated animate__backInRight animate__delay-4s">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3004.922901810477!2d-71.305273!3d-41.136209!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDA4JzEwLjQiUyA3McKwMTgnMTkuMCJX!5e0!3m2!1ses!2sar!4v1713365535935!5m2!1ses!2sar"
+                            width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
 
-            </section>
+                </div>
 
-            <aside>
+                <section>
 
-            </aside>
+                </section>
+
+                <aside>
+
+                </aside>
 
     </main>
     <footer>
 
     </footer>
-    <script src="./js/java.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+<script src="./js/java.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 </html>
