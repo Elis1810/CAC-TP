@@ -3,6 +3,8 @@ function toggleMenu() {
   
     navLinks.classList.toggle('show');
 }  
+
+/*comillas invertidad alt+96*/
  
 let links = `
     <link rel="stylesheet" href="./css/estilos.css"> 
@@ -46,8 +48,10 @@ let nav = `
 </div>`;
 document.querySelector("header").innerHTML = nav;
 
+
+
 let imagenes = [
-  "img/amigurumis/51b25683-7dca-46c1-bb28-38c3857c0d82.jpeg",
+  "img/amigurumis/51b25683-7dca-46c1-bb28-38c3857c0d82.jpeg", 
   "img/amigurumis/zorro.jpg",
   "img/amigurumis/4dab778a-ca7c-4be3-8d20-b6badaeed31c.jpeg",
   "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.07.jpeg",
@@ -74,9 +78,13 @@ let imagenes = [
 ];
 
 // Datos adicionales para cada imagen (nombre y precio)
-let datosImagenes = [
-  { nombre: "Girafa Tierna", precio: "$4500" },
-  { nombre: "Zorro", precio: "$4500" },
+let datosImagenes = [  
+  { "id": 1,
+    "nombre": "Girafa Tierna",
+    "precio": "$4500",
+    "img":"img/amigurumis/51b25683-7dca-46c1-bb28-38c3857c0d82.jpeg",
+  },
+  { nombre: "Zorro", precio: "$4500" }, 
   { nombre: "Elefante", precio: "$6000"},
   { nombre: "Ratoncito", precio: "$3000"},
   { nombre: "Canario", precio: "$3000"},
@@ -100,6 +108,8 @@ let datosImagenes = [
   { nombre: "Cascanueces" , precio: "$13000"},  
   { nombre: "Ramo" , precio: "$5000"},
 ];
+
+/* id, descripcion, */
 
 // Función para generar las tarjetas con nombres y precios
 function generarTarjetas() {
