@@ -542,10 +542,11 @@ background-color: blueviolet;
   grid-column-end:3;
   margin: 2%;
 
-   /* display: inline-flex;
+   display: inline-flex;
     max-width: 45%;
   
-  */}
+  */
+}
 .pantalla5050 h3{
   
     text-align: center;
