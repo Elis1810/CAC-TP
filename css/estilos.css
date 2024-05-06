@@ -475,38 +475,6 @@ h3 > p {
 }
 
 
-.contenedor{
-  position: relative;
-  right: 0;
-/*  background-color: blueviolet;*/
-  width: 45%;
-  display: inline-flex;
-  margin: 2%
-}
-.contenedor{
-  right: 0;
-/*background-image: url(https://cdn-icons-png.flaticon.com/512/1/1133.png);
-*/background-attachment: fixed;
-background-repeat: no-repeat;
-background-size: cover;
-background-position: right;
-width: 45%;
-    display: inline-block;
-  margin: 2%
-}
-.contenedor p {
-  font-size: 20px;   
-  color: rgb(0, 0, 0); 
-  text-decoration: none;
-  font-family: Montserrat;
-
-}
-
-.contenedor{
-  img{
-
-  }
-}
 #mapasucursales div{
   margin-right: 10px;
   background-size: cover
@@ -548,7 +516,7 @@ background-color: aquamarine;
   margin-left: 2%;
   flex: 0 0 45%;
   position: relative;
-  background-color: blue;
+/*  background-color: blue;
 /*
   grid-row-start: 1;
 grid-row-end: 5;
@@ -567,7 +535,11 @@ container-type: inline-size;
 .pantalla5051{
 flex: 0 0 45%;
 position: relative;
-background-color: blueviolet;
+background-color: rgb(231, 230, 252);
+border-radius: 35px 0px 35px 0px;
+-moz-border-radius: 35px 0px 35px 0px;
+-webkit-border-radius: 35px 0px 35px 0px;
+border: 2px solid rgb(231, 230, 252)
   /*
   grid-row-start: 1;
   grid-row-end: 5;
