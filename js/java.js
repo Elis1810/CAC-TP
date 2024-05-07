@@ -1,8 +1,7 @@
 function toggleMenu() {
     const navLinks = document.querySelector('.nav-links');
   
-    navLinks.classList.toggle('show');
-}  
+    navLinks.classList.toggle('show');}  
 
 /*comillas invertidad alt+96*/
  
@@ -13,8 +12,10 @@ let links = `
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js">
+    <link rel="stylesheet" href="https://unpkg.com/vue@3/dist/vue.global.js">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bungee+Spice&family=Dancing+Script&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <link rel="stylesheet" href="./js/java.js"></link>
 `;
 document.querySelector("head").innerHTML = links;
@@ -73,41 +74,167 @@ let imagenes = [
   "img/amigurumis/WhatsApp Image 2024-05-02 at 19.10.31 (1).jpeg",
   "img/amigurumis/e2b6fc67-d1db-4c03-9824-ac8887ea6bd3.jpeg",
   "img/amigurumis/WhatsApp Image 2024-04-26 at 19.20.27.jpeg", 
-  "img/amigurumis/WhatsApp Image 2024-04-28 at 09.26.33.jpeg", 
+  "img/amigurumis/WhatsApp Image 2024-04-28 at 09.26.33.jpeg" 
 ];
 
-// Datos adicionales para cada imagen (nombre y precio)
+/* Datos adicionales para cada imagen (nombre y precio)*/
 let datosImagenes = [  
-  { id: 1, nombre: "Girafa Tierna", precio: "$4500"},
-  { id: 2, nombre: "Zorro",         precio: "$4500"}, 
-  { id: 3, nombre: "Elefante",      precio: "$6000"},
-  { nombre: "Ratoncito", precio: "$3000"},
-  { nombre: "Canario", precio: "$3000"},
-  { nombre: "Gato con Sombrero", precio: "$4800"},
-  { nombre: "Tortuga Macetero", precio: "$8000"},  
-  { nombre: "Caballo Grande" , precio: "$7500"},
-  { nombre: "Conejo con pijama" , precio: "$6000"},
-  { nombre: "Oso Grande" , precio: "$8500"},
-  { nombre: "Mapache" , precio: "$5200"},
-  { nombre: "Bunny" , precio: "$2500"},
-  { nombre: "Mafalda" , precio: "$9500"},
-  { nombre: "Shrek" , precio: "$8600"},
-  { nombre: "El chavo del 8" , precio: "$7000"},
-  { nombre: "Tomoe" , precio: "$9500"},    
-  { nombre: "Hollow Knight" , precio: "$9000"},
-  { nombre: "katsuki" , precio: "$4300"},  
-  { nombre: "Luffy" , precio: "$3700"},
-  { nombre: "Melody" , precio: "$12000"},
-  { nombre: "Mario Bross" , precio: "$6600"},
-  { nombre: "Grinch" , precio: "$8600"}, 
-  { nombre: "Cascanueces" , precio: "$13000"},  
-  { nombre: "Ramo" , precio: "$5000"},
+  { id: 1,
+    nombre: "Girafa Tierna",
+    precio: "$4500",
+    img:"img/amigurumis/51b25683-7dca-46c1-bb28-38c3857c0d82.jpeg",
+    tipo: "Animales",
+    Caracteristicas: "25 cms"},   
+  { id: 2,
+    nombre: "Zorro",
+    precio: "$4500",
+    img:"img/amigurumis/zorro.jpg",
+    tipo: "",
+    Caracteristicas:"" },
+  { id: 3,
+    nombre: "Elefante",
+    precio: "$6000",
+    img:"img/amigurumis/4dab778a-ca7c-4be3-8d20-b6badaeed31c.jpeg",
+    tipo: "",
+    Caracteristicas:""},
+  { id: 4,
+    nombre: "Ratoncito",
+    precio: "$3000",
+    img:"img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.07.jpeg",
+    tipo: "",
+    Caracteristicas:""},
+  { id: 5,
+    nombre: "Canario",
+    precio: "$3000",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""},
+  { id: 6,
+    nombre: "Gato con Sombrero",
+    precio: "$4800",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""},
+  { id: 7,
+    nombre: "Tortuga Macetero",
+    precio: "$8000",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""},  
+  { id: 8,
+    nombre: "Caballo Grande" ,
+    precio: "$7500",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""},
+  { id: 9,
+    nombre: "Conejo con pijama" ,
+    precio: "$6000",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""},
+  { id: 10,
+    nombre: "Oso Grande" ,
+    precio: "$8500",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""},
+  { id: 11,
+    nombre: "Mapache" ,
+    precio: "$5200",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""},
+  { id: 12,
+    nombre: "Bunny" ,
+    precio: "$2500",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""},
+  { id: 13,
+    nombre: "Mafalda" ,
+    precio: "$9500",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""},
+  { id: 14,
+    nombre: "Shrek" ,
+    precio: "$8600",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""},
+  { id: 15,
+    nombre: "El chavo del 8" ,
+    precio: "$7000",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""},
+  { id: 16,
+    nombre: "Tomoe" ,
+    precio: "$9500",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""},    
+  { id: 17,
+    nombre: "Hollow Knight" ,
+    precio: "$9000",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""},
+  { id: 18,
+    nombre: "katsuki" ,
+    precio: "$4300",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""},  
+  { id: 18,
+    nombre: "Luffy" ,
+    precio: "$3700",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""},
+  { id: 19,
+    nombre: "Melody" ,
+    precio: "$12000",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""},
+  { id: 20,
+    nombre: "Mario Bross" ,
+    precio: "$6600",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""},
+  { id: 21,
+    nombre: "Grinch" ,
+    precio: "$8600",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""}, 
+  { id: 22,
+    nombre: "Cascanueces" ,
+    precio: "$13000",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""},  
+  { id: 23,
+    nombre: "Ramo" ,
+    precio: "$5000",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""},
+  { id: "",
+    nombre: "",
+    precio: "",
+    img: "",
+    tipo: "",
+    Caracteristicas: ""}  
 ];
 
 /* id, descripcion, */
 
 // Función para generar las tarjetas con nombres y precios
-function generarTarjetas() {
+/*function generarTarjetas() {
   let cad = '';
   for (let i = 0; i < imagenes.length; i++) {
     cad += `
@@ -115,6 +242,22 @@ function generarTarjetas() {
         <img src="${imagenes[i]}" alt="Producto ${i+1}">
         <h7><p></p>${datosImagenes[i].nombre}</h7>
         <h7>${datosImagenes[i].precio}</h7>
+      </div>
+    `;
+  }
+  return cad;
+}
+
+document.getElementById("columnaCentral").innerHTML = generarTarjetas();*/
+
+function generarTarjetas(){
+  let cad="";
+  for (let producto of datosImagenes) {
+    cad +=`
+    <div class="tarjetas">
+        <img src="${producto.img}" alt="Producto ${producto.nombre}"> 
+        <h7>${producto.nombre}</h7>
+        <h7>${producto.precio}</h7>
       </div>
     `;
   }
