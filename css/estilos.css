@@ -236,6 +236,46 @@ h3 > p {
   background-position: center top;
   margin-top: 30px; /* Espacio entre icono y texto */  
 }
+footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-left {
+  text-align: left;
+}
+
+.footer-right {
+  text-align: right;
+}
+
+.social-icon img {
+  width: 30px; 
+  height: 30px; 
+}
+.site-footer img {
+  width: 20px; 
+  height: auto; 
+}
+.social-icons li {
+  display: inline-block;
+  font-size: 14px;
+  margin-right: 15px; 
+}
+.contact-section {
+  margin-left: auto; 
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px; 
+}
+.site-footer .social-icons {
+  text-align: center;
+}
 /*fin de index*/
 /*inicio productos*/
 .capsula{
@@ -283,6 +323,25 @@ h3 > p {
 .tarjetas h7{  
   font-size: 18px;  
 }
+.animated-container {
+  overflow: hidden; 
+}
+
+.animated-heading {
+  opacity: 0;
+  animation: slideInFromLeft 1s ease-out forwards; /* Duración de la animación y tipo de aceleración */
+}
+
+@keyframes slideInFromLeft {
+  from {
+      transform: translateX(-100%); /* El elemento está fuera de la pantalla a la izquierda */
+      opacity: 0; 
+  }
+  to {
+      transform: translateX(0); /* El elemento se mueve a su posición final */
+      opacity: 1; 
+  }
+}
 /*fin productos*/
 /*pedidos*/
 .formulario {
@@ -313,7 +372,14 @@ h3 > p {
 /*fin metodos de pagos*/
 @media screen and (max-width: 768px) {
 } /*pantallas grandes */
-  
+.site-footer .social-icons {
+  text-align: center;
+}
+
+.site-footer .social-icons li {
+  display: inline-block;
+  margin: 0 15px; 
+}
 
 @media screen and (max-width: 576px) { 
   .col {
@@ -444,7 +510,23 @@ h3 > p {
   .tarjetas{
     width: 95%;
   }
-
+  .footer {
+    padding: 10px; 
+}
+.social-icon img {
+    width: 25px;
+    height: 25px; 
+}
+.social-icon span {
+    font-size: 12px;
+}
+.site-footer .social-icons {
+  text-align: center;
+}
+.site-footer .social-icons li {
+  display: inline-block;
+  margin: 0 5px; 
+}
 
 }/*pantallas pequeñas */
 
@@ -458,6 +540,14 @@ h3 > p {
   .carousel-item img {
     object-fit: cover;    
   }
+  .site-footer .social-icons {
+    text-align: center;
+}
+
+.site-footer .social-icons li {
+    display: inline-block;
+    margin: 0 10px; /* Ajusta el margen entre los iconos */
+}
 }  /*pantallas medianas*/
 /*incio contactanos*/
 #sucursalesgrid > li {
