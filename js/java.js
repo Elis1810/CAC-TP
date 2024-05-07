@@ -50,6 +50,7 @@ let nav = `
 </div>`;
 document.querySelector("header").innerHTML = nav;
 
+
 let imagenes = [
   "img/amigurumis/51b25683-7dca-46c1-bb28-38c3857c0d82.jpeg", 
   "img/amigurumis/zorro.jpg",
