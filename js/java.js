@@ -16,6 +16,7 @@ let links = `
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bungee+Spice&family=Dancing+Script&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    
     <link rel="stylesheet" href="./js/java.js"></link>
 `;
 document.querySelector("head").innerHTML = links;
@@ -48,7 +49,6 @@ let nav = `
 </h1>
 </div>`;
 document.querySelector("header").innerHTML = nav;
-
 
 let imagenes = [
   "img/amigurumis/51b25683-7dca-46c1-bb28-38c3857c0d82.jpeg", 
