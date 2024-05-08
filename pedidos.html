@@ -1,14 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tienda Amigurumis</title>    
+    <title>Tienda Amigurumis</title>
 </head>
+
 <body>
     <header>
     </header>
-    <main>      
+    <main>
+        <h2>Pedidos</h2>
+        <div class="textContenedor">
+            <h5>¿Hay stock de los amigurumis de la tienda?</h5>
+            <p>Si, hay algunos amigurumis que están en stock para retiro/despacho inmediato.
+                Los encontrás en la página principal, en la sección "En stock!".<br>
+                Todos los amigurumis deben abonarse de forma completa al momento de realizar la compra por la
+                tienda.<br>
+                Las ordenes de compra entran en la lista de pedidos una vez realizado el pago.<br>
+            </p>
+            <h5>¿Cuánto tarda en estar listo mi pedido?</h5>
+            <p>
+                Generalmente los pedidos tardan 2 semanas en estar listos. Va a depender del tamaño, la cantidad y si hay muchos pedidos previos.<br>
+                En fechas con gran demanda (Ej. Navidad) suelen tardar un poco más, <br>
+                 Si lo necesita para una fecha en específico no dude en consultar antes de comprar si puede estar listo.
+            </p>
+            <h5>¿Puedo abonar en efectivo al retirar?</h5>
+            <p>No, ya que se trabaja a pedido una vez abonado el mismo.</p>
+            <h5>¿Vendes mayorista?</h5>
+            <p>No, no realizamos venta mayorista.</p>
+            <h5>¿Haces precios por cantidad?</h5>
+                <p>No, no hacemos descuentos de precios por cantidad.<br>
+                    La razón es que, al ser un producto artesanal, ni el costo ni el tiempo de realizado disminuyen al
+                    hacer más piezas.
+                </p>
+        </div>
         <div>
             <form class="formulario">
                 <div>
@@ -19,7 +46,7 @@
                 <br>
                 <div>
                     <input type="text" class="form-control" placeholder="Apellido" aria-label="Apellido">
-                </div>            
+                </div>
                 <br>
                 <div>
                     <div>
@@ -27,44 +54,48 @@
                     </div>
                     <br>
                     <div>
-                      <select class="form-select" aria-label="Default select example">
-                        <option selected>Selecciona</option>
-                        <option value="1">Muñecas</option>
-                        <option value="2">Dinosaurios</option>
-                        <option value="2">Animales</option>
-                        <option value="2">Superheroes</option>         
-                      </select>
+                        <select class="form-select" aria-label="Default select example">
+                            <option selected>Selecciona</option>
+                            <option value="1">Animales</option>
+                            <option value="2">Animes</option>
+                            <option value="3">Personajes</option>
+                            <option value="4">Ramos</option>
+                            <option value="5">Varios</option>
+                        </select>
                     </div>
-                  </div>        
-                  <br>
-                  <div class="form-floating">
-                      <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
-                      <label for="floatingTextarea2">Comentarios</label>
-                  </div>
-                  <br />
-                    <div class="mb-3">            
-                      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="telefóno celular">            
-                    </div>
-                    <div class="mb-3">          
-                      <label for="exampleInputEmail1" class="form-label"></label>
-                      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="correo electronico">
-                      <div id="emailHelp" class="form-text">Nunca compartiremos su correo electrónico con nadie más.</div>
-                    </div> 
-                    <br />
-                    <input class="btn btn-primary" type="Enviar" value="Enviar">
-                    <input class="btn btn-primary" type="Resetear" value="Borrar">
-                </form>
-            </div>  
-        </div> 
-             
+                </div>
+                <br>
+                <div class="form-floating">
+                    <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2"
+                        style="height: 100px"></textarea>
+                    <label for="floatingTextarea2">Comentarios</label>
+                </div>
+                <br />
+                <div class="mb-3">
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                        placeholder="telefóno celular">
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label"></label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                        placeholder="correo electronico">
+                    <div id="emailHelp" class="form-text">Nunca compartiremos su correo electrónico con nadie más.</div>
+                </div>
+                <br />
+                <input class="btn btn-primary" type="Enviar" value="Enviar">
+                <input class="btn btn-primary" type="Resetear" value="Borrar">
+            </form>
+        </div>
+        </div>
 
     </main>
     <footer>
 
-    <script src="./js/java.js"></script>   
-    <script src="js/bootstrap.min.js"></script>
-    <script src="./js/api.json"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>   
-    <script src="https://unpkg.com/vue@3"></script>
+        <script src="./js/java.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="./js/api.json"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+        <script src="https://unpkg.com/vue@3"></script>
+
 </html>

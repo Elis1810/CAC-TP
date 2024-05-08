@@ -2,34 +2,42 @@
     {
         "id": 1,
         "nombre": "Girafa Tierna",
-        "precio": 4500,
+        "precio": 6500,
         "img": "img/amigurumis/51b25683-7dca-46c1-bb28-38c3857c0d82.jpeg",
-        "tipo": "Animales",
-        "Caracteristicas": "25 cms"
+        "tipo": "animales",
+        "Caracteristicas": "25 cms",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 2,
         "nombre": "Zorro",
-        "precio": 4500,
+        "precio": 7500,
         "img": "img/amigurumis/zorro.jpg",
-        "tipo": "",
-        "Caracteristicas": ""
+        "tipo": "animales",
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 3,
         "nombre": "Elefante",
-        "precio": 6000,
+        "precio": 8000,
         "img": "img/amigurumis/4dab778a-ca7c-4be3-8d20-b6badaeed31c.jpeg",
-        "tipo": "",
-        "Caracteristicas": ""
+        "tipo": "animales",
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 4,
         "nombre": "Ratoncito",
         "precio": 3000,
         "img": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.07.jpeg",
-        "tipo": "",
-        "Caracteristicas": ""
+        "tipo": "animales",
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 5,
@@ -37,7 +45,9 @@
         "precio": 3000,
         "img": " img/amigurumis/1ff645bc-d35c-4073-bcf2-38d2551ff2b8.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 6,
@@ -45,7 +55,9 @@
         "precio": 4800,
         "img": "img/amigurumis/3feb000f-8bd9-44d8-81dd-efd939ad12c3.jpeg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 7,
@@ -53,7 +65,9 @@
         "precio": 8000,
         "img": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.08 (1).jpeg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 8,
@@ -61,7 +75,9 @@
         "precio": 7500,
         "img": "img/amigurumis/ef0daeec-6bb0-4acb-8422-04d282566869.jpeg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 9,
@@ -69,15 +85,19 @@
         "precio": 6000,
         "img": "img/amigurumis/conejitos.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 10,
         "nombre": "Oso Grande",
         "precio": 8500,
-        "img": "img/amigurumis/f3b24f3f-8ddc-4eb5-81b6-ca4738f08ce7.jpeg",
+        "img": "img/amigurumis/441494410_3183251468472395_208964932778723886_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 11,
@@ -85,15 +105,19 @@
         "precio": 5200,
         "img": "img/amigurumis/WhatsApp Image 2024-04-25 at 10.36.10.jpeg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 12,
         "nombre": "Bunny",
         "precio": 2500,
-        "img": "img/amigurumis/WhatsApp Image 2024-05-02 at 18.46.27.jpeg",
+        "img": "img/amigurumis/436570688_454505600362320_8185578596321258828_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 13,
@@ -101,7 +125,9 @@
         "precio": 9500,
         "img": "img/amigurumis/3f1cb4f2-eed4-40a0-9c14-efe2f4f8647b.jpeg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 14,
@@ -109,7 +135,9 @@
         "precio": 8600,
         "img": "img/amigurumis/41ea8be9-97f9-43f9-9f86-df1ec9aedd42.jpeg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 15,
@@ -117,7 +145,9 @@
         "precio": 7000,
         "img": "img/amigurumis/cdf80059-0660-439d-b49a-2bfef507ffbc.jpeg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 16,
@@ -125,7 +155,9 @@
         "precio": 9500,
         "img": "img/amigurumis/WhatsApp Image 2024-04-27 at 16.10.16.jpeg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 17,
@@ -133,7 +165,9 @@
         "precio": 9000,
         "img": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.11.jpeg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 18,
@@ -141,7 +175,9 @@
         "precio": 4300,
         "img": "img/amigurumis/4646fb28-60b1-4476-a3ca-198662111339.jpeg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 19,
@@ -149,7 +185,9 @@
         "precio": 3700,
         "img": "img/amigurumis/94b54d6b-1962-4d99-a077-505da80684e9.jpeg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 20,
@@ -157,7 +195,9 @@
         "precio": 12000,
         "img": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.08.jpeg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 21,
@@ -165,7 +205,9 @@
         "precio": 6600,
         "img": "img/amigurumis/WhatsApp Image 2024-05-02 at 19.10.31 (1).jpeg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 22,
@@ -173,7 +215,9 @@
         "precio": 8600,
         "img": "img/amigurumis/e2b6fc67-d1db-4c03-9824-ac8887ea6bd3.jpeg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 23,
@@ -181,7 +225,9 @@
         "precio": 13000,
         "img": "img/amigurumis/WhatsApp Image 2024-04-26 at 19.20.27.jpeg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 24,
@@ -189,798 +235,995 @@
         "precio": 5000,
         "img": "img/amigurumis/WhatsApp Image 2024-04-28 at 09.26.33.jpeg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 25,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/84cc75c6-787b-4913-9eae-74288699b66e.jpeg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },    
     {
         "id": 26,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/420201093_7328487517245555_4529613669920779010_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 27,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438778156_1641881606573914_9171445858816905665_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 28,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/432946332_1858358591333239_2244537054545680641_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 29,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/WhatsApp Image 2024-04-26 at 12.38.03.jpeg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 30,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/440409082_3687863084862602_3745173611959111760_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 31,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/422008576_2225361961134845_7097203683420699135_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 32,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/421946403_122191179140006237_1642575648036041048_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 33,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/422396157_1455226222090277_4472229502859020381_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 34,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/422566022_3692267980992359_6738235666618089994_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 35,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/425500730_25730400073210444_4529304278639833503_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 36,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/430064126_1773580053108226_5003286481359679844_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 37,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/432244833_7710605922303172_3151865716003270767_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 38,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/440239031_1567670737355799_6612758257027329642_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 39,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/431587556_7251980441589601_3892995005910568808_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 40,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/432473508_10163508633984942_6151140674968669640_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 41,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/432758405_7207242596033005_2468976781594970242_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 42,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/432788376_766149268825935_3882192464395506257_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 43,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/436332145_7378689418914746_4251613003013957431_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 44,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438865644_389222890780271_6916486448558862437_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 45,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/432939781_122139879500104266_159204237938748476_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 46,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/433258667_1873830876424012_6617254789289549883_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 47,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/433435808_3781998362033373_6842984888788561563_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 48,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/433500985_25333912922889881_5383980595827788063_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 49,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/439857294_963758218785723_6857576774534458284_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 50,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/434330526_7999207873427435_8644587131956759822_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 51,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/434664304_717189750489554_3798531402877290634_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 52,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/434681460_7647588201969948_7235946355614705541_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 53,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/434685780_1402087303844909_1952523880733169916_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 54,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/434735284_10230104542150239_7790113861094776043_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 55,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/434872417_944845990700958_2165661306565852690_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 56,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/434970880_444996667906309_7504884224011064015_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 57,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/434973490_10220548074766486_3209194914118003536_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 58,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/435142237_457513746728172_394445446463664503_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 59,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/435154882_3626552817585179_5512246320442005489_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 60,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/437875779_7683467101774193_1490004823906619190_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 61,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/435469450_3532254933691735_3038433746133799806_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 62,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/435498915_10232771222322332_655896382405192226_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 63,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/435684941_10228893250789055_3941514923266208533_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 64,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/437054748_7469938583074077_7691777918164832263_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 65,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438030841_1603291013838641_4915351165779112138_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 66,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438171104_10230311084694347_7250737895491156781_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 67,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438196760_10230311086454391_2076392699775058000_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 68,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438197109_10230311085814375_9107782316047552331_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 69,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/440440135_1839914593116962_3007766330337820800_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 70,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/435875189_122138520254101464_1485954633680535041_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 71,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/436221774_455747863571427_6534282504052770912_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 72,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/fdd1b82d-d044-4780-aded-12d8835f742b.jpeg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 73,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/437380832_1906072676510956_6310408735616610221_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 74,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/437585312_1451093155498041_2630048355790043668_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 75,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/437875779_7683467101774193_1490004823906619190_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 76,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438169142_122191178816006237_3087453152065882791_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 77,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/437904064_459851656494381_6678003043320282027_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 78,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/437959858_122102750066286241_8046668733400442067_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 79,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/437382025_7394081440712344_5672764228043660703_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 80,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438095589_10226252893769900_3163511420598415382_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 81,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438100173_10224860862610784_6597603841612019723_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 82,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438101409_122191178150006237_4574457807264795157_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 83,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438101474_1206948697132831_5724338961572962722_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 84,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438101652_122191176782006237_6046754357248947188_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 85,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438119152_122191176008006237_7964595193217550946_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 86,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438127733_122191179152006237_9101483692011225182_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 87,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438128235_122191178162006237_5577672389184914160_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 88,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438128535_122191179098006237_5142964424801521521_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 89,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/440962090_402909735972690_3930517929354118384_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 90,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/436298856_771674528272723_5922848813438166753_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 91,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/440850895_7419848108136748_6074013785321846705_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 92,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/439343003_3675459289371179_8168259857450901493_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 93,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438301445_10232652275110242_6839530462440342433_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "","peso": "",
+        "altura": ""
     },
     {
         "id": 94,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438304173_25730402163210235_990575510548528113_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "","peso": "",
+        "altura": ""
     },
     {
         "id": 95,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/440125647_3718663291709241_1140953059514110323_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 96,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/439310638_10233310033198011_4831224972264822596_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 97,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438145666_122191179062006237_5202952417597443677_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 98,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438159831_122191177382006237_1136892044702112293_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 99,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438162964_122191179038006237_5082561725291850915_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
         "id": 100,
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438300594_979102337072638_7330847877716167593_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "101",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/440414539_2094640310908944_6951953631116952547_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "102",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438264024_7358336554282709_7469776521889394154_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "103",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/439336272_6360277834097439_2137459936116901148_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "104",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/439442243_7697392810318339_4315033962254637673_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "105",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/440739899_122191175966006237_5305132891661629383_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "106",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/441156027_122191176374006237_8608273559589615578_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "107",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/441331530_10227225107067863_1659829136225567463_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "108",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/441301784_960035192515371_8153803718739296417_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "109",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/440855836_122191179074006237_525119141128596414_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "110",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/441492249_10168410391570391_5774602560367403042_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "","peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "111",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438717130_10160422635103073_581095115459853401_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "112",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/440589694_3672688166352077_4298545673611868773_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "1113",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/440746695_773523888214097_6735781606338679686_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "114",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/441379027_2417308495134609_3660519612805082422_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "115",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/439985799_3338863636258346_3875010974478621383_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "116",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/441459846_816973216999444_6027953537771965099_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "117",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/441950982_8176844235664895_7718408258068189568_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "118",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/441330716_10224825860861254_2333186639936919017_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "119",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/439879448_6957055891065093_3624870212703854986_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "120",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438239360_458811376562290_6269321330009199932_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "121",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/438159759_461234949809292_8251080334577682038_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "122",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/437961936_7346842762030544_7144895180193367634_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     },
     {
-        "id": "",
+        "id": "123",
         "nombre": "",
         "precio": "",
-        "img": "",
+        "img": "img/amigurumis/437370465_7346841305364023_5235345114611681296_n.jpg",
         "tipo": "",
-        "Caracteristicas": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": ""
     }
 ]
