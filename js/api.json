@@ -1,0 +1,986 @@
+[
+    {
+        "id": 1,
+        "nombre": "Girafa Tierna",
+        "precio": 4500,
+        "img": "img/amigurumis/51b25683-7dca-46c1-bb28-38c3857c0d82.jpeg",
+        "tipo": "Animales",
+        "Caracteristicas": "25 cms"
+    },
+    {
+        "id": 2,
+        "nombre": "Zorro",
+        "precio": 4500,
+        "img": "img/amigurumis/zorro.jpg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 3,
+        "nombre": "Elefante",
+        "precio": 6000,
+        "img": "img/amigurumis/4dab778a-ca7c-4be3-8d20-b6badaeed31c.jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 4,
+        "nombre": "Ratoncito",
+        "precio": 3000,
+        "img": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.07.jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 5,
+        "nombre": "Canario",
+        "precio": 3000,
+        "img": " img/amigurumis/1ff645bc-d35c-4073-bcf2-38d2551ff2b8.jpg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 6,
+        "nombre": "Gato con Sombrero",
+        "precio": 4800,
+        "img": "img/amigurumis/3feb000f-8bd9-44d8-81dd-efd939ad12c3.jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 7,
+        "nombre": "Tortuga Macetero",
+        "precio": 8000,
+        "img": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.08 (1).jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 8,
+        "nombre": "Caballo Grande",
+        "precio": 7500,
+        "img": "img/amigurumis/ef0daeec-6bb0-4acb-8422-04d282566869.jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 9,
+        "nombre": "Conejo con pijama",
+        "precio": 6000,
+        "img": "img/amigurumis/conejitos.jpg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 10,
+        "nombre": "Oso Grande",
+        "precio": 8500,
+        "img": "img/amigurumis/f3b24f3f-8ddc-4eb5-81b6-ca4738f08ce7.jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 11,
+        "nombre": "Mapache",
+        "precio": 5200,
+        "img": "img/amigurumis/WhatsApp Image 2024-04-25 at 10.36.10.jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 12,
+        "nombre": "Bunny",
+        "precio": 2500,
+        "img": "img/amigurumis/WhatsApp Image 2024-05-02 at 18.46.27.jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 13,
+        "nombre": "Mafalda",
+        "precio": 9500,
+        "img": "img/amigurumis/3f1cb4f2-eed4-40a0-9c14-efe2f4f8647b.jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 14,
+        "nombre": "Shrek",
+        "precio": 8600,
+        "img": "img/amigurumis/41ea8be9-97f9-43f9-9f86-df1ec9aedd42.jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 15,
+        "nombre": "El chavo del 8",
+        "precio": 7000,
+        "img": "img/amigurumis/cdf80059-0660-439d-b49a-2bfef507ffbc.jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 16,
+        "nombre": "Tomoe",
+        "precio": 9500,
+        "img": "img/amigurumis/WhatsApp Image 2024-04-27 at 16.10.16.jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 17,
+        "nombre": "Hollow Knight",
+        "precio": 9000,
+        "img": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.11.jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 18,
+        "nombre": "katsuki",
+        "precio": 4300,
+        "img": "img/amigurumis/4646fb28-60b1-4476-a3ca-198662111339.jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 19,
+        "nombre": "Luffy",
+        "precio": 3700,
+        "img": "img/amigurumis/94b54d6b-1962-4d99-a077-505da80684e9.jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 20,
+        "nombre": "Melody",
+        "precio": 12000,
+        "img": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.08.jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 21,
+        "nombre": "Mario Bross",
+        "precio": 6600,
+        "img": "img/amigurumis/WhatsApp Image 2024-05-02 at 19.10.31 (1).jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 22,
+        "nombre": "Grinch",
+        "precio": 8600,
+        "img": "img/amigurumis/e2b6fc67-d1db-4c03-9824-ac8887ea6bd3.jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 23,
+        "nombre": "Cascanueces",
+        "precio": 13000,
+        "img": "img/amigurumis/WhatsApp Image 2024-04-26 at 19.20.27.jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 24,
+        "nombre": "Ramo",
+        "precio": 5000,
+        "img": "img/amigurumis/WhatsApp Image 2024-04-28 at 09.26.33.jpeg",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 25,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },    
+    {
+        "id": 26,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 27,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 28,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 29,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 30,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 31,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 32,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 33,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 34,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 35,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 36,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 37,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 38,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 39,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 40,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 41,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 42,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 43,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 44,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 45,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 46,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 47,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 48,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 49,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 50,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 51,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 52,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 53,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 54,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 55,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 56,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 57,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 58,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 59,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 60,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 61,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 62,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 63,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 64,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 65,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 66,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 67,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 68,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 69,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 70,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 71,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 72,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 73,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 74,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 75,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 76,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 77,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 78,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 79,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 80,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 81,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 82,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 83,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 84,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 85,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 86,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 87,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 88,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 89,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 90,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 91,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 92,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 93,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 94,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 95,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 96,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 97,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 98,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 99,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": 100,
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    },
+    {
+        "id": "",
+        "nombre": "",
+        "precio": "",
+        "img": "",
+        "tipo": "",
+        "Caracteristicas": ""
+    }
+]
