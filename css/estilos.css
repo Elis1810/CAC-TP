@@ -106,7 +106,7 @@ h2 {
   transition: transform 0.4s ease-in-out;
 }
 /*inicio carrousel */
-.container {
+.container {  
   max-width: 60%; /*Ancho máximo deseado*/  
   /*display: flex;*/ /*este flex no va a aca o descuadra las img del carrousel*/  
   margin-bottom: 30px;
@@ -164,7 +164,7 @@ h3 > p {
  } 
  #caja-2 { 
   flex: 1; 
-  background-image: url(../img/zorro.jpg) ;
+  background-image: url(../img/amigurumis/zorro.jpg) ;
   background-size: cover;
   background-position: center;
   border: 3px solid;
@@ -244,15 +244,12 @@ footer {
   justify-content: space-between;
   align-items: center;
 }
-
 .footer-left {
   text-align: left;
 }
-
 .footer-right {
   text-align: right;
 }
-
 .social-icon img {
   width: 80px; 
   height: 80px; 
@@ -276,6 +273,17 @@ footer {
 .site-footer .social-icons {
   text-align: center;
 }
+.container p {
+  font-size: 18px;
+  font-family: Montserrat;    
+  text-align: justify;   
+}
+.amigurumis {
+  background-color: beige;
+  max-width: 80%;
+  margin-left: 150px;
+}
+
 /*fin de index*/
 /*inicio productos*/
 .capsula{
@@ -320,7 +328,7 @@ footer {
   width: 100%; /* Para que la imagen ocupe todo el ancho de su contenedor */  
   max-height: 250px;
 }
-.tarjetas h7{  
+.tarjetas p{  
   font-size: 18px;  
 }
 .animated-container {
@@ -385,7 +393,6 @@ footer {
   .col {
     width: 100%;
     } 
-
     #encabezado{      
       max-width: 100%;        
       padding: 100px;
@@ -395,12 +402,10 @@ footer {
       font-family: Montserrat;   
       margin-top: 70px;     
       height: 300px;
-     }
-  
+     }  
   .logo{
     display: none;
   } 
-
   .nav-links {
       display: none;
       flex-direction: column;
@@ -430,16 +435,13 @@ footer {
     .burger {
       display: flex;
       margin: 5px;            
-    }
-  
+    }  
     .change .line1 {
       transform: rotate(-45deg) translate(-5px, 6px);
-    }
-  
+    }  
     .change .line2 {
       opacity: 0;
-    }
-  
+    }  
     .change .line3 {
       transform: rotate(45deg) translate(-5px, -6px);
     } 
@@ -469,6 +471,7 @@ footer {
    .formulario {
     width: 85%;
     margin-left: 20px;
+    margin-bottom: 20px;
     height: 800px;      
    }
    .btn-primary, .btn-primary {
@@ -498,12 +501,10 @@ footer {
     align-items: center; /* Centra verticalmente */
     margin-left: 15px;    
   }
-
   #columnaCentral{
     max-width: 95%;
     flex-direction: column;
   }
-
   #galeria{
     width: 100%;
   }
@@ -526,6 +527,10 @@ footer {
 .site-footer .social-icons li {
   display: inline-block;
   margin: 0 5px; 
+}
+.amigurumis {  
+  max-width: 90%;
+  margin-left: 20px;
 }
 
 }/*pantallas pequeñas */
