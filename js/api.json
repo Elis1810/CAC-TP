@@ -5,10 +5,10 @@
         "precio": 6500,
         "img": "img/amigurumis/51b25683-7dca-46c1-bb28-38c3857c0d82.jpeg",
         "tipo": "animales",
-        "Caracteristicas": "25 cms",
+        "Caracteristicas": "" ,
         "peso": "",
-        "altura": ""
-    },
+        "altura": "25 cms"
+     },
     {
         "id": 2,
         "nombre": "Zorro",
