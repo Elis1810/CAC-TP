@@ -1,10 +1,11 @@
 function toggleMenu() {
-    const navLinks = document.querySelector('.nav-links');
-  
-    navLinks.classList.toggle('show');}  
+  const navLinks = document.querySelector('.nav-links');
+
+  navLinks.classList.toggle('show');
+}
 
 /*comillas invertidad alt+96*/
- 
+
 let links = `
     <link rel="stylesheet" href="./css/estilos.css"> 
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -17,8 +18,7 @@ let links = `
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <link rel="stylesheet" href="./js/java.js"></link>
-    <link rel="stylesheet" href="./js/api.json"></link>    
-    <link rel=
+    <link rel="stylesheet" href="./js/api.json"></link>       
 `;
 document.querySelector("head").innerHTML = links;
 
@@ -77,20 +77,18 @@ let foot = `
 </div>`;
 document.querySelector("footer").innerHTML = foot;
 
-const rutaJSON = "./js/api.json";
-// Cargar los datos del archivo JSON
+const rutaJSON = "./js/api.json"; // Cargar los datos del archivo JSON, creando la ruta
 //fetch se utiliza para obtener el contenido del archivo JSON desde la ruta especificada.
 fetch(rutaJSON)
   .then(response => response.json())
   .then(data => {
     // Luego de cargar los datos, llamo a la función para generar las tarjetas
     document.getElementById("columnaCentral").innerHTML = generarTarjetas(data);
-  })  
-
-function generarTarjetas(datosProductos){
-  let cad=``;
+  })
+function generarTarjetas(datosProductos) {
+  let cad = ``;
   for (let producto of datosProductos) {
-    cad +=`
+    cad += `
     <div class="tarjetas">
         <img src="${producto.img}" alt="Producto ${producto.id}"> 
         <p>${producto.nombre}</p>
@@ -100,3 +98,8 @@ function generarTarjetas(datosProductos){
   }
   return cad;
 }
+
+
+
+
+

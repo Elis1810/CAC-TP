@@ -1,12 +1,12 @@
 [
     {
         "id": 1,
-        "nombre": "Girafa Tierna",
+        "nombre": "jirafa Tierna",
         "precio": 6500,
         "img": "img/amigurumis/51b25683-7dca-46c1-bb28-38c3857c0d82.jpeg",
         "tipo": "animales",
-        "Caracteristicas": " ",
-        "peso": "",
+        "Caracteristicas": "jirafas tejidas a crochet, colores a elección, hillo 100% algodón",
+        "peso": "155 gr",
         "altura": "25 cm"
     },
     {
@@ -15,9 +15,9 @@
         "precio": 7500,
         "img": "img/amigurumis/zorro.jpg",
         "tipo": "animales",
-        "Caracteristicas": "",
-        "peso": "",
-        "altura": "15 cms"
+        "Caracteristicas": "zorro con bufanda, tejido a crochet, colores a elección, hillo 100% algodón ",
+        "peso": "145 gr",
+        "altura": "20 cms"
     },
     {
         "id": 3,
@@ -25,48 +25,48 @@
         "precio": 8000,
         "img": "img/amigurumis/4dab778a-ca7c-4be3-8d20-b6badaeed31c.jpeg",
         "tipo": "animales",
-        "Caracteristicas": "",
-        "peso": "",
-        "altura": "22cms"
+        "Caracteristicas": "elefante tejido a crochet, colores a elección, hillo 100% algodón",
+        "peso": "350 gr",
+        "altura": "30 cms"
     },
     {
         "id": 4,
         "nombre": "Ratoncito",
-        "precio": 3000,
+        "precio": 4500,
         "img": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.07.jpeg",
         "tipo": "animales",
-        "Caracteristicas": "",
-        "peso": "",
-        "altura": "10 cms"
+        "Caracteristicas": " ratoncito tejido a crochet, colores a elección, hillo 100% algodón",
+        "peso": "100 gr",
+        "altura": "15 cms"
     },
     {
         "id": 5,
         "nombre": "Canario",
-        "precio": 3000,
+        "precio": 6000,
         "img": " img/amigurumis/1ff645bc-d35c-4073-bcf2-38d2551ff2b8.jpg",
-        "tipo": "",
-        "Caracteristicas": "",
-        "peso": "",
+        "tipo": "animales",
+        "Caracteristicas": "canario amarillo con girasol tejido a crochet, hillo 100% algodón",
+        "peso": "110 gr",
         "altura": "12 cms"
     },
     {
         "id": 6,
-        "nombre": "Gato con Sombrero",
-        "precio": 4800,
+        "nombre": "Gato jardinero",
+        "precio": 7100,
         "img": "img/amigurumis/3feb000f-8bd9-44d8-81dd-efd939ad12c3.jpeg",
-        "tipo": "",
-        "Caracteristicas": "",
-        "peso": "",
-        "altura": "16 cms"
+        "tipo": "animales",
+        "Caracteristicas": " gato blanco con jardinero rosa tejido a crochet, colores a elección, hillo 100% algodón",
+        "peso": "160 gr",
+        "altura": "22 cms"
     },
     {
         "id": 7,
         "nombre": "Tortuga Macetero",
         "precio": 8000,
         "img": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.08 (1).jpeg",
-        "tipo": "",
-        "Caracteristicas": "",
-        "peso": "",
+        "tipo": "ramos",
+        "Caracteristicas": "macetero con forma de tortuga y flores a elecion, tejido a crochet, colores a elección, hillo 100% algodón",
+        "peso": "350 gr",
         "altura": "25 cms"
     },
     {
@@ -74,10 +74,10 @@
         "nombre": "Caballo Grande",
         "precio": 7500,
         "img": "img/amigurumis/ef0daeec-6bb0-4acb-8422-04d282566869.jpeg",
-        "tipo": "",
-        "Caracteristicas": "",
-        "peso": "",
-        "altura": "22 cms"
+        "tipo": "animales",
+        "Caracteristicas": "caballo grande de 3 colores tejido a crochet, colores a elección, hillo 100% algodón",
+        "peso": "180 gr",
+        "altura": "35 cms"
     },
     {
         "id": 9,
@@ -184,7 +184,7 @@
         "nombre": "Luffy",
         "precio": 3700,
         "img": "img/amigurumis/94b54d6b-1962-4d99-a077-505da80684e9.jpeg",
-        "tipo": "",
+        "tipo": "anime",
         "Caracteristicas": "",
         "peso": "",
         "altura": "21 cms"
