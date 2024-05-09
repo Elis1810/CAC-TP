@@ -5,9 +5,9 @@
         "precio": 6500,
         "img": "img/amigurumis/51b25683-7dca-46c1-bb28-38c3857c0d82.jpeg",
         "tipo": "animales",
-        "Caracteristicas": "25 cms",
+        "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "25 cms"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "tipo": "animales",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "15 cms"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "tipo": "animales",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "22cms"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "tipo": "animales",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "10 cms"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "12 cms"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "16 cms"
     },
     {
         "id": 7,
@@ -67,7 +67,7 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "25 cms"
     },
     {
         "id": 8,
@@ -77,7 +77,7 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "22 cms"
     },
     {
         "id": 9,
@@ -87,7 +87,7 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "17 cms"
     },
     {
         "id": 10,
@@ -97,7 +97,7 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "21 cms"
     },
     {
         "id": 11,
@@ -107,7 +107,7 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "15 cms"
     },
     {
         "id": 12,
@@ -117,7 +117,7 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "13 cms"
     },
     {
         "id": 13,
@@ -127,7 +127,7 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "18 cms"
     },
     {
         "id": 14,
@@ -137,7 +137,7 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "24 cms"
     },
     {
         "id": 15,
@@ -147,7 +147,7 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "20 cms"
     },
     {
         "id": 16,
@@ -157,7 +157,7 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "20 cms"
     },
     {
         "id": 17,
@@ -167,7 +167,7 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "10 cms"
     },
     {
         "id": 18,
@@ -177,7 +177,7 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "20 cms"
     },
     {
         "id": 19,
@@ -187,7 +187,7 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "21 cms"
     },
     {
         "id": 20,
@@ -197,7 +197,7 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "18 cms"
     },
     {
         "id": 21,
@@ -207,7 +207,7 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "15 cms"
     },
     {
         "id": 22,
@@ -217,7 +217,7 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "22 cms"
     },
     {
         "id": 23,
@@ -227,7 +227,7 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "17 cms"
     },
     {
         "id": 24,
@@ -237,47 +237,47 @@
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "15 cms"
     },
     {
         "id": 25,
-        "nombre": "",
+        "nombre": "Winnie Pooh y Piglet",
         "precio": "",
         "img": "img/amigurumis/84cc75c6-787b-4913-9eae-74288699b66e.jpeg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "20 cms"
     },    
     {
         "id": 26,
-        "nombre": "",
+        "nombre": "Messi",
         "precio": "",
         "img": "img/amigurumis/420201093_7328487517245555_4529613669920779010_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "17 cms"
     },
     {
         "id": 27,
-        "nombre": "",
+        "nombre": "Messi",
         "precio": "",
         "img": "img/amigurumis/438778156_1641881606573914_9171445858816905665_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "17 cms"
     },
     {
         "id": 28,
-        "nombre": "",
+        "nombre": "Cristiano Ronaldo",
         "precio": "",
         "img": "img/amigurumis/432946332_1858358591333239_2244537054545680641_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "19 cms"
     },
     {
         "id": 29,
@@ -291,37 +291,37 @@
     },
     {
         "id": 30,
-        "nombre": "",
+        "nombre": "Conejito",
         "precio": "",
         "img": "img/amigurumis/440409082_3687863084862602_3745173611959111760_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "16 cms"
     },
     {
         "id": 31,
-        "nombre": "",
+        "nombre": "Conejito",
         "precio": "",
         "img": "img/amigurumis/422008576_2225361961134845_7097203683420699135_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "16 cms"
     },
     {
         "id": 32,
-        "nombre": "",
+        "nombre": "Elefantito",
         "precio": "",
         "img": "img/amigurumis/421946403_122191179140006237_1642575648036041048_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "20 cms"
     },
     {
         "id": 33,
-        "nombre": "",
+        "nombre": "Bunny con tutú",
         "precio": "",
         "img": "img/amigurumis/422396157_1455226222090277_4472229502859020381_n.jpg",
         "tipo": "",
@@ -331,123 +331,123 @@
     },
     {
         "id": 34,
-        "nombre": "",
+        "nombre": "Perry el ornitorrinco",
         "precio": "",
         "img": "img/amigurumis/422566022_3692267980992359_6738235666618089994_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "18 cms"
     },
     {
         "id": 35,
-        "nombre": "",
+        "nombre": "Lechuza verde y rosa",
         "precio": "",
         "img": "img/amigurumis/425500730_25730400073210444_4529304278639833503_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "15 cms"
     },
     {
         "id": 36,
-        "nombre": "",
+        "nombre": "Zorro",
         "precio": "",
         "img": "img/amigurumis/430064126_1773580053108226_5003286481359679844_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "17 cms"
     },
     {
         "id": 37,
-        "nombre": "",
+        "nombre": "Perro piloto",
         "precio": "",
         "img": "img/amigurumis/432244833_7710605922303172_3151865716003270767_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "18 cms"
     },
     {
         "id": 38,
-        "nombre": "",
+        "nombre": "Jardinera",
         "precio": "",
         "img": "img/amigurumis/440239031_1567670737355799_6612758257027329642_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "20 cms"
     },
     {
         "id": 39,
-        "nombre": "",
+        "nombre": "Dinosaurio",
         "precio": "",
         "img": "img/amigurumis/431587556_7251980441589601_3892995005910568808_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "25 cms"
     },
     {
         "id": 40,
-        "nombre": "",
+        "nombre": "Muñeca",
         "precio": "",
         "img": "img/amigurumis/432473508_10163508633984942_6151140674968669640_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "20 cms"
     },
     {
         "id": 41,
-        "nombre": "",
+        "nombre": "Stich",
         "precio": "",
         "img": "img/amigurumis/432758405_7207242596033005_2468976781594970242_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "22 cms"
     },
     {
         "id": 42,
-        "nombre": "",
+        "nombre": "Stich rosa",
         "precio": "",
         "img": "img/amigurumis/432788376_766149268825935_3882192464395506257_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "18 cms"
     },
     {
         "id": 43,
-        "nombre": "",
+        "nombre": "Stich azul",
         "precio": "",
         "img": "img/amigurumis/436332145_7378689418914746_4251613003013957431_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "18 cms"
     },
     {
         "id": 44,
-        "nombre": "",
+        "nombre": "Stich chef",
         "precio": "",
         "img": "img/amigurumis/438865644_389222890780271_6916486448558862437_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "17 cms"
     },
     {
         "id": 45,
-        "nombre": "",
+        "nombre": "León, Jirafa, Elefante y Mono",
         "precio": "",
         "img": "img/amigurumis/432939781_122139879500104266_159204237938748476_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "21 cms"
     },
     {
         "id": 46,
@@ -461,23 +461,23 @@
     },
     {
         "id": 47,
-        "nombre": "",
+        "nombre": "Perro",
         "precio": "",
         "img": "img/amigurumis/433435808_3781998362033373_6842984888788561563_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "18 cms"
     },
     {
         "id": 48,
-        "nombre": "",
+        "nombre": "Ciervo",
         "precio": "",
         "img": "img/amigurumis/433500985_25333912922889881_5383980595827788063_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "20 cms"
     },
     {
         "id": 49,
@@ -491,93 +491,93 @@
     },
     {
         "id": 50,
-        "nombre": "",
+        "nombre": "Perro dálmata",
         "precio": "",
         "img": "img/amigurumis/434330526_7999207873427435_8644587131956759822_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "18 cms"
     },
     {
         "id": 51,
-        "nombre": "",
+        "nombre": "Perro bombero",
         "precio": "",
         "img": "img/amigurumis/434664304_717189750489554_3798531402877290634_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "18 cms"
     },
     {
         "id": 52,
-        "nombre": "",
+        "nombre": "Mapache",
         "precio": "",
         "img": "img/amigurumis/434681460_7647588201969948_7235946355614705541_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "19 cms"
     },
     {
         "id": 53,
-        "nombre": "",
+        "nombre": "Arturo",
         "precio": "",
         "img": "img/amigurumis/434685780_1402087303844909_1952523880733169916_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "14 cms"
     },
     {
         "id": 54,
-        "nombre": "",
+        "nombre": "Kakashi",
         "precio": "",
         "img": "img/amigurumis/434735284_10230104542150239_7790113861094776043_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "16 cms"
     },
     {
         "id": 55,
-        "nombre": "",
+        "nombre": "Payaso",
         "precio": "",
         "img": "img/amigurumis/434872417_944845990700958_2165661306565852690_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "17 cms"
     },
     {
         "id": 56,
-        "nombre": "",
+        "nombre": "Gato gris",
         "precio": "",
         "img": "img/amigurumis/434970880_444996667906309_7504884224011064015_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "18 cms"
     },
     {
         "id": 57,
-        "nombre": "",
+        "nombre": "Gato rosa",
         "precio": "",
         "img": "img/amigurumis/434973490_10220548074766486_3209194914118003536_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "16 cms"
     },
     {
         "id": 58,
-        "nombre": "",
+        "nombre": "Conejo",
         "precio": "",
         "img": "img/amigurumis/435142237_457513746728172_394445446463664503_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "17 cms"
     },
     {
         "id": 59,
@@ -591,23 +591,23 @@
     },
     {
         "id": 60,
-        "nombre": "",
+        "nombre": "Castor",
         "precio": "",
         "img": "img/amigurumis/437875779_7683467101774193_1490004823906619190_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "17 cms"
     },
     {
         "id": 61,
-        "nombre": "",
+        "nombre": "Pony",
         "precio": "",
         "img": "img/amigurumis/435469450_3532254933691735_3038433746133799806_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "19 cms"
     },
     {
         "id": 62,
@@ -621,23 +621,23 @@
     },
     {
         "id": 63,
-        "nombre": "",
+        "nombre": "Egresada",
         "precio": "",
         "img": "img/amigurumis/435684941_10228893250789055_3941514923266208533_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "17 cms"
     },
     {
         "id": 64,
-        "nombre": "",
+        "nombre": "Barbie",
         "precio": "",
         "img": "img/amigurumis/437054748_7469938583074077_7691777918164832263_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "21 cms"
     },
     {
         "id": 65,
@@ -651,13 +651,13 @@
     },
     {
         "id": 66,
-        "nombre": "",
+        "nombre": "Caperucita Roja",
         "precio": "",
         "img": "img/amigurumis/438171104_10230311084694347_7250737895491156781_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "19 cms"
     },
     {
         "id": 67,
@@ -681,63 +681,63 @@
     },
     {
         "id": 69,
-        "nombre": "",
+        "nombre": "Rapunzel",
         "precio": "",
         "img": "img/amigurumis/440440135_1839914593116962_3007766330337820800_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "15 cms"
     },
     {
         "id": 70,
-        "nombre": "",
+        "nombre": "Pollitos azul y rosa",
         "precio": "",
         "img": "img/amigurumis/435875189_122138520254101464_1485954633680535041_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "12 cms"
     },
     {
         "id": 71,
-        "nombre": "",
+        "nombre": "Oruga",
         "precio": "",
         "img": "img/amigurumis/436221774_455747863571427_6534282504052770912_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "25 cms"
     },
     {
         "id": 72,
-        "nombre": "",
+        "nombre": "Elsa Frozen",
         "precio": "",
         "img": "img/amigurumis/fdd1b82d-d044-4780-aded-12d8835f742b.jpeg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "16 cms"
     },
     {
         "id": 73,
-        "nombre": "",
+        "nombre": "Woody y Jessie",
         "precio": "",
         "img": "img/amigurumis/437380832_1906072676510956_6310408735616610221_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "19 cms"
     },
     {
         "id": 74,
-        "nombre": "",
+        "nombre": "Pato",
         "precio": "",
         "img": "img/amigurumis/437585312_1451093155498041_2630048355790043668_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "20 cms"
     },
     {
         "id": 75,
@@ -751,103 +751,103 @@
     },
     {
         "id": 76,
-        "nombre": "",
+        "nombre": "Zebra",
         "precio": "",
         "img": "img/amigurumis/438169142_122191178816006237_3087453152065882791_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "19 cms"
     },
     {
         "id": 77,
-        "nombre": "",
+        "nombre": "Panda",
         "precio": "",
         "img": "img/amigurumis/437904064_459851656494381_6678003043320282027_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "17 cms"
     },
     {
         "id": 78,
-        "nombre": "",
+        "nombre": "Pikachu",
         "precio": "",
         "img": "img/amigurumis/437959858_122102750066286241_8046668733400442067_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "15 cms"
     },
     {
         "id": 79,
-        "nombre": "",
+        "nombre": "Snorlax",
         "precio": "",
         "img": "img/amigurumis/437382025_7394081440712344_5672764228043660703_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "22 cms"
     },
     {
         "id": 80,
-        "nombre": "",
+        "nombre": "Appa",
         "precio": "",
         "img": "img/amigurumis/438095589_10226252893769900_3163511420598415382_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "25 cms"
     },
     {
         "id": 81,
-        "nombre": "",
+        "nombre": "Aguila",
         "precio": "",
         "img": "img/amigurumis/438100173_10224860862610784_6597603841612019723_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "21 cms"
     },
     {
         "id": 82,
-        "nombre": "",
+        "nombre": "Zorro",
         "precio": "",
         "img": "img/amigurumis/438101409_122191178150006237_4574457807264795157_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "18 cms"
     },
     {
         "id": 83,
-        "nombre": "",
+        "nombre": "Chancho",
         "precio": "",
         "img": "img/amigurumis/438101474_1206948697132831_5724338961572962722_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "17 cms"
     },
     {
         "id": 84,
-        "nombre": "",
+        "nombre": "Oso marrón",
         "precio": "",
         "img": "img/amigurumis/438101652_122191176782006237_6046754357248947188_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "22 cms"
     },
     {
         "id": 85,
-        "nombre": "",
+        "nombre": "Ratón",
         "precio": "",
         "img": "img/amigurumis/438119152_122191176008006237_7964595193217550946_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "11 cms"
     },
     {
         "id": 86,
@@ -901,23 +901,23 @@
     },
     {
         "id": 91,
-        "nombre": "",
+        "nombre": "Goku",
         "precio": "",
         "img": "img/amigurumis/440850895_7419848108136748_6074013785321846705_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "17 cms"
     },
     {
         "id": 92,
-        "nombre": "",
+        "nombre": "Vegeta",
         "precio": "",
         "img": "img/amigurumis/439343003_3675459289371179_8168259857450901493_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "17 cms"
     },
     {
         "id": 93,
@@ -939,73 +939,73 @@
     },
     {
         "id": 95,
-        "nombre": "",
+        "nombre": "Chimuelo",
         "precio": "",
         "img": "img/amigurumis/440125647_3718663291709241_1140953059514110323_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "25 cms"
     },
     {
         "id": 96,
-        "nombre": "",
+        "nombre": "Perro con boina",
         "precio": "",
         "img": "img/amigurumis/439310638_10233310033198011_4831224972264822596_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "18 cms"
     },
     {
         "id": 97,
-        "nombre": "",
+        "nombre": "Chancho rosa",
         "precio": "",
         "img": "img/amigurumis/438145666_122191179062006237_5202952417597443677_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "16 cms"
     },
     {
         "id": 98,
-        "nombre": "",
+        "nombre": "Pajaro",
         "precio": "",
         "img": "img/amigurumis/438159831_122191177382006237_1136892044702112293_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "17 cms"
     },
     {
         "id": 99,
-        "nombre": "",
+        "nombre": "Mapache con corazón",
         "precio": "",
         "img": "img/amigurumis/438162964_122191179038006237_5082561725291850915_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "19 cms"
     },
     {
         "id": 100,
-        "nombre": "",
+        "nombre": "Duende",
         "precio": "",
         "img": "img/amigurumis/438300594_979102337072638_7330847877716167593_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "14 cms"
     },
     {
         "id": "101",
-        "nombre": "",
+        "nombre": "Ballena",
         "precio": "",
         "img": "img/amigurumis/440414539_2094640310908944_6951953631116952547_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "20 cms"
     },
     {
         "id": "102",
@@ -1019,63 +1019,63 @@
     },
     {
         "id": "103",
-        "nombre": "",
+        "nombre": "Aliens verde, gris y violeta",
         "precio": "",
         "img": "img/amigurumis/439336272_6360277834097439_2137459936116901148_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "18 cms"
     },
     {
         "id": "104",
-        "nombre": "",
+        "nombre": "Mickey y Minnie",
         "precio": "",
         "img": "img/amigurumis/439442243_7697392810318339_4315033962254637673_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "15 cms"
     },
     {
         "id": "105",
-        "nombre": "",
+        "nombre": "Oveja",
         "precio": "",
         "img": "img/amigurumis/440739899_122191175966006237_5305132891661629383_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "16 cms"
     },
     {
         "id": "106",
-        "nombre": "",
+        "nombre": "Foca",
         "precio": "",
         "img": "img/amigurumis/441156027_122191176374006237_8608273559589615578_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "19 cms"
     },
     {
         "id": "107",
-        "nombre": "",
+        "nombre": "Hugo",
         "precio": "",
         "img": "img/amigurumis/441331530_10227225107067863_1659829136225567463_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "17 cms"
     },
     {
         "id": "108",
-        "nombre": "",
+        "nombre": "Zorro",
         "precio": "",
         "img": "img/amigurumis/441301784_960035192515371_8153803718739296417_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "14 cms"
     },
     {
         "id": "109",
@@ -1089,141 +1089,142 @@
     },
     {
         "id": "110",
-        "nombre": "",
+        "nombre": "Perro",
         "precio": "",
         "img": "img/amigurumis/441492249_10168410391570391_5774602560367403042_n.jpg",
         "tipo": "",
-        "Caracteristicas": "","peso": "",
-        "altura": ""
+        "Caracteristicas": "",
+        "peso": "",
+        "altura": "16 cms"
     },
     {
         "id": "111",
-        "nombre": "",
+        "nombre": "León",
         "precio": "",
         "img": "img/amigurumis/438717130_10160422635103073_581095115459853401_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "22 cms"
     },
     {
         "id": "112",
-        "nombre": "",
+        "nombre": "Pajarito",
         "precio": "",
         "img": "img/amigurumis/440589694_3672688166352077_4298545673611868773_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "13 cms"
     },
     {
-        "id": "1113",
-        "nombre": "",
+        "id": "113",
+        "nombre": "Zorro",
         "precio": "",
         "img": "img/amigurumis/440746695_773523888214097_6735781606338679686_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "17 cms"
     },
     {
         "id": "114",
-        "nombre": "",
+        "nombre": "Tortuga",
         "precio": "",
         "img": "img/amigurumis/441379027_2417308495134609_3660519612805082422_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "12 cms"
     },
     {
         "id": "115",
-        "nombre": "",
+        "nombre": "Rosas",
         "precio": "",
         "img": "img/amigurumis/439985799_3338863636258346_3875010974478621383_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "17 cms"
     },
     {
         "id": "116",
-        "nombre": "",
+        "nombre": "Ramo flores",
         "precio": "",
         "img": "img/amigurumis/441459846_816973216999444_6027953537771965099_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "17 cms"
     },
     {
         "id": "117",
-        "nombre": "",
+        "nombre": "Diente de león",
         "precio": "",
         "img": "img/amigurumis/441950982_8176844235664895_7718408258068189568_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "11 cms"
     },
     {
         "id": "118",
-        "nombre": "",
+        "nombre": "Girasol chancho",
         "precio": "",
         "img": "img/amigurumis/441330716_10224825860861254_2333186639936919017_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "15 cms"
     },
     {
         "id": "119",
-        "nombre": "",
+        "nombre": "Ramo flores",
         "precio": "",
         "img": "img/amigurumis/439879448_6957055891065093_3624870212703854986_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "18 cms"
     },
     {
         "id": "120",
-        "nombre": "",
+        "nombre": "Ramo flores",
         "precio": "",
         "img": "img/amigurumis/438239360_458811376562290_6269321330009199932_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "18 cms"
     },
     {
         "id": "121",
-        "nombre": "",
+        "nombre": "Ramo flores",
         "precio": "",
         "img": "img/amigurumis/438159759_461234949809292_8251080334577682038_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "18 cms"
     },
     {
         "id": "122",
-        "nombre": "",
+        "nombre": "Flor azul",
         "precio": "",
         "img": "img/amigurumis/437961936_7346842762030544_7144895180193367634_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "16 cms"
     },
     {
         "id": "123",
-        "nombre": "",
+        "nombre": "Ramo flores",
         "precio": "",
         "img": "img/amigurumis/437370465_7346841305364023_5235345114611681296_n.jpg",
         "tipo": "",
         "Caracteristicas": "",
         "peso": "",
-        "altura": ""
+        "altura": "18 cms"
     }
 ]
