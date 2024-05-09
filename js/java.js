@@ -100,6 +100,3 @@ function generarTarjetas(datosProductos){
   }
   return cad;
 }
-
-
-
