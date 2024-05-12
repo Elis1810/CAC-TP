@@ -60,10 +60,24 @@
                     </form>
                 </div>
                 <br>
-                <div class="pantalla100">
+                <div id="pantalla100">
                     <h2 style="text-align: left;">PODES ENCONTRARNOS EN</h2>
                     <br>
-                    <ul id="sucursalesgrid">
+                    <div style="min-width: 24%;" v-for="elemento in datos" id=sucursalesdiv id="imp"class="m1 animate__animated animate__backInRight animate__delay-1s">
+                        <div>
+                            <h4 style="text-align: center;">{{elemento.nombre}}</h4>
+                            <iframe
+                                src=${elemento.mapurl}
+                                width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+                                referrerpolicy="no-referrer-when-downgrade" ></iframe> 
+                                <br>                           
+                            <p style="display: inline;">Direccion:</p> <a href="elemento.dirurl">{{elemento.dirtext}}</a>
+                            <p><h5>Horario:</h5> {{elemento.horario}}</p>
+                            <p>Telefono: {{elemento.telefono}}</p>
+                        </div>
+
+                    </div>
+<!--                    <ul id="sucursalesgrid">
                         <li>Capital Federal </li>
                         <ul>Direccion: <a href="https://maps.app.goo.gl/qZqZnfg2VADXjUQRA">Av. S. Martín 2165</a></ul>
                         <ul>Horario: Lunes a Viernes de 9 a 18, Sábados de 9 a 14, Domingos y feriados Cerrado</ul>
@@ -86,12 +100,17 @@
                         <ul>Horario: Lunes a Viernes de 9 a 12 y 15 a 21, sábados y domingos cerrado</ul>
                         <ul>Telefono: (294) 443 - 5735</ul>
                         <br>
+
                     </div>
                 <div  class="pantalla100">
                     <div id="imp"class="m1 animate__animated animate__backInRight animate__delay-1s"><iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1641.993236593784!2d-58.458855165023!3d-34.60450355821359!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca03fd6bb8b7%3A0x17d8dbbce9227e16!2sPanaderia%20Olivero!5e0!3m2!1ses!2sar!4v1713021756339!5m2!1ses!2sar"
                             width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
                             referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <li>Capital Federal </li>
+                            <ul>Direccion: <a href="https://maps.app.goo.gl/qZqZnfg2VADXjUQRA">Av. S. Martín 2165</a></ul>
+                            <ul>Horario: Lunes a Viernes de 9 a 18, Sábados de 9 a 14, Domingos y feriados Cerrado</ul>
+                            <ul>Telefono: 4444-5555</ul>
                     </div>
                     <div id="par" class="m2 animate__animated animate__backInRight animate__delay-2s">
                         <iframe
@@ -113,6 +132,7 @@
                     </div>
 
                 </div>
+                -->
                 <section>
 
                 </section>
@@ -133,4 +153,6 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>   
     <script src="https://unpkg.com/vue@3"></script>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="./js/sucursales.js"></script>
 </html>
