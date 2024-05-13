@@ -703,26 +703,42 @@ container-type: inline-size;
 
   text-align: center;
 }
+.sucursales{
+/*
 #pantalla100 {
+
+  flex: 0 0 100%;
+  margin-top: 30px;
+  margin-left: 1%;
+  margin-bottom: 2%;
+ */ 
 display: flex;
 flex-wrap: wrap;
 flex-direction: row;
-justify-content: space-evenly;
-margin-bottom: 2%;
+justify-content: space-around;
+/*agregar fondo y modelo de cajas con fondo bordeado y color claro*/
+}
+.sucursalessub{
+  width: 400px;
+  margin-bottom: 2%;
+background-color: rgb(213, 219, 223);
+
+border-radius: 10px;
+border: 1px solid rgb(132, 132, 132)
+}
+.sucursalessub  p{
+  margin-left: 2%
 }
 #frameurl{
-  margin-left:15%  
+  margin-left: 5%;
+  
 }
+/*
 #pantalla100>div {
   border-style: ridge;
   max-width: 20%;  
 }
-#par {
-  padding-left: 1%;    
-}
-#imp {
-  padding-right: 1%;   
-}
+*/
 .pantalla5051>form {
   height: 70%;
   max-width: 80%;
