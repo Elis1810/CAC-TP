@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tienda Amigurumis</title>    
+    <title>Tienda Amigurumis</title> 
 </head>
 
 <body>
@@ -60,17 +60,19 @@
                     </form>
                 </div>
 
-                <div id="pantalla100">
-                    <h2 style="text-align: left;width: 100%;">PODES ENCONTRARNOS EN</h2>
+                <div class="sucursales" id="pantalla100" id="imp"class="m1 animate__animated animate__backInRight animate__delay-2s">
+                    <h2 style="text-align: left;width: 100%;margin-left: 1%">PODES ENCONTRARNOS EN</h2>
                     <br>
-                    <div id="pantalla100b" style = "min-width: 24%;" v-for= "elemento, i in datos" id = sucursalesdiv id = "imp"class="m1 animate__animated animate__backInRight animate__delay-1s" >
+                    <div class="sucursalessub" style = "min-width: 24%" v-for= "elemento, i in datos" id = "sucursalesdiv"id="imp"class="sucursales m1 animate__animated animate__backInRight animate__delay-1s">
                         <div>
                           <h3 style="text-align: center;">{{elemento.nombre}}</h3>
-                          <p id="frameurl"><iframe
+
+                          
+                          <iframe id="frameurl" 
                             :src="elemento.mapurl"
-                            width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+                            width=90% height="300" style="border:0;" allowfullscreen="" loading="lazy"
                             referrerpolicy="no-referrer-when-downgrade" ></iframe>
-                        </p><br>
+                                <br> <!-- //VER PORQUE NO PONE BIEN LA URL DE LINK HREF-->
                             <p style="display: inline; font-weight: 600; font-size: large;">Direccion:</p> <a href= :scr="elemento.dirurl">{{ elemento.dirtext }}</a>
                             <p><span style="font-weight: 600; font-size: large;">Horario:</span> {{ elemento.horario }}</p>
                             <p><span style="font-weight: 600; font-size: large;">Telefono:</span> {{ elemento.telefono }}</p>
