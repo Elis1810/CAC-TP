@@ -59,24 +59,24 @@
                         <input class="btn btn-primary" type="Enviar" value="Enviar" style="margin-left: 80%; width: 120px;;">
                     </form>
                 </div>
-                <br>
-                <div id="pantalla100">
-                    <h2 style="text-align: left;">PODES ENCONTRARNOS EN</h2>
-                    <br>
-                    <div style="min-width: 24%;" v-for="elemento in datos" id=sucursalesdiv id="imp"class="m1 animate__animated animate__backInRight animate__delay-1s">
-                        <div>
-                            <h4 style="text-align: center;">{{elemento.nombre}}</h4>
-                            <iframe
-                                src=${elemento.mapurl}
-                                width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
-                                referrerpolicy="no-referrer-when-downgrade" ></iframe> 
-                                <br>                           
-                            <p style="display: inline;">Direccion:</p> <a href="elemento.dirurl">{{elemento.dirtext}}</a>
-                            <p><h5>Horario:</h5> {{elemento.horario}}</p>
-                            <p>Telefono: {{elemento.telefono}}</p>
-                        </div>
 
+                <div id="pantalla100">
+                    <h2 style="text-align: left;width: 100%;">PODES ENCONTRARNOS EN</h2>
+                    <br>
+                    <div id="pantalla100b" style = "min-width: 24%;" v-for= "elemento, i in datos" id = sucursalesdiv id = "imp"class="m1 animate__animated animate__backInRight animate__delay-1s" >
+                        <div>
+                          <h3 style="text-align: center;">{{elemento.nombre}}</h3>
+                          <p id="frameurl"><iframe
+                            :src="elemento.mapurl"
+                            width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade" ></iframe>
+                        </p><br>
+                            <p style="display: inline; font-weight: 600; font-size: large;">Direccion:</p> <a href= :scr="elemento.dirurl">{{ elemento.dirtext }}</a>
+                            <p><span style="font-weight: 600; font-size: large;">Horario:</span> {{ elemento.horario }}</p>
+                            <p><span style="font-weight: 600; font-size: large;">Telefono:</span> {{ elemento.telefono }}</p>
+                        </div>
                     </div>
+                </div>
 <!--                    <ul id="sucursalesgrid">
                         <li>Capital Federal </li>
                         <ul>Direccion: <a href="https://maps.app.goo.gl/qZqZnfg2VADXjUQRA">Av. S. Martín 2165</a></ul>

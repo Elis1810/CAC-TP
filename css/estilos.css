@@ -817,23 +817,26 @@ container-type: inline-size;
 }
 
 #pantalla100 {
-
+/*
   flex: 0 0 100%;
   margin-top: 30px;
   margin-left: 1%;
   margin-bottom: 2%;
-  
-/*display: flex;
+ */ 
+display: flex;
 flex-wrap: wrap;
 flex-direction: row;
-justify-content: space-evenly;*/
+justify-content: space-evenly;
+margin-bottom: 2%;
+}
+#frameurl{
+  margin-left:15%
+}
+#pantalla100>div {
+  border-style: ridge;
+  max-width: 20%;
 }
 
-#pantalla100>div {
-  display: inline-block;
-  border-style: ridge;
-}
-*/
 
 #par {
   padding-left: 1%;
