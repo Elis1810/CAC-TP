@@ -2,20 +2,15 @@
   margin: 0;
   padding: 0;
 }
-
 body {
   margin: 0;
   margin-top: 60px;
 }
-
 header {
-  position: relative;
-  /* Asegura que los elementos internos respeten el flujo del documento */
+  position: relative;  /* Asegura que los elementos internos respeten el flujo del documento */
 }
-
 main {
-  margin-top: 60px;
-  /* Ajusta el margen superior para dejar espacio para la barra de navegación */
+  margin-top: 60px; /* Ajusta el margen superior para dejar espacio para la barra de navegación */
   display: flex;
 }
 #encabezado {
@@ -24,7 +19,7 @@ main {
   max-width: 100%;
   background-size: cover;/*cover ajusta la imagen segun el ancho y alto del contenedor*/  
   padding: 100px;
-  font-size: 50px;
+  font-size: 70px;
   font: bold 18px;
   color: rgb(0, 0, 0);
   text-decoration: none;
@@ -32,13 +27,11 @@ main {
   margin-top: 70px;
   height: 300px;
 }
-
 /*index*/
 h1 {
   text-align: center;
   justify-content: center;
 }
-
 h2 {
   font-size: 50px;
   font: bold 18px;
@@ -46,143 +39,102 @@ h2 {
   text-decoration: none;
   font-family: Montserrat;
   text-align: center;
-
 }
-
 .navbar {
   display: flex;
   width: 100%;
-  justify-content: space-between;
-  /*Muestra elementos con la misma distancia entre ellos.*/
+  justify-content: space-between;  /*Muestra elementos con la misma distancia entre ellos.*/
   align-items: center;
   background-color: #333;
-  padding: 10px 10px;
-  /*(top, right, buttom, left)*/
+  padding: 10px 10px; /*(top, right, buttom, left)*/
 }
-
 .nav-position {
   position: fixed;
   width: 100%;
-  z-index: 1000;
-  /* Asegura que esté por encima de otros elementos */
-  ;
+  z-index: 1000; /* Asegura que esté por encima de otros elementos */  
   top: 0;
   left: 0;
 }
-
 .logo a {
   color: #e0c5c5;
-  text-decoration: none;
-  /*le queita la linea decoradora a los links*/
+  text-decoration: none;/*le queita la linea decoradora a los links*/
   font-size: 24px;
   margin-left: 10px;
 }
-
 .logo:hover {
   animation: tilt-n-move-shaking 0.55s infinite;
   color: #f1e9e9;
 }
-
 @keyframes tilt-n-move-shaking {
   0% {
     transform: translate(0, 0) rotate(0deg);
   }
-
   25% {
     transform: translate(5px, 5px) rotate(5deg);
   }
-
   50% {
     transform: translate(0, 0) rotate(0deg);
   }
-
   75% {
     transform: translate(-5px, 5px) rotate(-5deg);
   }
-
   100% {
     transform: translate(0, 0) rotate(0deg);
   }
 }
-
 .nav-links {
   display: flex;
-  list-style-type: none;
-  /*se utiliza para especificar el tipo de viñeta o numeración que se muestra en elementos de lista*/
+  list-style-type: none; /*se utiliza para especificar el tipo de viñeta o numeración que se muestra en elementos de lista*/
 }
-
 .nav-links li {
   margin-right: 20px;
   padding-top: 10px;
 }
-
 .nav-links a {
   color: #fff;
   text-decoration: none;
   font-size: 20px;
 }
-
 .nav-links a:hover {
   text-decoration: none;
   padding: 15px 1px 22px 1px;
   color: black;
   background-color: #fff;
 }
-
 .burger {
-  margin-right: -255px;
-  /*para que no se vea mi icuno menu desplegable en pantalla tamño compu*/
+  margin-right: -255px; /*para que no se vea mi icuno menu desplegable en pantalla tamño compu*/
   display: none;
   flex-direction: column;
   cursor: pointer;
 }
-
-.line1,
-.line2,
-.line3 {
+.line1, .line2, .line3 {
   width: 25px;
   height: 3px;
   margin: 3px;
   background-color: #f7efef;
   transition: transform 0.4s ease-in-out;
 }
-
 /*inicio carrousel */
 .container {
-  max-width: 60%;
-  /*Ancho máximo deseado*/
-  /*display: flex;*/
-  /*este flex no va a aca o descuadra las img del carrousel*/
+  max-width: 60%; /*Ancho máximo deseado*/  
   margin-bottom: 30px;
-  margin-top: 70px;
-  /*border: 5px solid; */
-  /*este borde es temporal, es solo para ver el espacio que ocupa el carrucel*/
+  margin-top: 70px;  
 }
-
 .carousel-item {
   max-width: 100%;
-  /*ocupa todo el ancho diponible del contenedor*/
-  height: 450px;
-  /* Altura deseada */
-  margin-top: 30px;
-  /*para separar la barra espaciadora del carroucel*/
-  margin-bottom: 30px;
+  height: 450px;  
+  margin-top: 30px;  
+  margin-bottom: 25px;
   object-fit: cover;
 }
-
 .carousel-item img {
-  max-width: 100%;
-  /* La imagen no será más ancha que el contenedor */
-  width: 100%;
-  /* Ajustar el ancho de la imagen automáticamente */
-  height: 450px;
-  /* Ajustar la altura de la imagen automáticamente */
-  margin: 0 auto;
-  /* Centrar la imagen dentro del carrusel */
-  object-fit: cover;
+  max-width: 100%;  /* La imagen no será más ancha que el contenedor */
+  width: 100%;  
+  height: 450px;  
+  margin: 0 auto;    
+  object-fit: cover;/* Centrar la imagen dentro del carrusel */
   background-position: center;
 }
-
 /*fin carroucel*/
 h3 {
   font-size: 50px;
@@ -192,7 +144,6 @@ h3 {
   font-family: Montserrat;
   text-align: center;
 }
-
 h3>p {
   font-size: 20px;
   color: rgb(0, 0, 0);
@@ -200,7 +151,6 @@ h3>p {
   font-family: Montserrat;
   text-align: center;
 }
-
 /*cajas de imagenes*/
 #cajapadre {
   display: flex;
@@ -208,12 +158,10 @@ h3>p {
   /*border: 5px solid;*/
   margin-left: 8%;
 }
-
 #cajapadre>div {
   height: 300px;
   margin: 15px 10px 15px 10px;
 }
-
 #caja-1 {
   flex: 1;
   background-image: url(../img/amigurumis/421946403_122191179140006237_1642575648036041048_n.jpg);
@@ -242,7 +190,6 @@ h3>p {
   border: 3px solid;
   background-position: center;
 }
-
 /*fin imagenes*/
 
 /*index caja de texto*/
@@ -254,7 +201,6 @@ h3>p {
   text-align: center;
   justify-content: space-evenly;
 }
-
 .contenedorBis {
   display: flex;
   width: 80%;
@@ -263,12 +209,10 @@ h3>p {
   justify-content: space-evenly;
   /* Los elementos se distribuyen de manera que el espacio entre los elementos (y el espacio hasta los bordes) sea igual.*/
 }
-
 .contenedorBis p {
   margin-top: 50px;
   margin-bottom: 20px;
 }
-
 .linea-vertical {
   border: none;
   /* Quita el borde predeterminado */
@@ -281,7 +225,6 @@ h3>p {
   margin-left: 50px;
   margin-right: 50px;
 }
-
 #faticon1 {
   background-image: url(../img/faticom/png/002-bloquear.png);
   margin-bottom: 10px;
@@ -292,7 +235,6 @@ h3>p {
   margin-top: 30px;
   /* Espacio entre icono y texto */
 }
-
 #faticon2 {
   background-image: url(../img/faticom/png/003-camin-de-carga.png);
   margin-bottom: 10px;
@@ -303,7 +245,6 @@ h3>p {
   margin-top: 30px;
   /* Espacio entre icono y texto */
 }
-
 #faticon3 {
   background-image: url(../img/faticom/png/001-museo.png);
   margin-bottom: 10px;
@@ -314,7 +255,6 @@ h3>p {
   margin-top: 30px;
   /* Espacio entre icono y texto */
 }
-
 footer {
   background-color: #333;
   color: white;
@@ -323,31 +263,25 @@ footer {
   justify-content: space-between;
   align-items: center;
 }
-
 .footer-left {
   text-align: left;
 }
-
 .footer-right {
   text-align: right;
 }
-
 .social-icon img {
   width: 80px;
   height: 80px;
 }
-
 .site-footer img {
   width: 30px;
   height: auto;
 }
-
 .social-icons li {
   display: inline-block;
   font-size: 14px;
   margin-right: 15px;
 }
-
 .contact-section {
   margin-left: auto;
   display: flex;
@@ -355,23 +289,19 @@ footer {
   align-items: flex-start;
   gap: 10px;
 }
-
 .site-footer .social-icons {
   text-align: center;
 }
-
 .container p {
   font-size: 18px;
   font-family: Montserrat;
   text-align: justify;
 }
-
 .amigurumis {
   background-color: beige;
   max-width: 80%;
   margin-left: 150px;
 }
-
 /*fin de index*/
 /*inicio productos*/
 .capsula {
@@ -381,7 +311,6 @@ footer {
   /* Distribuye el espacio entre columnas */
 
 }
-
 #columnaIzq {  
   float: left;
   width: 20%;
@@ -389,7 +318,6 @@ footer {
   list-style: none;
   padding: 10px;
 }
-
 #columnaCentral {
   flex: 1;
   /* La columna central ocupa el espacio restante */
@@ -401,7 +329,6 @@ footer {
   flex-wrap: wrap;
   gap: 5px;
 }
-
 .tarjetas {
   /*border-style: double;*/
   justify-content: space-evenly;
@@ -417,7 +344,6 @@ footer {
   opacity: 0.8;
   background-color: rgb(248, 227, 201);
 }
-
 .tarjetas img {
   display: block;
   /* Elimina el espacio adicional debajo de la imagen */
@@ -453,28 +379,24 @@ footer {
     opacity: 1;
   }
 }
-
 /*fin productos*/
-/*pedidos*/
+/*inicio pedidos*/
 .formulario {
   background-image: url(../img/ice-cream-7123584_640.jpg);
   background-position: center;
   margin-left: 500px;
   margin-right: 500px;
   margin-bottom: 10px;
-  background-size: cover;
-  /*cover ajusta la imagen segun el ancho y alto del contenedor*/
+  background-size: cover; /*cover ajusta la imagen segun el ancho y alto del contenedor*/
   padding: 80px;
   opacity: 0.7;
 }
-
 .btn-primary,
 .btn-primary {
   width: 45%;
   margin-left: 15px;
   align-items: center;
 }
-
 /*fin pedidos*/
 /*inicio metodos de pagos*/
 .textContenedor {
@@ -487,7 +409,6 @@ footer {
   /* Centra verticalmente */
   margin-left: 300px;
 }
-
 /*fin metodos de pagos*/
 @media screen and (max-width: 768px) {}
 
@@ -495,17 +416,14 @@ footer {
 .site-footer .social-icons {
   text-align: center;
 }
-
 .site-footer .social-icons li {
   display: inline-block;
   margin: 0 15px;
 }
-
 @media screen and (max-width: 576px) {
   .col {
     width: 100%;
   }
-
   #encabezado {
     max-width: 100%;
     padding: 100px;
@@ -516,11 +434,9 @@ footer {
     margin-top: 70px;
     height: 300px;
   }
-
   .logo {
     display: none;
   }
-
   .nav-links {
     display: none;
     flex-direction: column;
@@ -532,7 +448,6 @@ footer {
     padding: 10px 20px;
     z-index: 1000;/* Asegura que la barra nav esté por encima de otros elementos */    
   }
-
   /* Estilos adicionales para mostrar los enlaces */
   .nav-links.show {
     display: flex;
@@ -552,53 +467,44 @@ footer {
     display: flex;
     margin: 5px;
   }
-
   .change .line1 {
     transform: rotate(-45deg) translate(-5px, 6px);
   }
   .change .line2 {
     opacity: 0;
   }
-
   .change .line3 {
     transform: rotate(45deg) translate(-5px, -6px);
   }
-
   .container {
     max-width: 80%;
     flex-direction: column;
   }
-
   .carousel-item img {
     object-fit: cover;
   }
-
   h3 {
     max-width: 90%;
     text-align: center;
     flex-direction: column;
   }
-
   #cajapadre {
     width: 80%;
     height: 900px;
     flex-direction: column;
   }
-
   #cajapadre>div {
     width: 90%;
     height: 1200px;
     margin: 15px 10px 15px 10px;
     flex-direction: column;
   }
-
   .formulario {
     width: 85%;
     margin-left: 20px;
     margin-bottom: 20px;
     height: 800px;
   }
-
   .btn-primary,
   .btn-primary {
     padding-bottom: 50px;
@@ -606,23 +512,19 @@ footer {
     width: 85%;
     align-items: center;
   }
-
   .contenedor1 {
     max-width: 100%;
     height: 550px;
     flex-direction: column;
   }
-
   .contenedorBis {
     flex-direction: column;
     margin: 15px 10px 15px 25px;
     /*(top, right, buttom, left)*/
   }
-
   .linea-vertical {
     display: none;
   }
-
   .textContenedor {
     max-width: 90%;
     flex-direction: column;
@@ -650,28 +552,22 @@ footer {
   #galeria {
     width: 100%;
   }
-
   .tarjetas {
     width: 95%;
   }
-
   .footer {
     padding: 10px;
   }
-
   .social-icon img {
     width: 25px;
     height: 25px;
   }
-
   .social-icon span {
     font-size: 12px;
   }
-
   .site-footer .social-icons {
     text-align: center;
   }
-
   .site-footer .social-icons li {
     display: inline-block;
     margin: 0 5px;
@@ -716,9 +612,6 @@ footer {
   font-size: 30px;
   margin-left: 2cm;
 }
-
-/*sin margin se cortaba el inicio de la lista no se muy bien porque */
-
 #sucursalesgrid>ul {
   margin-left: 2cm;
 }
@@ -762,12 +655,7 @@ display: inline-block;
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
-  /*
-grid-template-columns: 50% 50%;
-grid-template-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-background-color: aquamarine;
-*/
-}
+} 
 
 .pantalla5050 {
   margin-left: 2%;
@@ -815,14 +703,7 @@ container-type: inline-size;
 
   text-align: center;
 }
-
 #pantalla100 {
-/*
-  flex: 0 0 100%;
-  margin-top: 30px;
-  margin-left: 1%;
-  margin-bottom: 2%;
- */ 
 display: flex;
 flex-wrap: wrap;
 flex-direction: row;
@@ -830,22 +711,18 @@ justify-content: space-evenly;
 margin-bottom: 2%;
 }
 #frameurl{
-  margin-left:15%
+  margin-left:15%  
 }
 #pantalla100>div {
   border-style: ridge;
-  max-width: 20%;
+  max-width: 20%;  
 }
-
-
 #par {
-  padding-left: 1%;
+  padding-left: 1%;    
 }
-
 #imp {
-  padding-right: 1%;
+  padding-right: 1%;   
 }
-
 .pantalla5051>form {
   height: 70%;
   max-width: 80%;
@@ -853,7 +730,6 @@ margin-bottom: 2%;
   margin-left: 10%;
   border: 5px;
   border-style: dotted;
-  padding: 2% 2% 6% 2%;
+  padding: 2% 2% 6% 2%;  
 }
-
 /*fin de contactanos*/
