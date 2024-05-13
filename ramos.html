@@ -22,17 +22,27 @@
                     <li><a href="ramos.html">Ramos</a></li>
                     <li><a href="varios.html">Varios</a></li>
                 </ul>
-            </section>            
+            </section>   
+            <section id="appRamos" class="d-flex">
+                <div v-for="elemento in filteredDatos" :key="elemento.id" class="tarjetas">
+                    <div v-if="error===true">Se produjo un error intente mas tarde</div>
+                    <div v-else>                      
+                        <img :src="elemento.img" :alt="elemento.id">
+                        <p>{{elemento.nombre}}</p>
+                        <p>${{elemento.precio}}</p>                                             
+                    </div>
+                </div>
+            </section>         
           </div>
     </main>
 
     <footer></footer>
 
-    <script src="https://unpkg.com/vue@3"></script>
-    <script src="./js/java.js"></script>   
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="./js/java.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="./js/api.json"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>>
 </body>
 </html>

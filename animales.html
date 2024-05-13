@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+
 <body>
     <header></header>
 
@@ -12,33 +14,40 @@
         <div class="animated-container">
             <h2 class="animated-heading">Nuestros Productos</h2>
         </div>
-          <div  class="capsula">
+        <div class="capsula">
             <section id="columnaIzq">
                 <h4>Categorias</h4>
                 <ul>
                     <li><a href="animales.html">Animales</a></li>
                     <li><a href="anime.html">Anime</a></li>
-                    <li><a href="personajes.html">Personajes</a></li>                   
+                    <li><a href="personajes.html">Personajes</a></li>
                     <li><a href="ramos.html">Ramos</a></li>
                     <li><a href="varios.html">Varios</a></li>
                 </ul>
             </section>
-            <div id="app">
-                
-            </div>         
-          </div>
-
-          
+            <section id="app" class="d-flex">
+                <div v-for="elemento in filteredDatos" :key="elemento.id" class="tarjetas">
+                    <div v-if="error===true">Se produjo un error intente mas tarde</div>
+                    <div v-else>                      
+                        <img :src="elemento.img" :alt="elemento.id">
+                        <p>{{elemento.nombre}}</p>
+                        <p>${{elemento.precio}}</p>                                             
+                    </div>
+                </div>
+            </section>
+        </div>
     </main>
+
     <footer></footer>
-    
-    <script src="https://unpkg.com/vue@3"></script>
-    <script src="./js/java.js"></script>     
+
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="./js/java.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="./js/api.json"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script> 
-        
-    
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+
 </body>
+
 </html>

@@ -64,7 +64,7 @@
         "nombre": "Tortuga Macetero",
         "precio": 8000,
         "img": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.08 (1).jpeg",
-        "tipo": "ramos",
+        "tipo": "varios",
         "Caracteristicas": "macetero con forma de tortuga y flores a elecion, tejido a crochet, colores a elección, hillo 100% algodón",
         "peso": "350 gr",
         "altura": "25 cms"
@@ -124,7 +124,7 @@
         "nombre": "Mafalda",
         "precio": 9500,
         "img": "img/amigurumis/3f1cb4f2-eed4-40a0-9c14-efe2f4f8647b.jpeg",
-        "tipo": "",
+        "tipo": "personajes",
         "Caracteristicas": "",
         "peso": "",
         "altura": "18 cms"
@@ -134,7 +134,7 @@
         "nombre": "Shrek",
         "precio": 8600,
         "img": "img/amigurumis/41ea8be9-97f9-43f9-9f86-df1ec9aedd42.jpeg",
-        "tipo": "",
+        "tipo": "personajes",
         "Caracteristicas": "",
         "peso": "",
         "altura": "24 cms"
@@ -144,7 +144,7 @@
         "nombre": "El chavo del 8",
         "precio": 7000,
         "img": "img/amigurumis/cdf80059-0660-439d-b49a-2bfef507ffbc.jpeg",
-        "tipo": "",
+        "tipo": "personajes",
         "Caracteristicas": "",
         "peso": "",
         "altura": "20 cms"
@@ -154,7 +154,7 @@
         "nombre": "Tomoe",
         "precio": 9500,
         "img": "img/amigurumis/WhatsApp Image 2024-04-27 at 16.10.16.jpeg",
-        "tipo": "",
+        "tipo": "anime",
         "Caracteristicas": "",
         "peso": "",
         "altura": "20 cms"
@@ -164,7 +164,7 @@
         "nombre": "Hollow Knight",
         "precio": 9000,
         "img": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.11.jpeg",
-        "tipo": "",
+        "tipo": "anime",
         "Caracteristicas": "",
         "peso": "",
         "altura": "10 cms"
@@ -174,7 +174,7 @@
         "nombre": "katsuki",
         "precio": 4300,
         "img": "img/amigurumis/4646fb28-60b1-4476-a3ca-198662111339.jpeg",
-        "tipo": "",
+        "tipo": "anime",
         "Caracteristicas": "",
         "peso": "",
         "altura": "20 cms"
@@ -194,7 +194,7 @@
         "nombre": "Melody",
         "precio": 12000,
         "img": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.08.jpeg",
-        "tipo": "",
+        "tipo": "anime",
         "Caracteristicas": "",
         "peso": "",
         "altura": "18 cms"
@@ -204,7 +204,7 @@
         "nombre": "Mario Bross",
         "precio": 6600,
         "img": "img/amigurumis/WhatsApp Image 2024-05-02 at 19.10.31 (1).jpeg",
-        "tipo": "",
+        "tipo": "personajes",
         "Caracteristicas": "",
         "peso": "",
         "altura": "15 cms"
@@ -214,7 +214,7 @@
         "nombre": "Grinch",
         "precio": 8600,
         "img": "img/amigurumis/e2b6fc67-d1db-4c03-9824-ac8887ea6bd3.jpeg",
-        "tipo": "",
+        "tipo": "personajes",
         "Caracteristicas": "",
         "peso": "",
         "altura": "22 cms"
@@ -224,17 +224,17 @@
         "nombre": "Cascanueces",
         "precio": 13000,
         "img": "img/amigurumis/WhatsApp Image 2024-04-26 at 19.20.27.jpeg",
-        "tipo": "",
+        "tipo": "personajes",
         "Caracteristicas": "",
         "peso": "",
         "altura": "17 cms"
     },
     {
         "id": 24,
-        "nombre": "Ramo",
+        "nombre": "Ramo Tulipanes Rojos y flork",
         "precio": 5000,
         "img": "img/amigurumis/WhatsApp Image 2024-04-28 at 09.26.33.jpeg",
-        "tipo": "",
+        "tipo": "ramos",
         "Caracteristicas": "",
         "peso": "",
         "altura": "15 cms"
@@ -244,7 +244,7 @@
         "nombre": "Winnie Pooh y Piglet",
         "precio": "",
         "img": "img/amigurumis/84cc75c6-787b-4913-9eae-74288699b66e.jpeg",
-        "tipo": "",
+        "tipo": "personajes",
         "Caracteristicas": "",
         "peso": "",
         "altura": "20 cms"
@@ -254,7 +254,7 @@
         "nombre": "Messi",
         "precio": "",
         "img": "img/amigurumis/420201093_7328487517245555_4529613669920779010_n.jpg",
-        "tipo": "",
+        "tipo": "personajes",
         "Caracteristicas": "",
         "peso": "",
         "altura": "17 cms"
@@ -264,7 +264,7 @@
         "nombre": "Messi",
         "precio": "",
         "img": "img/amigurumis/438778156_1641881606573914_9171445858816905665_n.jpg",
-        "tipo": "",
+        "tipo": "personajes",
         "Caracteristicas": "",
         "peso": "",
         "altura": "17 cms"
@@ -1162,7 +1162,7 @@
         "nombre": "Diente de león",
         "precio": "",
         "img": "img/amigurumis/441950982_8176844235664895_7718408258068189568_n.jpg",
-        "tipo": "",
+        "tipo": "ramos",
         "Caracteristicas": "",
         "peso": "",
         "altura": "11 cms"
@@ -1172,7 +1172,7 @@
         "nombre": "Girasol chancho",
         "precio": "",
         "img": "img/amigurumis/441330716_10224825860861254_2333186639936919017_n.jpg",
-        "tipo": "",
+        "tipo": "ramos",
         "Caracteristicas": "",
         "peso": "",
         "altura": "15 cms"
@@ -1182,7 +1182,7 @@
         "nombre": "Ramo flores",
         "precio": "",
         "img": "img/amigurumis/439879448_6957055891065093_3624870212703854986_n.jpg",
-        "tipo": "",
+        "tipo": "ramos",
         "Caracteristicas": "",
         "peso": "",
         "altura": "18 cms"
@@ -1192,7 +1192,7 @@
         "nombre": "Ramo flores",
         "precio": "",
         "img": "img/amigurumis/438239360_458811376562290_6269321330009199932_n.jpg",
-        "tipo": "",
+        "tipo": "ramos",
         "Caracteristicas": "",
         "peso": "",
         "altura": "18 cms"
@@ -1202,7 +1202,7 @@
         "nombre": "Ramo flores",
         "precio": "",
         "img": "img/amigurumis/438159759_461234949809292_8251080334577682038_n.jpg",
-        "tipo": "",
+        "tipo": "ramos",
         "Caracteristicas": "",
         "peso": "",
         "altura": "18 cms"
@@ -1212,7 +1212,7 @@
         "nombre": "Flor azul",
         "precio": "",
         "img": "img/amigurumis/437961936_7346842762030544_7144895180193367634_n.jpg",
-        "tipo": "",
+        "tipo": "ramos",
         "Caracteristicas": "",
         "peso": "",
         "altura": "16 cms"
@@ -1222,7 +1222,7 @@
         "nombre": "Ramo flores",
         "precio": "",
         "img": "img/amigurumis/437370465_7346841305364023_5235345114611681296_n.jpg",
-        "tipo": "",
+        "tipo": "ramos",
         "Caracteristicas": "",
         "peso": "",
         "altura": "18 cms"
