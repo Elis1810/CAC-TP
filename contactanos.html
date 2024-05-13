@@ -4,11 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tienda Amigurumis</title> 
+    <title>Tienda Amigurumis</title>
 </head>
 
 <body>
-    <header>        
+    <header>
     </header>
     <main>
 
@@ -31,7 +31,8 @@
                         será nuestro amigo y confidente de por vida. Proporciona protección y consuelo.
                         <br><br>
                         Te invitamos a conocer nuestros locales y estar mas en contacto con tu niño interior. Estamos
-                        expandiéndonos por el pais, en este momento tenemos locales en 4 provincias y realizamos envios a todo el pais.
+                        expandiéndonos por el pais, en este momento tenemos locales en 4 provincias y realizamos envios
+                        a todo el pais.
                     </p>
                 </div>
                 <div class="pantalla5051">
@@ -56,30 +57,34 @@
                                 style="height: 150px; width: 90%; margin-bottom: 15px;"></textarea>
                             <label for="floatingTextarea2">Comentarios</label>
                         </span>
-                        <input class="btn btn-primary" type="Enviar" value="Enviar" style="margin-left: 80%; width: 120px;;">
+                        <input class="btn btn-primary" type="Enviar" value="Enviar"
+                            style="margin-left: 80%; width: 120px;;">
                     </form>
                 </div>
 
-                <div class="sucursales" id="pantalla100" id="imp"class="m1 animate__animated animate__backInRight animate__delay-2s">
+                <div class="sucursales" id="pantalla100" id="imp"
+                    class="m1 animate__animated animate__backInRight animate__delay-2s">
                     <h2 style="text-align: left;width: 100%;margin-left: 1%">PODES ENCONTRARNOS EN</h2>
                     <br>
-                    <div class="sucursalessub" style = "min-width: 24%" v-for= "elemento, i in datos" id = "sucursalesdiv"id="imp"class="sucursales m1 animate__animated animate__backInRight animate__delay-1s">
+                    <div class="sucursalessub" style="min-width: 24%" v-for="elemento, i in datos" id="sucursalesdiv"
+                        id="imp" class="sucursales m1 animate__animated animate__backInRight animate__delay-1s">
                         <div>
-                          <h3 style="text-align: center;">{{elemento.nombre}}</h3>
+                            <h3 style="text-align: center;">{{elemento.nombre}}</h3>
 
-                          
-                          <iframe id="frameurl" 
-                            :src="elemento.mapurl"
-                            width=90% height="300" style="border:0;" allowfullscreen="" loading="lazy"
-                            referrerpolicy="no-referrer-when-downgrade" ></iframe>
-                                <br> <!-- //VER PORQUE NO PONE BIEN LA URL DE LINK HREF-->
-                            <p style="display: inline; font-weight: 600; font-size: large;">Direccion:</p> <a href= :scr="elemento.dirurl">{{ elemento.dirtext }}</a>
-                            <p><span style="font-weight: 600; font-size: large;">Horario:</span> {{ elemento.horario }}</p>
-                            <p><span style="font-weight: 600; font-size: large;">Telefono:</span> {{ elemento.telefono }}</p>
+
+                            <iframe id="frameurl" :src="elemento.mapurl" width=90% height="300" style="border:0;"
+                                allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <br> <!-- //VER PORQUE NO PONE BIEN LA URL DE LINK HREF-->
+                            <p style="display: inline; font-weight: 600; font-size: large;">Direccion:</p> <a
+                                href="{{elemento.dirurl}}" target="_blank">{{elemento.dirtext}}</a>
+                                <br>
+                            <p><span style="font-weight: 600; font-size: large;">Horario:</span> {{ elemento.horario }}
+                            </p>
+                            <p><span style="font-weight: 600; font-size: large;">Telefono:</span> {{ elemento.telefono}}</p>
                         </div>
                     </div>
                 </div>
-<!--                    <ul id="sucursalesgrid">
+                <!--                    <ul id="sucursalesgrid">
                         <li>Capital Federal </li>
                         <ul>Direccion: <a href="https://maps.app.goo.gl/qZqZnfg2VADXjUQRA">Av. S. Martín 2165</a></ul>
                         <ul>Horario: Lunes a Viernes de 9 a 18, Sábados de 9 a 14, Domingos y feriados Cerrado</ul>
@@ -149,12 +154,13 @@
     </footer>
 </body>
 
-<script src="./js/java.js"></script>   
-    <script src="js/bootstrap.min.js"></script>
-    <script src="./js/api.json"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>   
-    <script src="https://unpkg.com/vue@3"></script>
-    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-    <script src="./js/sucursales.js"></script>
+<script src="./js/java.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="./js/api.json"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script src="https://unpkg.com/vue@3"></script>
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+<script src="./js/sucursales.js"></script>
+
 </html>

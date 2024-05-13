@@ -828,18 +828,18 @@ display: flex;
 flex-wrap: wrap;
 flex-direction: row;
 justify-content: space-around;
-margin-bottom: 2%;
 /*agregar fondo y modelo de cajas con fondo bordeado y color claro*/
 }
 .sucursalessub{
   width: 400px;
+  margin-bottom: 2%;
 background-color: rgb(213, 219, 223);
 
 border-radius: 10px;
 border: 1px solid rgb(132, 132, 132)
 }
 .sucursalessub  p{
-  margin-left: 2%;
+  margin-left: 2%
 }
 #frameurl{
   margin-left: 5%;
