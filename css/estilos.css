@@ -612,15 +612,13 @@ footer {
   font-size: 30px;
   margin-left: 2cm;
 }
+
 #sucursalesgrid>ul {
-  margin-left: 2cm;
+  margin-left: 2cm;/*sin margin se cortaba el inicio de la lista no se muy bien porque */
 }
 
-/* para mantener el tab en la lista*/
-
-#mapasucursales>div {
+#mapasucursales>div {/* para mantener el tab en la lista*/
   display: inline-block;
-  /*background-color: antiquewhite;*/
 }
 
 #mapasucursales div {
@@ -628,54 +626,23 @@ footer {
   background-size: cover
 }
 
-/*
-#mapasucursales > iframe{
-animation-delay: 5s;
-  display:inline-flex; 
-
-}
-.m1 style{
-  transition-duration: 5s;
-  transform: translate(1000px,30px);
-  visibility: visible; 
-background-color: red;
-display: inline-block;
-}
-*/
-
 #div1cont>p {
   font-size: 20px;
   color: rgb(0, 0, 0);
   text-decoration: none;
   font-family: Montserrat;
-
 }
 
 #div1cont {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
-} 
+}
 
 .pantalla5050 {
   margin-left: 2%;
   flex: 0 0 45%;
   position: relative;
-  /*  background-color: blue;
-/*
-  grid-row-start: 1;
-grid-row-end: 5;
-grid-column-start: 1;
-grid-column-end: 2;*/
-
-
-  /*margin: 2%;
-height: min-content;
-container-type: inline-size;
- /* display: inline-flex;
-  max-width: 45%;
-
-*/
 }
 
 .pantalla5051 {
@@ -686,17 +653,6 @@ container-type: inline-size;
   -moz-border-radius: 35px 0px 35px 0px;
   -webkit-border-radius: 35px 0px 35px 0px;
   border: 2px solid rgb(231, 230, 252)
-    /*
-  grid-row-start: 1;
-  grid-row-end: 5;
-  grid-column-start: 2;
-  grid-column-end:3;
-  margin: 2%;
-
-   display: inline-flex;
-    max-width: 45%;
-  
-  */
 }
 
 .pantalla5050 h3 {
@@ -704,14 +660,6 @@ container-type: inline-size;
   text-align: center;
 }
 .sucursales{
-/*
-#pantalla100 {
-
-  flex: 0 0 100%;
-  margin-top: 30px;
-  margin-left: 1%;
-  margin-bottom: 2%;
- */ 
 display: flex;
 flex-wrap: wrap;
 flex-direction: row;
@@ -733,12 +681,6 @@ border: 1px solid rgb(132, 132, 132)
   margin-left: 5%;
   
 }
-/*
-#pantalla100>div {
-  border-style: ridge;
-  max-width: 20%;  
-}
-*/
 .pantalla5051>form {
   height: 70%;
   max-width: 80%;
