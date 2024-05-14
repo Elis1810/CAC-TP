@@ -93,6 +93,7 @@ function generarTarjetas(datosProductos) {
         <img src="${producto.img}" alt="Producto ${producto.id}"> 
         <p>${producto.nombre}</p>
         <p>Precio: $${producto.precio}</p>
+        <p>${producto.id}</p>
       </div>
     `;
   }
