@@ -33,8 +33,7 @@ sucursalesarr =[
   }
 ]
 let i=0
-let cad= `<h2 style="text-align: left;width: 100%;margin-left: 1%">PODES ENCONTRARNOS EN</h2>
-<br>`
+let cad= ``
 for (let sucu of sucursalesarr){
   i = i+1
   cad = cad + `<div class="sucursalessub m1 animate__animated animate__backInRight animate__delay-${i}s" id="sucursalesdiv">

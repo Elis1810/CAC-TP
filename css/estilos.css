@@ -681,6 +681,13 @@ border: 1px solid rgb(132, 132, 132)
   border-style: dotted;
   padding: 2% 2% 6% 2%;  
 }
+
+.titsucursales{
+  text-align: left;
+  margin-left: 1%;
+  padding-top: 15px;
+}
+
 @media only screen and (min-width: 851px) {
 	
   #div1cont {
