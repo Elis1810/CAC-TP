@@ -681,4 +681,59 @@ border: 1px solid rgb(132, 132, 132)
   border-style: dotted;
   padding: 2% 2% 6% 2%;  
 }
+@media only screen and (min-width: 851px) {
+	
+  #div1cont {
+    display: flex;
+    /*flex-flow: row wrap;*/
+    flex-wrap:wrap;
+  flex-direction:row;
+    justify-content: space-between;
+  }
+  
+  .pantalla5050 {
+    margin-left: 2%;
+    flex: 0 45%;
+    position: relative;
+  }
+  
+  .pantalla5051 {
+    flex: 0 0 45%;
+    position: relative;
+    background-color: rgb(231, 230, 252);
+    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius: 35px 0px 35px 0px;
+    border: 2px solid rgb(231, 230, 252);  
+  }
+}
+@media only screen and (max-width: 851px) {
+	
+  #div1cont {
+    display: flex;
+    /*flex-flow: row wrap;*/
+    flex-wrap:wrap;
+  flex-direction:row;
+    justify-content: space-between;
+  }
+  
+  .pantalla5050 {
+    margin-left: 2%;
+    margin-right: 2%;
+    flex: 0 100%;
+    position: relative;
+  }
+  
+  .pantalla5051 {
+   min-width: 95%;
+    margin-left: 2%;
+    position: relative;
+    justify-content: space-between;
+    background-color: rgb(231, 230, 252);
+    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius: 35px 0px 35px 0px;
+    border: 2px solid rgb(231, 230, 252);  
+  }
+}
 /*fin de contactanos*/
