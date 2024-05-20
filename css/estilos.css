@@ -613,23 +613,6 @@ footer {
 
 /*pantallas medianas*/
 /*incio contactanos*/
-#sucursalesgrid>li {
-  font-size: 30px;
-  margin-left: 2cm;
-}
-
-#sucursalesgrid>ul {
-  margin-left: 2cm;/*sin margin se cortaba el inicio de la lista no se muy bien porque */
-}
-
-#mapasucursales>div {/* para mantener el tab en la lista*/
-  display: inline-block;
-}
-
-#mapasucursales div {
-  margin-right: 10px;
-  background-size: cover
-}
 
 #div1cont>p {
   font-size: 20px;
@@ -640,13 +623,15 @@ footer {
 
 #div1cont {
   display: flex;
-  flex-flow: row wrap;
+  /*flex-flow: row wrap;*/
+  flex-wrap:wrap;
+flex-direction:row;
   justify-content: space-between;
 }
 
 .pantalla5050 {
   margin-left: 2%;
-  flex: 0 0 45%;
+  flex: 0 45%;
   position: relative;
 }
 
@@ -667,13 +652,13 @@ footer {
 .sucursales{
 display: flex;
 flex-wrap:wrap;
-flex-wrap: wrap;
 flex-direction:row;
-justify-content: space-around;
+justify-content: space-evenly;
 /*agregar fondo y modelo de cajas con fondo bordeado y color claro*/
 }
 .sucursalessub{
   width: 400px;
+  margin: 10px;
   margin-bottom: 2%;
 background-color: rgb(213, 219, 223);
 

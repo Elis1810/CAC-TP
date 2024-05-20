@@ -37,7 +37,7 @@ let cad= `<h2 style="text-align: left;width: 100%;margin-left: 1%">PODES ENCONTR
 <br>`
 for (let sucu of sucursalesarr){
   i = i+1
-  cad = cad + `<div class="sucursalessub m1 animate__animated animate__backInRight animate__delay-${i}s"" style="min-width: 24%" id="sucursalesdiv">
+  cad = cad + `<div class="sucursalessub m1 animate__animated animate__backInRight animate__delay-${i}s" id="sucursalesdiv">
       <div>
           <h3 style="text-align: center;">${sucu.nombre}</h3>
           <iframe id="frameurl" src=${sucu.mapurl} width=90% height="300" style="border:0;"
