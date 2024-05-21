@@ -18,7 +18,8 @@ let links = `
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <link rel="stylesheet" href="./js/java.js"></link>
-    <link rel="stylesheet" href="./js/api.json"></link>       
+    <link rel="stylesheet" href="./js/api.json"></link>
+          
 `;
 document.querySelector("head").innerHTML = links;
 
@@ -57,21 +58,21 @@ let foot = `
           <div class="col-md-4">
               <h3>Nosotros</h3>
               <p>Somos una tienda especializada en amigurumis hechos a mano con amor.</p>
-              <p> Sitio desarrollado en Codo a Codo, junto con Ignacio Pacheco, Eli Maldonado, Nico Prose</p>
+              <p> Sitio desarrollado en Codo a Codo, junto con Ignacio Pacheco, Eliana Maldonado, Nicolas praszek</p>
           </div>
           <div class="col-md-4 ">
             <h3>Redes Sociales</h3>
             <ul class="social-icons">
-                <li><img src="/CAC-TP/img/footer/facebook.ico" alt="Facebook"></a></li>
-                <li><img src="/CAC-TP/img/footer/tiktok.ico" alt="TikTok"></a></li>
-                <li><img src="/CAC-TP/img/footer/instagram.ico" alt="Instagram"></a></li>
+                <li><img src="/img/footer/facebook.ico" alt="Facebook"></a></li>
+                <li><img src="/img/footer/tiktok.ico" alt="TikTok"></a></li>
+                <li><img src="/img/footer/instagram.ico" alt="Instagram"></a></li>
             </ul>
         </div>
         <div class="col-md-4">
             <h3>Contacto</h3>
-            <p><img src="/CAC-TP/img/footer/telefono.ico" alt="Icono Teléfono">  (11)12345678</p>
-            <p><img src="/CAC-TP/img/footer/location.ico" alt="Icono Ubicación">  Parque Las Heras, CABA, Buenos Aires, Argentina</p>
-            <p><img src="/CAC-TP/img/footer/correo.ico" alt="Icono Email">  mundoamigurumis@gmail.com</p>
+            <p><img src="/img/footer/telefono.ico" alt="Icono Teléfono">  (11)12345678</p>
+            <p><img src="/img/footer/location.ico" alt="Icono Ubicación">  Parque Las Heras, CABA, Buenos Aires, Argentina</p>
+            <p><img src="/img/footer/correo.ico" alt="Icono Email">  mundoamigurumis@gmail.com</p>
         </div>
     </div>
 </div>`;
