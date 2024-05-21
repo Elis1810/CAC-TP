@@ -101,7 +101,6 @@ function generarTarjetas(datosProductos) {
 }
 
 const { createApp } = Vue;
-
 createApp({
   data() {
     return {
