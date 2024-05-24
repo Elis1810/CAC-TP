@@ -46,16 +46,16 @@ let foot = `
           <div class="col-md-4 ">
             <h3>Redes Sociales</h3>
             <ul class="social-icons">
-                <li><img src="/img/footer/facebook.ico" alt="Facebook"></a></li>
-                <li><img src="/img/footer/tiktok.ico" alt="TikTok"></a></li>
-                <li><img src="/img/footer/instagram.ico" alt="Instagram"></a></li>
+                <li><img src="/img/facebook.ico" alt="Facebook"></a></li>
+                <li><img src="/img/tiktok.ico" alt="TikTok"></a></li>
+                <li><img src="/img/instagram.ico" alt="Instagram"></a></li>
             </ul>
         </div>
         <div class="col-md-4">
             <h3>Contacto</h3>
-            <p><img src="/img/footer/telefono.ico" alt="Icono Teléfono">  (11)12345678</p>
-            <p><img src="/img/footer/location.ico" alt="Icono Ubicación">  Parque Las Heras, CABA, Buenos Aires, Argentina</p>
-            <p><img src="/img/footer/correo.ico" alt="Icono Email">  mundoamigurumis@gmail.com</p>
+            <p><img src="/img/telefono.ico" alt="Icono Teléfono">  (11)12345678</p>
+            <p><img src="/img/location.ico" alt="Icono Ubicación">  Parque Las Heras, CABA, Buenos Aires, Argentina</p>
+            <p><img src="/img/correo.ico" alt="Icono Email">  mundoamigurumis@gmail.com</p>
         </div>
     </div>
 </div>`;
