@@ -41,21 +41,21 @@ let foot = `
           <div class="col-md-4">
               <h3>Nosotros</h3>
               <p>Somos una tienda especializada en amigurumis hechos a mano con amor.</p>
-              <p> Sitio desarrollado en Codo a Codo, junto a Ignacio Pacheco, Eliana Maldonado, Nicolas praszek</p>
+              <p> Sitio desarrollado en Codo a Codo, junto con Ignacio Pacheco, Eliana Maldonado, Nicolas praszek</p>
           </div>
           <div class="col-md-4 ">
             <h3>Redes Sociales</h3>
             <ul class="social-icons">
-                <li><img src="https://elis1810.github.io/CAC-TP/img/footer/facebook.ico" alt="Facebook"></a></li>
-                <li><img src="https://elis1810.github.io/CAC-TP/img/footer/tiktok.ico" alt="TikTok"></a></li>
-                <li><img src="https://elis1810.github.io/CAC-TP/img/footer/instagram.ico" alt="Instagram"></a></li>
+                <li><img src="/img/footer/facebook.ico" alt="Facebook"></a></li>
+                <li><img src="/img/footer/tiktok.ico" alt="TikTok"></a></li>
+                <li><img src="/img/footer/instagram.ico" alt="Instagram"></a></li>
             </ul>
         </div>
         <div class="col-md-4">
             <h3>Contacto</h3>
-            <p><img src="https://elis1810.github.io/CAC-TP/img/footer/telefono.ico" alt="Icono Teléfono">  (11)12345678</p>
-            <p><img src="/https://elis1810.github.io/CAC-TP/img/footer/location.ico" alt="Icono Ubicación">  Parque Las Heras, CABA, Buenos Aires, Argentina</p>
-            <p><img src="https://elis1810.github.io/CAC-TP/img/footer/mail.ico" alt="Icono Email">  mundoamigurumis@gmail.com</p>
+            <p><img src="/img/footer/telefono.ico" alt="Icono Teléfono">  (11)12345678</p>
+            <p><img src="/img/footer/ubicacion.ico" alt="Icono Ubicación">  Parque Las Heras, CABA, Buenos Aires, Argentina</p>
+            <p><img src="/img/footer/correo.ico" alt="Icono Email">  mundoamigurumis@gmail.com</p>
         </div>
     </div>
 </div>`;
