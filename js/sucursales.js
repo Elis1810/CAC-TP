@@ -36,7 +36,7 @@ let i=0
 let cad= ``
 for (let sucu of sucursalesarr){
   i = i+1
-  cad = cad + `<div class="sucursalessub m1 animate__animated animate__backInRight animate__delay-${i}s" id="sucursalesdiv">
+  cad = cad + `<div class="sucursalessub m1 animate__animated animate__backInRight animate__delay-${i}s animate__slow	100ms" id="sucursalesdiv">
       <div>
           <h3 style="text-align: center;">${sucu.nombre}</h3>
           <iframe id="frameurl" src=${sucu.mapurl} width=90% height="300" style="border:0;"

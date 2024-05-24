@@ -671,7 +671,7 @@ justify-content: space-evenly;
 /*agregar fondo y modelo de cajas con fondo bordeado y color claro*/
 }
 .sucursalessub{
-  width: 400px;
+  width: 420px;
   margin: 10px;
   margin-bottom: 2%;
 background-color: rgb(213, 219, 223);
@@ -702,7 +702,7 @@ border: 1px solid rgb(132, 132, 132)
   padding-top: 15px;
 }
 
-@media only screen and (min-width: 851px) {
+@media only screen and (min-width: 879px) {
 	
   #div1cont {
     display: flex;
@@ -728,7 +728,7 @@ border: 1px solid rgb(132, 132, 132)
     border: 2px solid rgb(231, 230, 252);  
   }  
 }
-@media only screen and (max-width: 851px) {
+@media only screen and (max-width: 879px) {
 	
   #div1cont {
     display: flex;
