@@ -46,7 +46,7 @@ let foot = `
           <div class="col-md-4 ">
             <h3>Redes Sociales</h3>
             <ul class="social-icons">
-                <li><img src="https://elis1810.github.io/CAC-TP/img/footer/facebook.ico" alt="Facebook"></a></li>
+                <li><img src="/img/footer/facebook.ico" alt="Facebook"></a></li>
                 <li><img src="/img/footer/tiktok.ico" alt="TikTok"></a></li>
                 <li><img src="/img/footer/instagram.ico" alt="Instagram"></a></li>
             </ul>
