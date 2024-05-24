@@ -1,5 +1,4 @@
 /*comillas invertidad alt+96*/
-
 const { createApp } = Vue;
 createApp({
   data() {
