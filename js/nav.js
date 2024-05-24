@@ -54,7 +54,7 @@ let foot = `
         <div class="col-md-4">
             <h3>Contacto</h3>
             <p><img src="/img/footer/telefono.ico" alt="Icono Teléfono">  (11)12345678</p>
-            <p><img src="/img/footer/ubicacion.ico" alt="Icono Ubicación">  Parque Las Heras, CABA, Buenos Aires, Argentina</p>
+            <p><img src="/img/footer/location.ico" alt="Icono Ubicación">  Parque Las Heras, CABA, Buenos Aires, Argentina</p>
             <p><img src="/img/footer/correo.ico" alt="Icono Email">  mundoamigurumis@gmail.com</p>
         </div>
     </div>
