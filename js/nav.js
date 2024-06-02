@@ -1,10 +1,10 @@
 function toggleMenu() {
-    const navLinks = document.querySelector('.nav-links');
-  
-    navLinks.classList.toggle('show');
-  }
+  const navLinks = document.querySelector('.nav-links');
 
- 
+  navLinks.classList.toggle('show');
+}
+
+
 
 let nav = `
 <div class="nav-position">                  

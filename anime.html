@@ -1,34 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="./css/estilos.css"> 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>      
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">        
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bungee+Spice&family=Dancing+Script&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>  
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <link rel="stylesheet" href="./js/java.js"></link>
-  <link rel="stylesheet" href="./js/api.json"></link>
-  <link rel="stylesheet" href="./js/nav.js"></link>  
-  <link rel="stylesheet" href="./js/carrito.js"></link> 
+    <link rel="stylesheet" href="./css/estilos.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bungee+Spice&family=Dancing+Script&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./js/java.js">
+    </link>
+    <link rel="stylesheet" href="./js/api.json">
+    </link>
+    <link rel="stylesheet" href="./js/nav.js">
+    </link>
+    <link rel="stylesheet" href="./js/carrito.js">
+    </link>
 </head>
+
 <body>
     <header></header>
     <main>
         <div class="animated-container">
             <h2 class="animated-heading">Nuestros Productos</h2>
         </div>
-          <div  class="capsula">
+        <div class="capsula">
             <section id="columnaIzq">
                 <h4>Categorias</h4>
                 <ul>
                     <li><a href="animales.html">Animales</a></li>
                     <li><a href="anime.html">Anime</a></li>
-                    <li><a href="personajes.html">Personajes</a></li>                   
+                    <li><a href="personajes.html">Personajes</a></li>
                     <li><a href="ramos.html">Ramos</a></li>
                     <li><a href="varios.html">Varios</a></li>
                 </ul>
@@ -36,21 +45,42 @@
             <section id="appAnime" class="d-flex">
                 <div v-for="elemento in filteredDatos" :key="elemento.id" class="tarjetas">
                     <div v-if="error===true">Se produjo un error intente mas tarde</div>
-                    <div v-else>                      
+                    <div v-else>
                         <img :src="elemento.img" :alt="elemento.id">
                         <p>{{elemento.nombre}}</p>
-                        <p>${{elemento.precio}}</p>                                             
+                        <p>${{elemento.precio}}</p>
+                        <button class="boton-item" data-id="${producto.id}">Agregar al Carrito</button>
                     </div>
                 </div>
             </section>
-          </div>
+            <!--carrito de compras-->
+            <div class="carrito">
+                <div class="main-carrito">
+                    <h3><img src="./img/faticom/png/carrito-de-compras.png" alt="carrito de compras" width="60px"> Mi
+                        Carrito</h3>
+                </div>
+                <div class="carrito-items">
+                    <!-- Los elementos del carrito se agregarán dinámicamente aquí -->
+                    <div class="carrito-item">
+                    </div>
+                </div>
+                <div class="carrito-total">
+                    <div class="fila">
+                        <strong>Total</strong>
+                        <span class="carrito-precio-total">$0,00</span>
+                    </div>
+                    <button class="btn-pagar"><i class="fa-solid fa-bag-shopping"></i>Pagar</button>
+                </div>
+            </div>
+        </div>
     </main>
     <footer></footer>
-    
+
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <script src="./js/nav.js"></script>
-    <script src="./js/carrito.js" async></script>         
-    <script src="./js/java.js"></script>   
-    
+    <script src="./js/carrito.js" async></script>
+    <script src="./js/java.js"></script>
+
 </body>
+
 </html>

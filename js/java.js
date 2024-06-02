@@ -1,3 +1,4 @@
+
 /*comillas invertidad alt+96*/
 const { createApp } = Vue;
 createApp({
@@ -30,7 +31,7 @@ createApp({
   },
   created() {
     // Se ejecuta cada vez que se crea el objeto VUE
-    this.fetchData(this.url);         
+    this.fetchData(this.url);
   },
 }).mount("#app");
 
@@ -64,7 +65,7 @@ createApp({
   },
   created() {
     // Se ejecuta cada vez que se crea el objeto VUE
-    this.fetchData(this.url);         
+    this.fetchData(this.url);
   },
 }).mount("#appAnime");
 
@@ -98,7 +99,7 @@ createApp({
   },
   created() {
     // Se ejecuta cada vez que se crea el objeto VUE
-    this.fetchData(this.url);         
+    this.fetchData(this.url);
   },
 }).mount("#appPersonajes");
 
@@ -132,7 +133,7 @@ createApp({
   },
   created() {
     // Se ejecuta cada vez que se crea el objeto VUE
-    this.fetchData(this.url);         
+    this.fetchData(this.url);
   },
 }).mount("#appRamos");
 
@@ -166,7 +167,6 @@ createApp({
   },
   created() {
     // Se ejecuta cada vez que se crea el objeto VUE
-    this.fetchData(this.url);         
+    this.fetchData(this.url);
   },
 }).mount("#appVarios");
-
