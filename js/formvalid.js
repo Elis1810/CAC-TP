@@ -39,9 +39,10 @@ const validateInputs = () => {
 }
 */
 function validationform(){
-    document.getElementById("errorp").innerHTML=""
+    document.getElementById("errorp").innerHTML="";
+    document.getElementById("errorpi").innerHTML="Error al enviar pedido:";
     if(document.formfill.nombrenew.value ==""){
-        document.getElementById("errorp").innerHTML="Por favor ingresa un nombre para enviar el mensaje";
+        document.getElementById("errorp").innerHTML=document.getElementById("errorp").innerHTML + "Por favor ingresa un nombre para enviar el mensaje";
         
     }
     if(document.formfill.apellidonew.value ==""){
@@ -49,7 +50,7 @@ function validationform(){
     
     }
     if(document.formfill.emailnew.value ==""){
-        document.getElementById("errorp").innerHTML=document.getElementById("errorp").innerHTML + "<br>ingresa un Email para contactarnos para enviar el mensaje";
+        document.getElementById("errorp").innerHTML=document.getElementById("errorp").innerHTML + "<br>ingresa un Email para poder contactarnos con vos";
     
     }
     if(document.formfill.telnew.value ==""){
@@ -60,5 +61,9 @@ function validationform(){
         document.getElementById("errorp").innerHTML=document.getElementById("errorp").innerHTML + "<br>Por favor ingresa un comentario para que podamos ayudarte cuando te contactemos";
     
     }
+    if (document.getElementById("errorp").innerHTML == ""){
+        document.getElementById("errorpi").innerHTML="";
+    }
+  
     return false;
 }

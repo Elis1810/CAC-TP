@@ -1028,8 +1028,8 @@ footer {
   /*background-image: url(../img/ice-cream-7123584_640.jpg);*/
   background-position: center;
   width: 85%;
-  height: 850px;
-  justify-content: center;
+  height: 750px;
+  justify-content: left;
   margin: 50px;
 }
 /*#formnew button{
@@ -1041,8 +1041,6 @@ background-color: brown;
 #formnew textarea{
 width: 85%;
 height: 150px;
-}
-#formfields{
 }
 
 #formnew input{
@@ -1061,7 +1059,7 @@ width: 60%;
   display: inline-block;
   justify-content: center;
   align-items: center;
-  margin-left: 70px;
+  margin-left: 15%;
   margin-bottom: 15px;
 }
 .input-control{
@@ -1069,14 +1067,14 @@ position: relative;
 display: flex;
 flex-direction: column;
 margin-left: 5px;
-align-items: center;
+align-items: right;
 
 }
 #formnew .input-control{
   position: relative;
   margin: 15px;
   width: 80%;
-  border-bottom: 2px solid white;
+  /*border-bottom: 2px solid white;*/
 }
 #formnew .input-contro input{
   width: 80%;
@@ -1090,9 +1088,19 @@ align-items: center;
   border-color: rgb(65, 125, 255);
 
 }
-#errorp{
+#errorp, #errorpi{
   color: yellow;
   font-weight:  600;
   position: relative;
   font-size: 16px;
+}
+#errorp{
+  margin-left: 15px;
+}
+.popup{
+  width: 400px;
+  top: 0;
+  background-color: red;
+text-align: center;
+
 }
