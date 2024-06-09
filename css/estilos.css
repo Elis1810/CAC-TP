@@ -1024,3 +1024,75 @@ footer {
 }
 
 /*fin carrito de compras*/
+#formnew{
+  /*background-image: url(../img/ice-cream-7123584_640.jpg);*/
+  background-position: center;
+  width: 85%;
+  height: 850px;
+  justify-content: center;
+  margin: 50px;
+}
+/*#formnew button{
+padding: 10px;
+margin-top: 10px;
+background-color: brown;
+
+}*/
+#formnew textarea{
+width: 85%;
+height: 150px;
+}
+#formfields{
+}
+
+#formnew input{
+border-radius: 4px;
+border-color: white;
+width: 60%;
+}
+.formdiv{
+  background-image: url(../img/ice-cream-7123584_640.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 50%;
+  height: 800px;
+  border: 4px;
+  border-radius: 20px;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  margin-left: 70px;
+  margin-bottom: 15px;
+}
+.input-control{
+position: relative;
+display: flex;
+flex-direction: column;
+margin-left: 5px;
+align-items: center;
+
+}
+#formnew .input-control{
+  position: relative;
+  margin: 15px;
+  width: 80%;
+  border-bottom: 2px solid white;
+}
+#formnew .input-contro input{
+  width: 80%;
+}
+.btnform{
+  color: white;
+  background-color: rgb(65, 125, 255);
+  width: 30%;
+  border-radius: 5px;
+  border: 2px;
+  border-color: rgb(65, 125, 255);
+
+}
+#errorp{
+  color: yellow;
+  font-weight:  600;
+  position: relative;
+  font-size: 16px;
+}
