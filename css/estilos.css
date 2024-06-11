@@ -1056,11 +1056,7 @@ width: 60%;
   height: 800px;
   border: 4px;
   border-radius: 20px;
-  display: inline-block;
-  justify-content: center;
-  align-items: center;
-  margin-left: 15%;
-  margin-bottom: 15px;
+  margin: auto;
 }
 .input-control{
 position: relative;
