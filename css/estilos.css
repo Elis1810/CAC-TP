@@ -1024,79 +1024,95 @@ footer {
 }
 
 /*fin carrito de compras*/
-#formnew{
+#formnew {
   /*background-image: url(../img/ice-cream-7123584_640.jpg);*/
   background-position: center;
   width: 85%;
-  height: 750px;
   justify-content: left;
-  margin: 50px;
-}
-/*#formnew button{
-padding: 10px;
-margin-top: 10px;
-background-color: brown;
-
-}*/
-#formnew textarea{
-width: 85%;
-height: 150px;
+  margin: 100px;
+  padding: 60px 20px 10px 10px;
 }
 
-#formnew input{
-border-radius: 4px;
-border-color: white;
-width: 60%;
+#formnew textarea {
+  width: 75%;
+  height: 150px;
 }
-.formdiv{
+
+#formnew input {
+  border-radius: 4px;
+  border-color: rgb(4, 2, 2);
+  width: 75%;
+}
+
+.formdiv {
   background-image: url(../img/ice-cream-7123584_640.jpg);
   background-size: cover;
   background-position: center;
-  width: 50%;
-  height: 800px;
+  width: 40%;
+  height: 700px;
   border: 4px;
   border-radius: 20px;
-  margin: auto;
+  margin: 0px 5px 20px 450px;
 }
-.input-control{
-position: relative;
-display: flex;
-flex-direction: column;
-margin-left: 5px;
-align-items: right;
+
+.input-control {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  align-items: right;
 
 }
-#formnew .input-control{
+
+#formnew .input-control {
   position: relative;
   margin: 15px;
   width: 80%;
-  /*border-bottom: 2px solid white;*/
+  
 }
-#formnew .input-contro input{
-  width: 80%;
+
+#formnew .input-contro input {
+  width: 70%;  
 }
-.btnform{
+
+.btnform {
   color: white;
   background-color: rgb(65, 125, 255);
-  width: 30%;
+  width: 25%;
+  margin-left: 15px;
   border-radius: 5px;
   border: 2px;
   border-color: rgb(65, 125, 255);
 
 }
-#errorp, #errorpi{
-  color: yellow;
-  font-weight:  600;
+
+#errorp,
+#errorpi {
+  color: rgb(232, 225, 16);
+  font-weight: 600;
   position: relative;
   font-size: 16px;
 }
-#errorp{
+
+#errorp {
   margin-left: 15px;
 }
-.popup{
+
+.popup {
   width: 400px;
   top: 0;
   background-color: red;
-text-align: center;
+  text-align: center;
+}
 
+.form-select {
+  max-width: 75%;
+  border-radius: 4px;
+  border-color: rgb(4, 2, 2);
+}
+
+.input-control {
+  max-width: 75%;
+  border-radius: 4px;
+  border-color: rgb(4, 2, 2);
 }
