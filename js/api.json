@@ -1,1232 +1,1232 @@
 [
     {
         "id": 1,
-        "nombre": "jirafa Tierna",
+        "nombre": "Jirafa Tierna",
         "precio": 6500,
-        "img": "img/amigurumis/51b25683-7dca-46c1-bb28-38c3857c0d82.jpeg",
+        "imagen": "img/amigurumis/51b25683-7dca-46c1-bb28-38c3857c0d82.jpeg",
         "tipo": "animales",
-        "Caracteristicas": "jirafas tejidas a crochet, colores a elección, hillo 100% algodón",
-        "peso": "155 gr",
-        "altura": "25 cm"
+        "caracteristicas": "jirafas tejidas a crochet, colores a eleccion, hillo 100% algodon",
+        "peso": "155",
+        "altura": "25"
     },
     {
         "id": 2,
         "nombre": "Zorro",
         "precio": 7500,
-        "img": "img/amigurumis/zorro.jpg",
+        "imagen": "img/amigurumis/zorro.jpg",
         "tipo": "animales",
-        "Caracteristicas": "zorro con bufanda, tejido a crochet, colores a elección, hillo 100% algodón ",
-        "peso": "145 gr",
-        "altura": "20 cms"
+        "caracteristicas": "zorro con bufanda, tejido a crochet, colores a eleccion, hillo 100% algodon ",
+        "peso": "145",
+        "altura": "20"
     },
     {
         "id": 3,
         "nombre": "Elefante",
         "precio": 8000,
-        "img": "img/amigurumis/4dab778a-ca7c-4be3-8d20-b6badaeed31c.jpeg",
+        "imagen": "img/amigurumis/4dab778a-ca7c-4be3-8d20-b6badaeed31c.jpeg",
         "tipo": "animales",
-        "Caracteristicas": "elefante tejido a crochet, colores a elección, hillo 100% algodón",
-        "peso": "350 gr",
-        "altura": "30 cms"
+        "caracteristicas": "elefante tejido a crochet, colores a eleccion, hillo 100% algodon",
+        "peso": "350",
+        "altura": "30s"
     },
     {
         "id": 4,
         "nombre": "Ratoncito",
         "precio": 4500,
-        "img": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.07.jpeg",
+        "imagen": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.07.jpeg",
         "tipo": "animales",
-        "Caracteristicas": "Ratoncito tejido a crochet, colores a elección, hillo 100% algodón",
-        "peso": "100 gr",
-        "altura": "15 cms"
+        "caracteristicas": "Ratoncito tejido a crochet, colores a eleccion, hillo 100% algodon",
+        "peso": "100",
+        "altura": "15s"
     },
     {
         "id": 5,
         "nombre": "Canario",
         "precio": 6000,
-        "img": " img/amigurumis/1ff645bc-d35c-4073-bcf2-38d2551ff2b8.jpg",
+        "imagen": " img/amigurumis/1ff645bc-d35c-4073-bcf2-38d2551ff2b8.jpg",
         "tipo": "animales",
-        "Caracteristicas": "canario amarillo con girasol tejido a crochet, hillo 100% algodón",
-        "peso": "110 gr",
-        "altura": "12 cms"
+        "caracteristicas": "canario amarillo con girasol tejido a crochet, hillo 100% algodon",
+        "peso": "110",
+        "altura": "12s"
     },
     {
         "id": 6,
         "nombre": "Gato jardinero",
         "precio": 7100,
-        "img": "img/amigurumis/3feb000f-8bd9-44d8-81dd-efd939ad12c3.jpeg",
+        "imagen": "img/amigurumis/3feb000f-8bd9-44d8-81dd-efd939ad12c3.jpeg",
         "tipo": "animales",
-        "Caracteristicas": " gato blanco con jardinero rosa tejido a crochet, colores a elección, hillo 100% algodón",
-        "peso": "160 gr",
-        "altura": "22 cms"
+        "caracteristicas": "gato blanco con jardinero rosa tejido a crochet, colores a eleccion, hillo 100% algodon",
+        "peso": "160",
+        "altura": "22"
     },
     {
         "id": 7,
         "nombre": "Tortuga Macetero",
         "precio": 8000,
-        "img": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.08 (1).jpeg",
+        "imagen": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.08 (1).jpeg",
         "tipo": "varios",
-        "Caracteristicas": "macetero con forma de tortuga y flores a elecion, tejido a crochet, colores a elección, hillo 100% algodón",
-        "peso": "350 gr",
-        "altura": "25 cms"
+        "caracteristicas": "macetero con forma de tortuga y flores a elecion, tejido a crochet, colores a eleccion, hillo 100% algodon",
+        "peso": "350",
+        "altura": "25"
     },
     {
         "id": 8,
-        "nombre": "Caballo Grande",
+        "nombre": "Caballo ande",
         "precio": 7500,
-        "img": "img/amigurumis/ef0daeec-6bb0-4acb-8422-04d282566869.jpeg",
+        "imagen": "img/amigurumis/ef0daeec-6bb0-4acb-8422-04d282566869.jpeg",
         "tipo": "animales",
-        "Caracteristicas": "caballo grande de 3 colores tejido a crochet, colores a elección, hillo 100% algodón",
-        "peso": "180 gr",
-        "altura": "35 cms"
+        "caracteristicas": "caballo ande de 3 colores tejido a crochet, colores a eleccion, hillo 100% algodon",
+        "peso": "180",
+        "altura": "35"
     },
     {
         "id": 9,
         "nombre": "Conejo con pijama",
         "precio": 6000,
-        "img": "img/amigurumis/conejitos.jpg",
+        "imagen": "img/amigurumis/conejitos.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Conejos blanco, tejido a crochet, colores a elección, hillo 100% algodón",
-        "peso": "130 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Conejos blanco, tejido a crochet, colores a eleccion, hillo 100% algodon",
+        "peso": "130",
+        "altura": "17"
     },
     {
         "id": 10,
-        "nombre": "Oso Grande",
+        "nombre": "Oso ande",
         "precio": 8500,
-        "img": "img/amigurumis/441494410_3183251468472395_208964932778723886_n.jpg",
+        "imagen": "img/amigurumis/441494410_3183251468472395_208964932778723886_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Oso de peluche con boina, tejido a crochet, colores a elección, hillo 100% algodón",
-        "peso": "250 gr",
-        "altura": "21 cms"
+        "caracteristicas": "Oso de peluche con boina, tejido a crochet, colores a eleccion, hillo 100% algodon",
+        "peso": "250",
+        "altura": "21"
     },
     {
         "id": 11,
         "nombre": "Mapache",
         "precio": 5200,
-        "img": "img/amigurumis/WhatsApp Image 2024-04-25 at 10.36.10.jpeg",
+        "imagen": "img/amigurumis/WhatsApp Image 2024-04-25 at 10.36.10.jpeg",
         "tipo": "animales",
-        "Caracteristicas": "Mapache con buzo bordo, tejido a crochet, colores a elección, hillo 100% algodón",
-        "peso": "160 gr",
-        "altura": "15 cms"
+        "caracteristicas": "Mapache con buzo bordo, tejido a crochet, colores a eleccion, hillo 100% algodon",
+        "peso": "160",
+        "altura": "15"
     },
     {
         "id": 12,
         "nombre": "Bunny",
         "precio": 3800,
-        "img": "img/amigurumis/436570688_454505600362320_8185578596321258828_n.jpg",
+        "imagen": "img/amigurumis/436570688_454505600362320_8185578596321258828_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Conejo con zanahoria, tejido a crochet, colores a elección, hillo 100% algodón",
-        "peso": "120 gr",
-        "altura": "13 cms"
+        "caracteristicas": "Conejo con zanahoria, tejido a crochet, colores a eleccion, hillo 100% algodon",
+        "peso": "120",
+        "altura": "13"
     },
     {
         "id": 13,
         "nombre": "Mafalda",
         "precio": 9500,
-        "img": "img/amigurumis/3f1cb4f2-eed4-40a0-9c14-efe2f4f8647b.jpeg",
+        "imagen": "img/amigurumis/3f1cb4f2-eed4-40a0-9c14-efe2f4f8647b.jpeg",
         "tipo": "personajes",
-        "Caracteristicas": "Personaje animado tejido a crochet, hillo 100% algodón",
-        "peso": "140 gr",
-        "altura": "18 cms"
+        "caracteristicas": "Personaje animado tejido a crochet, hillo 100% algodon",
+        "peso": "140",
+        "altura": "18"
     },
     {
         "id": 14,
         "nombre": "Shrek",
         "precio": 8600,
-        "img": "img/amigurumis/41ea8be9-97f9-43f9-9f86-df1ec9aedd42.jpeg",
+        "imagen": "img/amigurumis/41ea8be9-97f9-43f9-9f86-df1ec9aedd42.jpeg",
         "tipo": "personajes",
-        "Caracteristicas": "Shrek tejido a crochet, hillo 100% algodón",
-        "peso": "240 gr",
-        "altura": "24 cms"
+        "caracteristicas": "Shrek tejido a crochet, hillo 100% algodon",
+        "peso": "240",
+        "altura": "24"
     },
     {
         "id": 15,
         "nombre": "El chavo del 8",
         "precio": 7000,
-        "img": "img/amigurumis/cdf80059-0660-439d-b49a-2bfef507ffbc.jpeg",
+        "imagen": "img/amigurumis/cdf80059-0660-439d-b49a-2bfef507ffbc.jpeg",
         "tipo": "personajes",
-        "Caracteristicas": "El chavo tejido a crochet, hillo 100% algodón",
-        "peso": "200 gr",
-        "altura": "20 cms"
+        "caracteristicas": "El chavo tejido a crochet, hillo 100% algodon",
+        "peso": "200",
+        "altura": "20"
     },
     {
         "id": 16,
         "nombre": "Tomoe",
         "precio": 9500,
-        "img": "img/amigurumis/WhatsApp Image 2024-04-27 at 16.10.16.jpeg",
+        "imagen": "img/amigurumis/WhatsApp Image 2024-04-27 at 16.10.16.jpeg",
         "tipo": "anime",
-        "Caracteristicas": "Personaje animado tejido a crochet, hillo 100% algodón",
-        "peso": "160 gr",
-        "altura": "20 cms"
+        "caracteristicas": "Personaje animado tejido a crochet, hillo 100% algodon",
+        "peso": "160",
+        "altura": "20"
     },
     {
         "id": 17,
         "nombre": "Hollow Knight",
         "precio": 9000,
-        "img": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.11.jpeg",
+        "imagen": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.11.jpeg",
         "tipo": "anime",
-        "Caracteristicas": "Muñeco tejido a crochet, hillo 100% algodón",
-        "peso": "180 gr",
-        "altura": "10 cms"
+        "caracteristicas": "Muñeco tejido a crochet, hillo 100% algodon",
+        "peso": "180",
+        "altura": "10"
     },
     {
         "id": 18,
         "nombre": "katsuki",
         "precio": 4300,
-        "img": "img/amigurumis/4646fb28-60b1-4476-a3ca-198662111339.jpeg",
+        "imagen": "img/amigurumis/4646fb28-60b1-4476-a3ca-198662111339.jpeg",
         "tipo": "anime",
-        "Caracteristicas": "Personaje de la serie My Hero Academy tejido a crochet, hillo 100% algodón",
-        "peso": "165 gr",
-        "altura": "20 cms"
+        "caracteristicas": "Personaje de la serie My Hero Academy tejido a crochet, hillo 100% algodon",
+        "peso": "165",
+        "altura": "20"
     },
     {
         "id": 19,
         "nombre": "Luffy",
         "precio": 3700,
-        "img": "img/amigurumis/94b54d6b-1962-4d99-a077-505da80684e9.jpeg",
+        "imagen": "img/amigurumis/94b54d6b-1962-4d99-a077-505da80684e9.jpeg",
         "tipo": "anime",
-        "Caracteristicas": "Protagonista de la serie One Piece tejido a crochet, hillo 100% algodón",
-        "peso": "180 gr",
-        "altura": "21 cms"
+        "caracteristicas": "Protagonista de la serie One Piece tejido a crochet, hillo 100% algodon",
+        "peso": "180",
+        "altura": "21"
     },
     {
         "id": 20,
         "nombre": "Melody",
         "precio": 12000,
-        "img": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.08.jpeg",
+        "imagen": "img/amigurumis/WhatsApp Image 2024-04-09 at 11.23.08.jpeg",
         "tipo": "anime",
-        "Caracteristicas": "Personaje animado tejido a crochet, hillo 100% algodón",
-        "peso": "160 gr",
-        "altura": "18 cms"
+        "caracteristicas": "Personaje animado tejido a crochet, hillo 100% algodon",
+        "peso": "160",
+        "altura": "18"
     },
     {
         "id": 21,
         "nombre": "Mario Bross",
         "precio": 8600,
-        "img": "img/amigurumis/WhatsApp Image 2024-05-02 at 19.10.31 (1).jpeg",
+        "imagen": "img/amigurumis/WhatsApp Image 2024-05-02 at 19.10.31 (1).jpeg",
         "tipo": "personajes",
-        "Caracteristicas": "Personaje animado tejido a crochet, hillo 100% algodón",
-        "peso": "200 gr",
-        "altura": "15 cms"
+        "caracteristicas": "Personaje animado tejido a crochet, hillo 100% algodon",
+        "peso": "200",
+        "altura": "15"
     },
     {
         "id": 22,
-        "nombre": "Grinch",
+        "nombre": "inch",
         "precio": 8600,
-        "img": "img/amigurumis/e2b6fc67-d1db-4c03-9824-ac8887ea6bd3.jpeg",
+        "imagen": "img/amigurumis/e2b6fc67-d1db-4c03-9824-ac8887ea6bd3.jpeg",
         "tipo": "personajes",
-        "Caracteristicas": "Personaje animado tejido a crochet, hillo 100% algodón",
-        "peso": "220 gr",
-        "altura": "22 cms"
+        "caracteristicas": "Personaje animado tejido a crochet, hillo 100% algodon",
+        "peso": "220",
+        "altura": "22"
     },
     {
         "id": 23,
         "nombre": "Cascanueces",
         "precio": 13000,
-        "img": "img/amigurumis/WhatsApp Image 2024-04-26 at 19.20.27.jpeg",
+        "imagen": "img/amigurumis/WhatsApp Image 2024-04-26 at 19.20.27.jpeg",
         "tipo": "personajes",
-        "Caracteristicas": "Personaje animado tejido a crochet, hillo 100% algodón",
-        "peso": "210 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Personaje animado tejido a crochet, hillo 100% algodon",
+        "peso": "210",
+        "altura": "17"
     },
     {
         "id": 24,
         "nombre": "Ramo Tulipanes Rojos y flork",
         "precio": 5000,
-        "img": "img/amigurumis/WhatsApp Image 2024-04-28 at 09.26.33.jpeg",
+        "imagen": "img/amigurumis/WhatsApp Image 2024-04-28 at 09.26.33.jpeg",
         "tipo": "ramos",
-        "Caracteristicas": "Ramo de flores tejido a crochet, hillo 100% algodón",
-        "peso": "160 gr",
-        "altura": "15 cms"
+        "caracteristicas": "Ramo de flores tejido a crochet, hillo 100% algodon",
+        "peso": "160",
+        "altura": "15"
     },
     {
         "id": 25,
         "nombre": "Winnie Pooh y Piglet",
         "precio": 15000,
-        "img": "img/amigurumis/84cc75c6-787b-4913-9eae-74288699b66e.jpeg",
+        "imagen": "img/amigurumis/84cc75c6-787b-4913-9eae-74288699b66e.jpeg",
         "tipo": "personajes",
-        "Caracteristicas": "Personajes animados tejidos a crochet, hillo 100% algodón",
-        "peso": "300 gr",
-        "altura": "20 cms"
+        "caracteristicas": "Personajes animados tejidos a crochet, hillo 100% algodon",
+        "peso": "300",
+        "altura": "20"
     },
     {
         "id": 26,
         "nombre": "Messi",
         "precio": 10000,
-        "img": "img/amigurumis/420201093_7328487517245555_4529613669920779010_n.jpg",
+        "imagen": "img/amigurumis/420201093_7328487517245555_4529613669920779010_n.jpg",
         "tipo": "personajes",
-        "Caracteristicas": "Jugador de futbol con remera de la seleccion Argentina tejido a crochet, hillo 100% algodón",
-        "peso": "180 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Jugador de futbol con remera de la seleccion Argentina tejido a crochet, hillo 100% algodon",
+        "peso": "180",
+        "altura": "17"
     },
     {
         "id": 27,
         "nombre": "Messi",
         "precio": 10000,
-        "img": "img/amigurumis/438778156_1641881606573914_9171445858816905665_n.jpg",
+        "imagen": "img/amigurumis/438778156_1641881606573914_9171445858816905665_n.jpg",
         "tipo": "personajes",
-        "Caracteristicas": "Jugador de futbol con remera del Inter de Miami tejido a crochet, hillo 100% algodón",
-        "peso": "180 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Jugador de futbol con remera del Inter de Miami tejido a crochet, hillo 100% algodon",
+        "peso": "180",
+        "altura": "17"
     },
     {
         "id": 28,
         "nombre": "Cristiano Ronaldo",
         "precio": 10000,
-        "img": "img/amigurumis/432946332_1858358591333239_2244537054545680641_n.jpg",
+        "imagen": "img/amigurumis/432946332_1858358591333239_2244537054545680641_n.jpg",
         "tipo": "personajes",
-        "Caracteristicas": "Jugador de futbol con remera del Real Madrid tejido a crochet, hillo 100% algodón",
-        "peso": "200 gr",
-        "altura": "19 cms"
+        "caracteristicas": "Jugador de futbol con remera del Real Madrid tejido a crochet, hillo 100% algodon",
+        "peso": "200",
+        "altura": "19"
     },
     {
         "id": 29,
         "nombre": " Van Gogh",
         "precio": "6760",
-        "img": "img/amigurumis/WhatsApp Image 2024-04-26 at 12.38.03.jpeg",
+        "imagen": "img/amigurumis/WhatsApp Image 2024-04-26 at 12.38.03.jpeg",
         "tipo": "personajes",
-        "Caracteristicas": "muñeco de Vincent van Gogh, tejido a crochet, hilo 100% algodón",
-        "peso": "200 gr",
-        "altura": "20 cms"
+        "caracteristicas": "muñeco de Vincent van Gogh, tejido a crochet, hilo 100% algodon",
+        "peso": "200",
+        "altura": "20"
     },
     {
         "id": 30,
         "nombre": "Muñeco militar",
         "precio": "6600",
-        "img": "img/amigurumis/440409082_3687863084862602_3745173611959111760_n.jpg",
+        "imagen": "img/amigurumis/440409082_3687863084862602_3745173611959111760_n.jpg",
         "tipo": "otros",
-        "Caracteristicas": "Muñeco militar, tejido a crochet, hilo 100% algodón",
-        "peso": "185 gr",
-        "altura": "25 cms"
+        "caracteristicas": "Muñeco militar, tejido a crochet, hilo 100% algodon",
+        "peso": "185",
+        "altura": "25"
     },
     {
         "id": 31,
         "nombre": "Conejito",
         "precio": 6500,
-        "img": "img/amigurumis/422008576_2225361961134845_7097203683420699135_n.jpg",
+        "imagen": "img/amigurumis/422008576_2225361961134845_7097203683420699135_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Conejo con gorro tejido a crochet, hillo 100% algodón",
-        "peso": "170 gr",
-        "altura": "16 cms"
+        "caracteristicas": "Conejo con gorro tejido a crochet, hillo 100% algodon",
+        "peso": "170",
+        "altura": "16"
     },
     {
         "id": 32,
         "nombre": "Elefantito",
         "precio": 7800,
-        "img": "img/amigurumis/421946403_122191179140006237_1642575648036041048_n.jpg",
+        "imagen": "img/amigurumis/421946403_122191179140006237_1642575648036041048_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "elefante tejido a crochet, colores a elección, hillo 100% algodón",
-        "peso": "300 gr",
-        "altura": "20 cms"
+        "caracteristicas": "elefante tejido a crochet, colores a eleccion, hillo 100% algodon",
+        "peso": "300",
+        "altura": "20"
     },
     {
         "id": 33,
         "nombre": "Bunny con tutú",
         "precio": 8100,
-        "img": "img/amigurumis/422396157_1455226222090277_4472229502859020381_n.jpg",
+        "imagen": "img/amigurumis/422396157_1455226222090277_4472229502859020381_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Conejo con tutu tejido a crochet, hillo 100% algodón",
-        "peso": "150 gr",
-        "altura": "18 cms"
+        "caracteristicas": "Conejo con tutu tejido a crochet, hillo 100% algodon",
+        "peso": "150",
+        "altura": "18"
     },
     {
         "id": 34,
         "nombre": "Perry el ornitorrinco",
         "precio": 6550,
-        "img": "img/amigurumis/422566022_3692267980992359_6738235666618089994_n.jpg",
+        "imagen": "img/amigurumis/422566022_3692267980992359_6738235666618089994_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Perry de Phineas y Ferb tejido a crochet, hillo 100% algodón",
-        "peso": "220 gr",
-        "altura": "18 cms"
+        "caracteristicas": "Perry de Phineas y Ferb tejido a crochet, hillo 100% algodon",
+        "peso": "220",
+        "altura": "18"
     },
     {
         "id": 35,
         "nombre": "Lechuza verde y rosa",
         "precio": 4800,
-        "img": "img/amigurumis/425500730_25730400073210444_4529304278639833503_n.jpg",
+        "imagen": "img/amigurumis/425500730_25730400073210444_4529304278639833503_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Peluche tejido a crochet, colores a elección, hillo 100% algodón",
-        "peso": "170 gr",
-        "altura": "15 cms"
+        "caracteristicas": "Peluche tejido a crochet, colores a eleccion, hillo 100% algodon",
+        "peso": "170",
+        "altura": "15"
     },
     {
         "id": 36,
         "nombre": "Zorro",
         "precio": 6300,
-        "img": "img/amigurumis/430064126_1773580053108226_5003286481359679844_n.jpg",
+        "imagen": "img/amigurumis/430064126_1773580053108226_5003286481359679844_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Zorro de peluche tejido a crochet, hillo 100% algodón",
-        "peso": "200 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Zorro de peluche tejido a crochet, hillo 100% algodon",
+        "peso": "200",
+        "altura": "17"
     },
     {
         "id": 37,
         "nombre": "Perro piloto",
         "precio": 11000,
-        "img": "img/amigurumis/432244833_7710605922303172_3151865716003270767_n.jpg",
+        "imagen": "img/amigurumis/432244833_7710605922303172_3151865716003270767_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Perro piloto tejido a crochet, hillo 100% algodón",
-        "peso": "230 gr",
-        "altura": "18 cms"
+        "caracteristicas": "Perro piloto tejido a crochet, hillo 100% algodon",
+        "peso": "230",
+        "altura": "18"
     },
     {
         "id": 38,
         "nombre": "Jardinera",
         "precio": 6900,
-        "img": "img/amigurumis/440239031_1567670737355799_6612758257027329642_n.jpg",
+        "imagen": "img/amigurumis/440239031_1567670737355799_6612758257027329642_n.jpg",
         "tipo": "varios",
-        "Caracteristicas": "Peluche con jardinero verde tejido a crochet, hillo 100% algodón",
-        "peso": "240 gr",
-        "altura": "20 cms"
+        "caracteristicas": "Peluche con jardinero verde tejido a crochet, hillo 100% algodon",
+        "peso": "240",
+        "altura": "20"
     },
     {
         "id": 39,
         "nombre": "Dino Picapiedras",
         "precio": 5800,
-        "img": "img/amigurumis/431587556_7251980441589601_3892995005910568808_n.jpg",
+        "imagen": "img/amigurumis/431587556_7251980441589601_3892995005910568808_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Dinosaurio rosa con hueso tejido a crochet, hillo 100% algodón",
-        "peso": "350 gr",
-        "altura": "25 cms"
+        "caracteristicas": "Dinosaurio rosa con hueso tejido a crochet, hillo 100% algodon",
+        "peso": "350",
+        "altura": "25"
     },
     {
         "id": 40,
         "nombre": "Muñeca Lucy",
         "precio": 5350,
-        "img": "img/amigurumis/432473508_10163508633984942_6151140674968669640_n.jpg",
+        "imagen": "img/amigurumis/432473508_10163508633984942_6151140674968669640_n.jpg",
         "tipo": "varios",
-        "Caracteristicas": "Muñeco tejida a crochet, hillo 100% algodón",
-        "peso": "170 gr",
-        "altura": "20 cms"
+        "caracteristicas": "Muñeco tejida a crochet, hillo 100% algodon",
+        "peso": "170",
+        "altura": "20"
     },
     {
         "id": 41,
         "nombre": "Stich",
         "precio": 6200,
-        "img": "img/amigurumis/432758405_7207242596033005_2468976781594970242_n.jpg",
+        "imagen": "img/amigurumis/432758405_7207242596033005_2468976781594970242_n.jpg",
         "tipo": "personajes",
-        "Caracteristicas": "Personaje de pelicula Lilo y Stich tejido a crochet, hillo 100% algodón",
-        "peso": "150 gr",
-        "altura": "22 cms"
+        "caracteristicas": "Personaje de pelicula Lilo y Stich tejido a crochet, hillo 100% algodon",
+        "peso": "150",
+        "altura": "22"
     },
     {
         "id": 42,
         "nombre": "Stich",
         "precio": 6200,
-        "img": "img/amigurumis/432788376_766149268825935_3882192464395506257_n.jpg",
+        "imagen": "img/amigurumis/432788376_766149268825935_3882192464395506257_n.jpg",
         "tipo": "personajes",
-        "Caracteristicas": "Stich tejido a crochet, colores a elección, hillo 100% algodón",
-        "peso": "150 gr",
-        "altura": "18 cms"
+        "caracteristicas": "Stich tejido a crochet, colores a eleccion, hillo 100% algodon",
+        "peso": "150",
+        "altura": "18"
     },
     {
         "id": 43,
         "nombre": "Stich",
         "precio": 6200,
-        "img": "img/amigurumis/436332145_7378689418914746_4251613003013957431_n.jpg",
+        "imagen": "img/amigurumis/436332145_7378689418914746_4251613003013957431_n.jpg",
         "tipo": "personajes",
-        "Caracteristicas": "Personaje de pelicula Lilo y Stich tejido a crochet, hillo 100% algodón",
-        "peso": "150 gr",
-        "altura": "18 cms"
+        "caracteristicas": "Personaje de pelicula Lilo y Stich tejido a crochet, hillo 100% algodon",
+        "peso": "150",
+        "altura": "18"
     },
     {
         "id": 44,
         "nombre": "Stich chef",
         "precio": 6400,
-        "img": "img/amigurumis/438865644_389222890780271_6916486448558862437_n.jpg",
+        "imagen": "img/amigurumis/438865644_389222890780271_6916486448558862437_n.jpg",
         "tipo": "personajes",
-        "Caracteristicas": "Personaje de pelicula Lilo y Stich tejido a crochet, hillo 100% algodón",
-        "peso": "150 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Personaje de pelicula Lilo y Stich tejido a crochet, hillo 100% algodon",
+        "peso": "150",
+        "altura": "17"
     },
     {
         "id": 45,
-        "nombre": "León, Jirafa, Elefante y Mono",
+        "nombre": "Leon, Jirafa, Elefante y Mono",
         "precio": 24000,
-        "img": "img/amigurumis/432939781_122139879500104266_159204237938748476_n.jpg",
+        "imagen": "img/amigurumis/432939781_122139879500104266_159204237938748476_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Animales tejidos a crochet, hillo 100% algodón",
-        "peso": "220 gr",
-        "altura": "21 cms"
+        "caracteristicas": "Animales tejidos a crochet, hillo 100% algodon",
+        "peso": "220",
+        "altura": "21"
     },
     {
         "id": 46,
         "nombre": "Ada del bosque",
         "precio": "12450",
-        "img": "img/amigurumis/433258667_1873830876424012_6617254789289549883_n.jpg",
+        "imagen": "img/amigurumis/433258667_1873830876424012_6617254789289549883_n.jpg",
         "tipo": "varios",
-        "Caracteristicas": "",
-        "peso": "210 gr",
-        "altura": "32 cms"
+        "caracteristicas": "",
+        "peso": "210",
+        "altura": "32"
     },
     {
         "id": 47,
         "nombre": "Perro",
         "precio": 8500,
-        "img": "img/amigurumis/433435808_3781998362033373_6842984888788561563_n.jpg",
+        "imagen": "img/amigurumis/433435808_3781998362033373_6842984888788561563_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Perro tejido a crochet, hillo 100% algodón",
-        "peso": "170 gr",
-        "altura": "18 cms"
+        "caracteristicas": "Perro tejido a crochet, hillo 100% algodon",
+        "peso": "170",
+        "altura": "18"
     },
     {
         "id": 48,
         "nombre": "Ciervo",
         "precio": 5200,
-        "img": "img/amigurumis/433500985_25333912922889881_5383980595827788063_n.jpg",
+        "imagen": "img/amigurumis/433500985_25333912922889881_5383980595827788063_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Ciervo tejido a crochet, hillo 100% algodón",
-        "peso": "190 gr",
-        "altura": "20 cms"
+        "caracteristicas": "Ciervo tejido a crochet, hillo 100% algodon",
+        "peso": "190",
+        "altura": "20"
     },
     {
         "id": 49,
         "nombre": "Muñeca Mili",
         "precio": "10350",
-        "img": "img/amigurumis/439857294_963758218785723_6857576774534458284_n.jpg",
+        "imagen": "img/amigurumis/439857294_963758218785723_6857576774534458284_n.jpg",
         "tipo": "varios",
-        "Caracteristicas": "",
-        "peso": "185 gr",
-        "altura": "18 cms"
+        "caracteristicas": "",
+        "peso": "185",
+        "altura": "18"
     },
     {
         "id": 50,
         "nombre": "Perro dálmata",
         "precio": 5000,
-        "img": "img/amigurumis/434330526_7999207873427435_8644587131956759822_n.jpg",
+        "imagen": "img/amigurumis/434330526_7999207873427435_8644587131956759822_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Perro dalmata tejido a crochet, hillo 100% algodón",
-        "peso": "200 gr",
-        "altura": "18 cms"
+        "caracteristicas": "Perro dalmata tejido a crochet, hillo 100% algodon",
+        "peso": "200",
+        "altura": "18"
     },
     {
         "id": 51,
         "nombre": "Marchal paw patrol",
         "precio": 9100,
-        "img": "img/amigurumis/434664304_717189750489554_3798531402877290634_n.jpg",
+        "imagen": "img/amigurumis/434664304_717189750489554_3798531402877290634_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Perro bombero tejido a crochet, hillo 100% algodón",
-        "peso": "200 gr",
-        "altura": "18 cms"
+        "caracteristicas": "Perro bombero tejido a crochet, hillo 100% algodon",
+        "peso": "200",
+        "altura": "18"
     },
     {
         "id": 52,
         "nombre": "Mapache",
         "precio": 4700,
-        "img": "img/amigurumis/434681460_7647588201969948_7235946355614705541_n.jpg",
+        "imagen": "img/amigurumis/434681460_7647588201969948_7235946355614705541_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Mapache tejido a crochet, hillo 100% algodón",
-        "peso": "220 gr",
-        "altura": "19 cms"
+        "caracteristicas": "Mapache tejido a crochet, hillo 100% algodon",
+        "peso": "220",
+        "altura": "19"
     },
     {
         "id": 53,
         "nombre": "Arturo",
         "precio": 8500,
-        "img": "img/amigurumis/434685780_1402087303844909_1952523880733169916_n.jpg",
+        "imagen": "img/amigurumis/434685780_1402087303844909_1952523880733169916_n.jpg",
         "tipo": "personajes",
-        "Caracteristicas": "Personaje de pelicula Star Wars tejido a crochet, hillo 100% algodón",
-        "peso": "180 gr",
-        "altura": "14 cms"
+        "caracteristicas": "Personaje de pelicula Star Wars tejido a crochet, hillo 100% algodon",
+        "peso": "180",
+        "altura": "14"
     },
     {
         "id": 54,
         "nombre": "Kakashi",
         "precio": 9400,
-        "img": "img/amigurumis/434735284_10230104542150239_7790113861094776043_n.jpg",
+        "imagen": "img/amigurumis/434735284_10230104542150239_7790113861094776043_n.jpg",
         "tipo": "anime",
-        "Caracteristicas": "Personaje del anime Naruto tejido a crochet, hillo 100% algodón",
-        "peso": "230 gr",
-        "altura": "16 cms"
+        "caracteristicas": "Personaje del anime Naruto tejido a crochet, hillo 100% algodon",
+        "peso": "230",
+        "altura": "16"
     },
     {
         "id": 55,
         "nombre": "Payaso",
         "precio": 7300,
-        "img": "img/amigurumis/434872417_944845990700958_2165661306565852690_n.jpg",
+        "imagen": "img/amigurumis/434872417_944845990700958_2165661306565852690_n.jpg",
         "tipo": "varios",
-        "Caracteristicas": "Payaso tejido a crochet, hillo 100% algodón",
-        "peso": "200 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Payaso tejido a crochet, hillo 100% algodon",
+        "peso": "200",
+        "altura": "17"
     },
     {
         "id": 56,
-        "nombre": "Gato gris",
+        "nombre": "Gato is",
         "precio": 4600,
-        "img": "img/amigurumis/434970880_444996667906309_7504884224011064015_n.jpg",
+        "imagen": "img/amigurumis/434970880_444996667906309_7504884224011064015_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Gato tejido a crochet, hillo 100% algodón",
-        "peso": "180 gr",
-        "altura": "18 cms"
+        "caracteristicas": "Gato tejido a crochet, hillo 100% algodon",
+        "peso": "180 ",
+        "altura": "18s"
     },
     {
         "id": 57,
         "nombre": "Gato rosa",
         "precio": 4100,
-        "img": "img/amigurumis/434973490_10220548074766486_3209194914118003536_n.jpg",
+        "imagen": "img/amigurumis/434973490_10220548074766486_3209194914118003536_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Gato rosa tejido a crochet, hillo 100% algodón",
-        "peso": "150 gr",
-        "altura": "16 cms"
+        "caracteristicas": "Gato rosa tejido a crochet, hillo 100% algodon",
+        "peso": "150",
+        "altura": "16"
     },
     {
         "id": 58,
         "nombre": "Conejo",
         "precio": 3800,
-        "img": "img/amigurumis/435142237_457513746728172_394445446463664503_n.jpg",
+        "imagen": "img/amigurumis/435142237_457513746728172_394445446463664503_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Conejo tejido a crochet, hillo 100% algodón",
-        "peso": "185 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Conejo tejido a crochet, hillo 100% algodon",
+        "peso": "185",
+        "altura": "17"
     },
     {
         "id": 59,
         "nombre": "Coneja Sucy",
         "precio": "15000",
-        "img": "img/amigurumis/435154882_3626552817585179_5512246320442005489_n.jpg",
+        "imagen": "img/amigurumis/435154882_3626552817585179_5512246320442005489_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "conejita grande tejida a crochet, hillo 100% algodón",
-        "peso": "225 gr",
-        "altura": "40 cms"
+        "caracteristicas": "conejita ande tejida a crochet, hillo 100% algodon",
+        "peso": "225",
+        "altura": "40"
     },
     {
         "id": 60,
         "nombre": "Carpincho con bufanda",
         "precio": 5200,
-        "img": "img/amigurumis/437875779_7683467101774193_1490004823906619190_n.jpg",
+        "imagen": "img/amigurumis/437875779_7683467101774193_1490004823906619190_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Castor tejido a crochet, hillo 100% algodón",
-        "peso": "170 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Castor tejido a crochet, hillo 100% algodon",
+        "peso": "170",
+        "altura": "17"
     },
     {
         "id": 61,
         "nombre": "Pony",
         "precio": 5800,
-        "img": "img/amigurumis/435469450_3532254933691735_3038433746133799806_n.jpg",
+        "imagen": "img/amigurumis/435469450_3532254933691735_3038433746133799806_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Pony tejido a crochet, hillo 100% algodón",
-        "peso": "235 gr",
-        "altura": "19 cms"
+        "caracteristicas": "Pony tejido a crochet, hillo 100% algodon",
+        "peso": "235",
+        "altura": "19"
     },
     {
         "id": 62,
         "nombre": "Wednesday",
         "precio": "13000",
-        "img": "img/amigurumis/435498915_10232771222322332_655896382405192226_n.jpg",
+        "imagen": "img/amigurumis/435498915_10232771222322332_655896382405192226_n.jpg",
         "tipo": "personajes",
-        "Caracteristicas": "Muñeca Merlina, tejida a crochet, hilo 100% algodón",
-        "peso": "165 gr",
-        "altura": "28 cms"
+        "caracteristicas": "Muñeca Merlina, tejida a crochet, hilo 100% algodon",
+        "peso": "165",
+        "altura": "28"
     },
     {
         "id": 63,
-        "nombre": "Egresada",
+        "nombre": "Eesada",
         "precio": 14000,
-        "img": "img/amigurumis/435684941_10228893250789055_3941514923266208533_n.jpg",
+        "imagen": "img/amigurumis/435684941_10228893250789055_3941514923266208533_n.jpg",
         "tipo": "varios",
-        "Caracteristicas": "Egresada tejida a crochet, hillo 100% algodón",
-        "peso": "195 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Eesada tejida a crochet, hillo 100% algodon",
+        "peso": "195",
+        "altura": "17"
     },
     {
         "id": 64,
         "nombre": "Barbie",
         "precio": 9000,
-        "img": "img/amigurumis/437054748_7469938583074077_7691777918164832263_n.jpg",
+        "imagen": "img/amigurumis/437054748_7469938583074077_7691777918164832263_n.jpg",
         "tipo": "personajes",
-        "Caracteristicas": "Barbie tejida a crochet, hillo 100% algodón",
-        "peso": "200 gr",
-        "altura": "21 cms"
+        "caracteristicas": "Barbie tejida a crochet, hillo 100% algodon",
+        "peso": "200",
+        "altura": "21"
     },
     {
         "id": 65,
         "nombre": "Muñeca Any",
         "precio": "7950",
-        "img": "img/amigurumis/438030841_1603291013838641_4915351165779112138_n.jpg",
+        "imagen": "img/amigurumis/438030841_1603291013838641_4915351165779112138_n.jpg",
         "tipo": "varios",
-        "Caracteristicas": "Muñeca tejida a crochet con vici y bolso, colores a elecci{on, hilo 100% algodón",
-        "peso": "175 gr",
-        "altura": "15 cms"
+        "caracteristicas": "Muñeca tejida a crochet con vici y bolso, colores a elecci{on, hilo 100% algodon",
+        "peso": "175",
+        "altura": "15"
     },
     {
         "id": 66,
         "nombre": "Caperucita Roja",
         "precio": 8800,
-        "img": "img/amigurumis/438171104_10230311084694347_7250737895491156781_n.jpg",
+        "imagen": "img/amigurumis/438171104_10230311084694347_7250737895491156781_n.jpg",
         "tipo": "personajes",
-        "Caracteristicas": "Caperucita roja tejida a crochet, hillo 100% algodón",
-        "peso": "200 gr",
-        "altura": "19 cms"
+        "caracteristicas": "Caperucita roja tejida a crochet, hillo 100% algodon",
+        "peso": "200",
+        "altura": "19"
     },
     {
         "id": 67,
         "nombre": "Payasita",
         "precio": "8960",
-        "img": "img/amigurumis/438196760_10230311086454391_2076392699775058000_n.jpg",
+        "imagen": "img/amigurumis/438196760_10230311086454391_2076392699775058000_n.jpg",
         "tipo": "varios",
-        "Caracteristicas": "Muñeca tejida a crochet, hillo 100% algodón",
-        "peso": "170 gr",
-        "altura": "28 cms"
+        "caracteristicas": "Muñeca tejida a crochet, hillo 100% algodon",
+        "peso": "170",
+        "altura": "28"
     },
     {
         "id": 68,
-        "nombre": "Muñeca Gretel",
+        "nombre": "Muñeca etel",
         "precio": "9800",
-        "img": "img/amigurumis/438197109_10230311085814375_9107782316047552331_n.jpg",
+        "imagen": "img/amigurumis/438197109_10230311085814375_9107782316047552331_n.jpg",
         "tipo": "personajes",
-        "Caracteristicas": "Muñeca tejida a crochet, hillo 100% algodón",
-        "peso": "160 gr",
-        "altura": "19 cms"
+        "caracteristicas": "Muñeca tejida a crochet, hillo 100% algodon",
+        "peso": "160",
+        "altura": "19"
     },
     {
         "id": 69,
         "nombre": "Rapunzel",
         "precio": 10000,
-        "img": "img/amigurumis/440440135_1839914593116962_3007766330337820800_n.jpg",
+        "imagen": "img/amigurumis/440440135_1839914593116962_3007766330337820800_n.jpg",
         "tipo": "personajes",
-        "Caracteristicas": "Personaje de pelicula Enredados tejido a crochet, hillo 100% algodón",
-        "peso": "210 gr",
-        "altura": "15 cms"
+        "caracteristicas": "Personaje de pelicula Enredados tejido a crochet, hillo 100% algodon",
+        "peso": "210",
+        "altura": "15"
     },
     {
         "id": 70,
         "nombre": "Pollitos azul y rosa",
         "precio": 4600,
-        "img": "img/amigurumis/435875189_122138520254101464_1485954633680535041_n.jpg",
+        "imagen": "img/amigurumis/435875189_122138520254101464_1485954633680535041_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Pollitos tejidos a crochet, colores a eleccion, hillo 100% algodón",
-        "peso": "150 gr",
-        "altura": "12 cms"
+        "caracteristicas": "Pollitos tejidos a crochet, colores a eleccion, hillo 100% algodon",
+        "peso": "150",
+        "altura": "12"
     },
     {
         "id": 71,
         "nombre": "Oruga",
         "precio": 5000,
-        "img": "img/amigurumis/436221774_455747863571427_6534282504052770912_n.jpg",
+        "imagen": "img/amigurumis/436221774_455747863571427_6534282504052770912_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Oruga tejida a crochet, hillo 100% algodón",
-        "peso": "190 gr",
-        "altura": "25 cms"
+        "caracteristicas": "Oruga tejida a crochet, hillo 100% algodon",
+        "peso": "190",
+        "altura": "25"
     },
     {
         "id": 72,
         "nombre": "Elsa Frozen",
         "precio": 7700,
-        "img": "img/amigurumis/fdd1b82d-d044-4780-aded-12d8835f742b.jpeg",
+        "imagen": "img/amigurumis/fdd1b82d-d044-4780-aded-12d8835f742b.jpeg",
         "tipo": "personajes",
-        "Caracteristicas": "Personaje de Frozen tejida a crochet, hillo 100% algodón",
-        "peso": "195 gr",
-        "altura": "16 cms"
+        "caracteristicas": "Personaje de Frozen tejida a crochet, hillo 100% algodon",
+        "peso": "195",
+        "altura": "16"
     },
     {
         "id": 73,
         "nombre": "Woody y Jessie",
         "precio": 14500,
-        "img": "img/amigurumis/437380832_1906072676510956_6310408735616610221_n.jpg",
+        "imagen": "img/amigurumis/437380832_1906072676510956_6310408735616610221_n.jpg",
         "tipo": "personajes",
-        "Caracteristicas": "Personajes de Toy Story tejidos a crochet, hillo 100% algodón",
-        "peso": "200 gr",
-        "altura": "19 cms"
+        "caracteristicas": "Personajes de Toy Story tejidos a crochet, hillo 100% algodon",
+        "peso": "200",
+        "altura": "19"
     },
     {
         "id": 74,
         "nombre": "Pato",
         "precio": 3900,
-        "img": "img/amigurumis/437585312_1451093155498041_2630048355790043668_n.jpg",
+        "imagen": "img/amigurumis/437585312_1451093155498041_2630048355790043668_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Pato tejido a crochet, hillo 100% algodón",
-        "peso": "170 gr",
-        "altura": "20 cms"
+        "caracteristicas": "Pato tejido a crochet, hillo 100% algodon",
+        "peso": "170",
+        "altura": "20"
     },
     {
         "id": 75,
         "nombre": "Yoda",
         "precio": 5200,
-        "img": "img/amigurumis/440850533_10232816678622823_370723009754113993_n.jpg",
+        "imagen": "img/amigurumis/440850533_10232816678622823_370723009754113993_n.jpg",
         "tipo": "personajes",
-        "Caracteristicas": "Yoda tejido a crochet, hillo 100% algodón",
-        "peso": "180 gr",
-        "altura": "20 cms"
+        "caracteristicas": "Yoda tejido a crochet, hillo 100% algodon",
+        "peso": "180",
+        "altura": "20"
     },
     {
         "id": 76,
         "nombre": "Cebra",
         "precio": 4300,
-        "img": "img/amigurumis/438169142_122191178816006237_3087453152065882791_n.jpg",
+        "imagen": "img/amigurumis/438169142_122191178816006237_3087453152065882791_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Zebra tejida a crochet, hillo 100% algodón",
-        "peso": "260 gr",
-        "altura": "19 cms"
+        "caracteristicas": "Zebra tejida a crochet, hillo 100% algodon",
+        "peso": "260",
+        "altura": "19"
     },
     {
         "id": 77,
         "nombre": "Panda",
         "precio": 4600,
-        "img": "img/amigurumis/437904064_459851656494381_6678003043320282027_n.jpg",
+        "imagen": "img/amigurumis/437904064_459851656494381_6678003043320282027_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Panda tejido a crochet, hillo 100% algodón",
-        "peso": "310 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Panda tejido a crochet, hillo 100% algodon",
+        "peso": "310",
+        "altura": "17"
     },
     {
         "id": 78,
         "nombre": "Pikachu",
         "precio": 6300,
-        "img": "img/amigurumis/437959858_122102750066286241_8046668733400442067_n.jpg",
+        "imagen": "img/amigurumis/437959858_122102750066286241_8046668733400442067_n.jpg",
         "tipo": "anime",
-        "Caracteristicas": "Personaje de Pokemon tejido a crochet, hillo 100% algodón",
-        "peso": "200 gr",
-        "altura": "15 cms"
+        "caracteristicas": "Personaje de Pokemon tejido a crochet, hillo 100% algodon",
+        "peso": "200",
+        "altura": "15"
     },
     {
         "id": 79,
         "nombre": "Snorlax",
         "precio": 6000,
-        "img": "img/amigurumis/437382025_7394081440712344_5672764228043660703_n.jpg",
+        "imagen": "img/amigurumis/437382025_7394081440712344_5672764228043660703_n.jpg",
         "tipo": "anime",
-        "Caracteristicas": "Personaje de Pokemon tejido a crochet, hillo 100% algodón",
-        "peso": "350 gr",
-        "altura": "22 cms"
+        "caracteristicas": "Personaje de Pokemon tejido a crochet, hillo 100% algodon",
+        "peso": "350",
+        "altura": "22"
     },
     {
         "id": 80,
         "nombre": "Appa",
         "precio": 5900,
-        "img": "img/amigurumis/438095589_10226252893769900_3163511420598415382_n.jpg",
+        "imagen": "img/amigurumis/438095589_10226252893769900_3163511420598415382_n.jpg",
         "tipo": "anime",
-        "Caracteristicas": "Mascota de Avatar tejido a crochet, hillo 100% algodón",
-        "peso": "380 gr",
-        "altura": "25 cms"
+        "caracteristicas": "Mascota de Avatar tejido a crochet, hillo 100% algodon",
+        "peso": "380",
+        "altura": "25"
     },
     {
         "id": 81,
         "nombre": "Aguila",
         "precio": 4750,
-        "img": "img/amigurumis/438100173_10224860862610784_6597603841612019723_n.jpg",
+        "imagen": "img/amigurumis/438100173_10224860862610784_6597603841612019723_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Aguila tejida a crochet, hillo 100% algodón",
-        "peso": "260 gr",
-        "altura": "21 cms"
+        "caracteristicas": "Aguila tejida a crochet, hillo 100% algodon",
+        "peso": "260",
+        "altura": "21"
     },
     {
         "id": 82,
         "nombre": "Zorro",
         "precio": 3500,
-        "img": "img/amigurumis/438101409_122191178150006237_4574457807264795157_n.jpg",
+        "imagen": "img/amigurumis/438101409_122191178150006237_4574457807264795157_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "zorro con bufanda, tejido a crochet, hillo 100% algodón ",
-        "peso": "200 gr",
-        "altura": "18 cms"
+        "caracteristicas": "zorro con bufanda, tejido a crochet, hillo 100% algodon ",
+        "peso": "200",
+        "altura": "18"
     },
     {
         "id": 83,
         "nombre": "Cerdita con pijama",
         "precio": 4100,
-        "img": "img/amigurumis/438101474_1206948697132831_5724338961572962722_n.jpg",
+        "imagen": "img/amigurumis/438101474_1206948697132831_5724338961572962722_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Chancho tejido a crochet, hillo 100% algodón",
-        "peso": "315 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Chancho tejido a crochet, hillo 100% algodon",
+        "peso": "315",
+        "altura": "17"
     },
     {
         "id": 84,
-        "nombre": "Oso marrón",
+        "nombre": "Oso marron",
         "precio": 4400,
-        "img": "img/amigurumis/438101652_122191176782006237_6046754357248947188_n.jpg",
+        "imagen": "img/amigurumis/438101652_122191176782006237_6046754357248947188_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Oso con bufanda tejido a crochet, hillo 100% algodón",
-        "peso": "320 gr",
-        "altura": "22 cms"
+        "caracteristicas": "Oso con bufanda tejido a crochet, hillo 100% algodon",
+        "peso": "320",
+        "altura": "22"
     },
     {
         "id": 85,
-        "nombre": "Ratón",
+        "nombre": "Raton",
         "precio": 3400,
-        "img": "img/amigurumis/438119152_122191176008006237_7964595193217550946_n.jpg",
+        "imagen": "img/amigurumis/438119152_122191176008006237_7964595193217550946_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Raton tejido a crochet, hillo 100% algodón",
-        "peso": "150 gr",
-        "altura": "11 cms"
+        "caracteristicas": "Raton tejido a crochet, hillo 100% algodon",
+        "peso": "150",
+        "altura": "11"
     },
     {
         "id": 86,
-        "nombre": "Muñeca granjera",
+        "nombre": "Muñeca anjera",
         "precio": "10250",
-        "img": "img/amigurumis/438127733_122191179152006237_9101483692011225182_n.jpg",
+        "imagen": "img/amigurumis/438127733_122191179152006237_9101483692011225182_n.jpg",
         "tipo": "varios",
-        "Caracteristicas": "Muñeca granjerita tejida a crochet, hillo 100% algodón",
-        "peso": "200 gr",
-        "altura": "21 cms"
+        "caracteristicas": "Muñeca anjerita tejida a crochet, hillo 100% algodon",
+        "peso": "200",
+        "altura": "21"
     },
     {
         "id": 87,
         "nombre": "Vaca",
         "precio": 4200,
-        "img": "img/amigurumis/438128235_122191178162006237_5577672389184914160_n.jpg",
+        "imagen": "img/amigurumis/438128235_122191178162006237_5577672389184914160_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Vaca con bufanda tejida a crochet, hillo 100% algodón",
-        "peso": "290 gr",
-        "altura": "22 cms"
+        "caracteristicas": "Vaca con bufanda tejida a crochet, hillo 100% algodon",
+        "peso": "290",
+        "altura": "22"
     },
     {
         "id": 88,
         "nombre": "Coneja de orejas caidas",
         "precio": "15600",
-        "img": "img/amigurumis/438128535_122191179098006237_5142964424801521521_n.jpg",
+        "imagen": "img/amigurumis/438128535_122191179098006237_5142964424801521521_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Coneja de orejas caidas, tejida a crochet, hillo 100% algodón",
-        "peso": "250 gr",
-        "altura": "32 cms"
+        "caracteristicas": "Coneja de orejas caidas, tejida a crochet, hillo 100% algodon",
+        "peso": "250",
+        "altura": "32"
     },
     {
         "id": 89,
         "nombre": "Kuromi Oscura",
         "precio": "6450",
-        "img": "img/amigurumis/440962090_402909735972690_3930517929354118384_n.jpg",
+        "imagen": "img/amigurumis/440962090_402909735972690_3930517929354118384_n.jpg",
         "tipo": "anime",
-        "Caracteristicas": "Kuromi personaje de hello kitty, tejida a crochet, hilo 100% algodón",
-        "peso": "120 gr",
-        "altura": "15 cms"
+        "caracteristicas": "Kuromi personaje de hello kitty, tejida a crochet, hilo 100% algodon",
+        "peso": "120",
+        "altura": "15"
     },
     {
         "id": 90,
         "nombre": "Kuromi",
         "precio": "6450",
-        "img": "img/amigurumis/436298856_771674528272723_5922848813438166753_n.jpg",
+        "imagen": "img/amigurumis/436298856_771674528272723_5922848813438166753_n.jpg",
         "tipo": "anime",
-        "Caracteristicas": "Kuromi personaje de hello kitty, tejida a crochet, hilo 100% algodón",
-        "peso": "120 gr",
-        "altura": "18 cms"
+        "caracteristicas": "Kuromi personaje de hello kitty, tejida a crochet, hilo 100% algodon",
+        "peso": "120",
+        "altura": "18"
     },
     {
         "id": 91,
         "nombre": "Goku",
         "precio": 10500,
-        "img": "img/amigurumis/440850895_7419848108136748_6074013785321846705_n.jpg",
+        "imagen": "img/amigurumis/440850895_7419848108136748_6074013785321846705_n.jpg",
         "tipo": "anime",
-        "Caracteristicas": "Personaje de dragon ball tejido a crochet, hillo 100% algodón",
-        "peso": "200 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Personaje de dragon ball tejido a crochet, hillo 100% algodon",
+        "peso": "200",
+        "altura": "17"
     },
     {
         "id": 92,
         "nombre": "Vegeta",
         "precio": 10000,
-        "img": "img/amigurumis/439343003_3675459289371179_8168259857450901493_n.jpg",
+        "imagen": "img/amigurumis/439343003_3675459289371179_8168259857450901493_n.jpg",
         "tipo": "anime",
-        "Caracteristicas": "Personaje de dragon ball tejido a crochet, hillo 100% algodón",
-        "peso": "200 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Personaje de dragon ball tejido a crochet, hillo 100% algodon",
+        "peso": "200",
+        "altura": "17"
     },
     {
         "id": 93,
         "nombre": "Ajolote",
         "precio": "7250",
-        "img": "img/amigurumis/438301445_10232652275110242_6839530462440342433_n.jpg",
+        "imagen": "img/amigurumis/438301445_10232652275110242_6839530462440342433_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Ajolote rosa, tejido a crochet, hilo 100% algodón",
-        "peso": "225 gr",
-        "altura": "23 cms"
+        "caracteristicas": "Ajolote rosa, tejido a crochet, hilo 100% algodon",
+        "peso": "225",
+        "altura": "23"
     },
     {
         "id": 94,
-        "nombre": "Hongo negro",
+        "nombre": "Hongo neo",
         "precio": "3680",
-        "img": "img/amigurumis/438304173_25730402163210235_990575510548528113_n.jpg",
+        "imagen": "img/amigurumis/438304173_25730402163210235_990575510548528113_n.jpg",
         "tipo": "varios",
-        "Caracteristicas": "Hongo negro con cabeza roja, tejido a crochet, hilo 100% algodón",
-        "peso": "80 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Hongo neo con cabeza roja, tejido a crochet, hilo 100% algodon",
+        "peso": "80",
+        "altura": "17"
     },
     {
         "id": 95,
         "nombre": "Chimuelo",
         "precio": 7800,
-        "img": "img/amigurumis/440125647_3718663291709241_1140953059514110323_n.jpg",
+        "imagen": "img/amigurumis/440125647_3718663291709241_1140953059514110323_n.jpg",
         "tipo": "anime",
-        "Caracteristicas": "Personaje de Como entrenar a tu dragon tejido a crochet, hillo 100% algodón",
-        "peso": "350 gr",
-        "altura": "25 cms"
+        "caracteristicas": "Personaje de Como entrenar a tu dragon tejido a crochet, hillo 100% algodon",
+        "peso": "350",
+        "altura": "25"
     },
     {
         "id": 96,
         "nombre": "Perro con boina",
         "precio": 15000,
-        "img": "img/amigurumis/439310638_10233310033198011_4831224972264822596_n.jpg",
+        "imagen": "img/amigurumis/439310638_10233310033198011_4831224972264822596_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Perro con boina tejido a crochet, hillo 100% algodón",
-        "peso": "280 gr",
-        "altura": "35 cms"
+        "caracteristicas": "Perro con boina tejido a crochet, hillo 100% algodon",
+        "peso": "280",
+        "altura": "35"
     },
     {
         "id": 97,
         "nombre": "Chancho rosa",
         "precio": 4300,
-        "img": "img/amigurumis/438145666_122191179062006237_5202952417597443677_n.jpg",
+        "imagen": "img/amigurumis/438145666_122191179062006237_5202952417597443677_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Chancho tejido a crochet, hillo 100% algodón",
-        "peso": "330 gr",
-        "altura": "16 cms"
+        "caracteristicas": "Chancho tejido a crochet, hillo 100% algodon",
+        "peso": "330",
+        "altura": "16"
     },
     {
         "id": 98,
         "nombre": "Pajaro",
         "precio": 3700,
-        "img": "img/amigurumis/438159831_122191177382006237_1136892044702112293_n.jpg",
+        "imagen": "img/amigurumis/438159831_122191177382006237_1136892044702112293_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Pajaro tejido a crochet, hillo 100% algodón",
-        "peso": "165 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Pajaro tejido a crochet, hillo 100% algodon",
+        "peso": "165",
+        "altura": "17"
     },
     {
         "id": 99,
-        "nombre": "Mapache con corazón",
+        "nombre": "Mapache con corazon",
         "precio": 4400,
-        "img": "img/amigurumis/438162964_122191179038006237_5082561725291850915_n.jpg",
+        "imagen": "img/amigurumis/438162964_122191179038006237_5082561725291850915_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Mapache con corazon tejido a crochet, hillo 100% algodón",
-        "peso": "220 gr",
-        "altura": "19 cms"
+        "caracteristicas": "Mapache con corazon tejido a crochet, hillo 100% algodon",
+        "peso": "220",
+        "altura": "19"
     },
     {
         "id": 100,
         "nombre": "Duende",
         "precio": 4500,
-        "img": "img/amigurumis/438300594_979102337072638_7330847877716167593_n.jpg",
+        "imagen": "img/amigurumis/438300594_979102337072638_7330847877716167593_n.jpg",
         "tipo": "varios",
-        "Caracteristicas": "Duende tejido a crochet, hillo 100% algodón",
-        "peso": "180 gr",
-        "altura": "14 cms"
+        "caracteristicas": "Duende tejido a crochet, hillo 100% algodon",
+        "peso": "180",
+        "altura": "14"
     },
     {
         "id": "101",
         "nombre": "Ballena",
         "precio": 4700,
-        "img": "img/amigurumis/440414539_2094640310908944_6951953631116952547_n.jpg",
+        "imagen": "img/amigurumis/440414539_2094640310908944_6951953631116952547_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Ballena tejida a crochet, hillo 100% algodón",
-        "peso": "350 gr",
-        "altura": "20 cms"
+        "caracteristicas": "Ballena tejida a crochet, hillo 100% algodon",
+        "peso": "350",
+        "altura": "20"
     },
     {
         "id": "102",
         "nombre": "Caroline y Wybie",
         "precio": "22000",
-        "img": "img/amigurumis/438264024_7358336554282709_7469776521889394154_n.jpg",
+        "imagen": "img/amigurumis/438264024_7358336554282709_7469776521889394154_n.jpg",
         "tipo": "personajes",
-        "Caracteristicas": "Pareja caroline y Wybie, tejidos a crochet, hilo 100% algodón",
-        "peso": "420 gr",
-        "altura": "22 cms"
+        "caracteristicas": "Pareja caroline y Wybie, tejidos a crochet, hilo 100% algodon",
+        "peso": "420",
+        "altura": "22"
     },
     {
         "id": "103",
-        "nombre": "Aliens verde, gris y violeta",
+        "nombre": "Aliens verde, is y violeta",
         "precio": 17000,
-        "img": "img/amigurumis/439336272_6360277834097439_2137459936116901148_n.jpg",
+        "imagen": "img/amigurumis/439336272_6360277834097439_2137459936116901148_n.jpg",
         "tipo": "varios",
-        "Caracteristicas": "Aliens tejidos a crochet, colores a eleccion, hillo 100% algodón",
-        "peso": "165 gr",
-        "altura": "18 cms"
+        "caracteristicas": "Aliens tejidos a crochet, colores a eleccion, hillo 100% algodon",
+        "peso": "165",
+        "altura": "18"
     },
     {
         "id": "104",
         "nombre": "Mickey y Minnie",
         "precio": 16800,
-        "img": "img/amigurumis/439442243_7697392810318339_4315033962254637673_n.jpg",
+        "imagen": "img/amigurumis/439442243_7697392810318339_4315033962254637673_n.jpg",
         "tipo": "personajes",
-        "Caracteristicas": "Personajes tejidos a crochet, hillo 100% algodón",
-        "peso": "225 gr",
-        "altura": "15 cms"
+        "caracteristicas": "Personajes tejidos a crochet, hillo 100% algodon",
+        "peso": "225",
+        "altura": "15"
     },
     {
         "id": "105",
         "nombre": "Oveja",
         "precio": 4900,
-        "img": "img/amigurumis/440739899_122191175966006237_5305132891661629383_n.jpg",
+        "imagen": "img/amigurumis/440739899_122191175966006237_5305132891661629383_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Oveja tejida a crochet, hillo 100% algodón",
-        "peso": "280 gr",
-        "altura": "16 cms"
+        "caracteristicas": "Oveja tejida a crochet, hillo 100% algodon",
+        "peso": "280",
+        "altura": "16"
     },
     {
         "id": "106",
         "nombre": "Foca",
         "precio": 4500,
-        "img": "img/amigurumis/441156027_122191176374006237_8608273559589615578_n.jpg",
+        "imagen": "img/amigurumis/441156027_122191176374006237_8608273559589615578_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Foca tejida a crochet, hillo 100% algodón",
-        "peso": "290 gr",
-        "altura": "19 cms"
+        "caracteristicas": "Foca tejida a crochet, hillo 100% algodon",
+        "peso": "290",
+        "altura": "19"
     },
     {
         "id": "107",
         "nombre": "Hugo",
         "precio": 6200,
-        "img": "img/amigurumis/441331530_10227225107067863_1659829136225567463_n.jpg",
+        "imagen": "img/amigurumis/441331530_10227225107067863_1659829136225567463_n.jpg",
         "tipo": "personajes",
-        "Caracteristicas": "Hugo tejido a crochet, hillo 100% algodón",
-        "peso": "185 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Hugo tejido a crochet, hillo 100% algodon",
+        "peso": "185",
+        "altura": "17"
     },
     {
         "id": "108",
         "nombre": "Zorro",
         "precio": 5100,
-        "img": "img/amigurumis/441301784_960035192515371_8153803718739296417_n.jpg",
+        "imagen": "img/amigurumis/441301784_960035192515371_8153803718739296417_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Zorro tejido a crochet, hillo 100% algodón",
-        "peso": "220 gr",
-        "altura": "14 cms"
+        "caracteristicas": "Zorro tejido a crochet, hillo 100% algodon",
+        "peso": "220",
+        "altura": "14"
     },
     {
         "id": "109",
         "nombre": "Ciervo",
         "precio": 4800,
-        "img": "img/amigurumis/440855836_122191179074006237_525119141128596414_n.jpg",
+        "imagen": "img/amigurumis/440855836_122191179074006237_525119141128596414_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Ciervo tejido a crochet, hillo 100% algodón",
-        "peso": "195 gr",
-        "altura": "22 cms"
+        "caracteristicas": "Ciervo tejido a crochet, hillo 100% algodon",
+        "peso": "195",
+        "altura": "22"
     },
     {
         "id": "110",
         "nombre": "Perro",
         "precio": 4300,
-        "img": "img/amigurumis/441492249_10168410391570391_5774602560367403042_n.jpg",
+        "imagen": "img/amigurumis/441492249_10168410391570391_5774602560367403042_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Perro tejido a crochet, hillo 100% algodón",
-        "peso": "190 gr",
-        "altura": "16 cms"
+        "caracteristicas": "Perro tejido a crochet, hillo 100% algodon",
+        "peso": "190",
+        "altura": "16"
     },
     {
         "id": "111",
-        "nombre": "León",
+        "nombre": "Leon",
         "precio": 5900,
-        "img": "img/amigurumis/438717130_10160422635103073_581095115459853401_n.jpg",
+        "imagen": "img/amigurumis/438717130_10160422635103073_581095115459853401_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Leon tejido a crochet, hillo 100% algodón",
-        "peso": "230 gr",
-        "altura": "22 cms"
+        "caracteristicas": "Leon tejido a crochet, hillo 100% algodon",
+        "peso": "230",
+        "altura": "22"
     },
     {
         "id": "112",
         "nombre": "Pajarito",
         "precio": 3800,
-        "img": "img/amigurumis/440589694_3672688166352077_4298545673611868773_n.jpg",
+        "imagen": "img/amigurumis/440589694_3672688166352077_4298545673611868773_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Pajaro tejido a crochet, hillo 100% algodón",
-        "peso": "150 gr",
-        "altura": "13 cms"
+        "caracteristicas": "Pajaro tejido a crochet, hillo 100% algodon",
+        "peso": "150",
+        "altura": "13"
     },
     {
         "id": "113",
         "nombre": "Zorro",
         "precio": 4200,
-        "img": "img/amigurumis/440746695_773523888214097_6735781606338679686_n.jpg",
+        "imagen": "img/amigurumis/440746695_773523888214097_6735781606338679686_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Zorro de peluche tejido a crochet, hillo 100% algodón",
-        "peso": "185 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Zorro de peluche tejido a crochet, hillo 100% algodon",
+        "peso": "185",
+        "altura": "17"
     },
     {
         "id": "114",
         "nombre": "Tortuga",
         "precio": 4750,
-        "img": "img/amigurumis/441379027_2417308495134609_3660519612805082422_n.jpg",
+        "imagen": "img/amigurumis/441379027_2417308495134609_3660519612805082422_n.jpg",
         "tipo": "animales",
-        "Caracteristicas": "Tortuga bebe tejida a crochet, hillo 100% algodón",
-        "peso": "175 gr",
-        "altura": "12 cms"
+        "caracteristicas": "Tortuga bebe tejida a crochet, hillo 100% algodon",
+        "peso": "175",
+        "altura": "12"
     },
     {
         "id": "115",
         "nombre": "Rosas",
         "precio": 4200,
-        "img": "img/amigurumis/439985799_3338863636258346_3875010974478621383_n.jpg",
+        "imagen": "img/amigurumis/439985799_3338863636258346_3875010974478621383_n.jpg",
         "tipo": "ramos",
-        "Caracteristicas": "Ramo de flores tejido a crochet, hillo 100% algodón",
-        "peso": "150 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Ramo de flores tejido a crochet, hillo 100% algodon",
+        "peso": "150",
+        "altura": "17"
     },
     {
         "id": "116",
         "nombre": "Ramo Tulioanes amarillos",
         "precio": 4100,
-        "img": "img/amigurumis/441459846_816973216999444_6027953537771965099_n.jpg",
+        "imagen": "img/amigurumis/441459846_816973216999444_6027953537771965099_n.jpg",
         "tipo": "ramos",
-        "Caracteristicas": "Ramo de flores tejido a crochet, hillo 100% algodón",
-        "peso": "160 gr",
-        "altura": "17 cms"
+        "caracteristicas": "Ramo de flores tejido a crochet, hillo 100% algodon",
+        "peso": "160",
+        "altura": "17"
     },
     {
         "id": "117",
         "nombre": "Hortencias",
         "precio": 3500,
-        "img": "img/amigurumis/441950982_8176844235664895_7718408258068189568_n.jpg",
+        "imagen": "img/amigurumis/441950982_8176844235664895_7718408258068189568_n.jpg",
         "tipo": "ramos",
-        "Caracteristicas": "Diente de leon tejido a crochet, hillo 100% algodón",
-        "peso": "135 gr",
-        "altura": "11 cms"
+        "caracteristicas": "Diente de leon tejido a crochet, hillo 100% algodon",
+        "peso": "135",
+        "altura": "11"
     },
     {
         "id": "118",
         "nombre": "Girasol cerdito",
         "precio": 3800,
-        "img": "img/amigurumis/441330716_10224825860861254_2333186639936919017_n.jpg",
+        "imagen": "img/amigurumis/441330716_10224825860861254_2333186639936919017_n.jpg",
         "tipo": "ramos",
-        "Caracteristicas": "Girasol tejido a crochet, hillo 100% algodón",
-        "peso": "140 gr",
-        "altura": "15 cms"
+        "caracteristicas": "Girasol tejido a crochet, hillo 100% algodon",
+        "peso": "140",
+        "altura": "15"
     },
     {
         "id": "119",
         "nombre": "Ramo flores",
         "precio": 4300,
-        "img": "img/amigurumis/439879448_6957055891065093_3624870212703854986_n.jpg",
+        "imagen": "img/amigurumis/439879448_6957055891065093_3624870212703854986_n.jpg",
         "tipo": "ramos",
-        "Caracteristicas": "Ramo de flores tejido a crochet, hillo 100% algodón",
-        "peso": "155 gr",
-        "altura": "18 cms"
+        "caracteristicas": "Ramo de flores tejido a crochet, hillo 100% algodon",
+        "peso": "155",
+        "altura": "18"
     },
     {
         "id": "120",
         "nombre": "Ramo flores",
         "precio": 4500,
-        "img": "img/amigurumis/438239360_458811376562290_6269321330009199932_n.jpg",
+        "imagen": "img/amigurumis/438239360_458811376562290_6269321330009199932_n.jpg",
         "tipo": "ramos",
-        "Caracteristicas": "Ramo de flores tejido a crochet, hillo 100% algodón",
-        "peso": "175 gr",
-        "altura": "18 cms"
+        "caracteristicas": "Ramo de flores tejido a crochet, hillo 100% algodon",
+        "peso": "175",
+        "altura": "18"
     },
     {
         "id": "121",
         "nombre": "Ramo flores",
         "precio": 4400,
-        "img": "img/amigurumis/438159759_461234949809292_8251080334577682038_n.jpg",
+        "imagen": "img/amigurumis/438159759_461234949809292_8251080334577682038_n.jpg",
         "tipo": "ramos",
-        "Caracteristicas": "Ramo de flores tejido a crochet, hillo 100% algodón",
-        "peso": "145 gr",
-        "altura": "18 cms"
+        "caracteristicas": "Ramo de flores tejido a crochet, hillo 100% algodon",
+        "peso": "145",
+        "altura": "18"
     },
     {
         "id": "122",
         "nombre": "Lirio Celeste",
         "precio": 3900,
-        "img": "img/amigurumis/437961936_7346842762030544_7144895180193367634_n.jpg",
+        "imagen": "img/amigurumis/437961936_7346842762030544_7144895180193367634_n.jpg",
         "tipo": "ramos",
-        "Caracteristicas": "Flor azul tejida a crochet, hillo 100% algodón",
-        "peso": "155 gr",
-        "altura": "16 cms"
+        "caracteristicas": "Flor azul tejida a crochet, hillo 100% algodon",
+        "peso": "155",
+        "altura": "16"
     },
     {
         "id": "123",
         "nombre": "Ramo girasoles estilo Van Gohg",
         "precio": 4100,
-        "img": "img/amigurumis/437370465_7346841305364023_5235345114611681296_n.jpg",
+        "imagen": "img/amigurumis/437370465_7346841305364023_5235345114611681296_n.jpg",
         "tipo": "ramos",
-        "Caracteristicas": "Ramo de flores tejido a crochet, hillo 100% algodón",
-        "peso": "150 gr",
-        "altura": "18 cms"
+        "caracteristicas": "Ramo de flores tejido a crochet, hillo 100% algodon",
+        "peso": "150",
+        "altura": "18"
     }
 ]

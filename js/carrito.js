@@ -14,7 +14,7 @@ function generarTarjetas(datosProductos) {
   for (let producto of datosProductos) {
     cad += `
     <div class="tarjetas">
-        <img src="${producto.img}" alt="Producto ${producto.id}">
+        <img src="${producto.imagen}" alt="Producto ${producto.id}">
         <p>${producto.nombre}</p>
         <p>Precio: $${producto.precio}</p>
         <button class="boton-item" data-id="${producto.id}">Agregar al Carrito</button>

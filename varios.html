@@ -38,7 +38,7 @@
                 <div v-for="elemento in filteredDatos" :key="elemento.id" class="tarjetas">
                     <div v-if="error===true">Se produjo un error intente mas tarde</div>
                     <div v-else>
-                        <img :src="elemento.img" :alt="elemento.id">
+                        <img :src="elemento.imagen" :alt="elemento.id">
                         <p>{{elemento.nombre}}</p>
                         <p>${{elemento.precio}}</p>
                         <button class="boton-item" data-id="${producto.id}">Agregar al Carrito</button>
