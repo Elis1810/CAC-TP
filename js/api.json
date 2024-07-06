@@ -3,6 +3,7 @@
         "id": 1,
         "nombre": "Jirafa Tierna",
         "precio": 6500,
+        "stock": 0,
         "imagen": "img/amigurumis/51b25683-7dca-46c1-bb28-38c3857c0d82.jpeg",
         "tipo": "animales",
         "caracteristicas": "jirafas tejidas a crochet, colores a eleccion, hillo 100% algodon",
@@ -13,6 +14,7 @@
         "id": 2,
         "nombre": "Zorro",
         "precio": 7500,
+        "stock": 0,
         "imagen": "img/amigurumis/zorro.jpg",
         "tipo": "animales",
         "caracteristicas": "zorro con bufanda, tejido a crochet, colores a eleccion, hillo 100% algodon ",
@@ -23,11 +25,12 @@
         "id": 3,
         "nombre": "Elefante",
         "precio": 8000,
+        "stock": 0,
         "imagen": "img/amigurumis/4dab778a-ca7c-4be3-8d20-b6badaeed31c.jpeg",
         "tipo": "animales",
         "caracteristicas": "elefante tejido a crochet, colores a eleccion, hillo 100% algodon",
         "peso": "350",
-        "altura": "30s"
+        "altura": "30"
     },
     {
         "id": 4,
@@ -37,7 +40,7 @@
         "tipo": "animales",
         "caracteristicas": "Ratoncito tejido a crochet, colores a eleccion, hillo 100% algodon",
         "peso": "100",
-        "altura": "15s"
+        "altura": "15"
     },
     {
         "id": 5,

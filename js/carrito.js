@@ -1,4 +1,4 @@
-const rutaJSON = "./js/api.json"; // Cargar los datos del archivo JSON, creando la ruta
+const rutaJSON = "https://eli24177x.pythonanywhere.com/productos"; // Cargar los datos del archivo JSON, creando la ruta
 
 let datosProductos = []; // Definir una variable global para almacenar los datos del JSON
 
